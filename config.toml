@@ -1,0 +1,101 @@
+baseURL = "https://mariustimmer.de/"
+languageCode = "de"
+theme = "minimal"
+DefaultContentLanguage = "de"
+rssLimit = 10
+enableRobotsTXT = true
+
+[taxonomies]
+    Hugo = "Hugos"
+    Blog = "Blogs"
+    Server = "Server"
+    Markdown = "Markdown"
+    Stream = "Streams"
+    Technik = "Technik"
+
+[sitemap]
+    changefreq = "weekly"
+
+[languages]
+    [languages.en]
+        title = "Timmers blog"
+        languageName = "English"
+        description = "Personal blog of Marius Timmer"
+        copyright = "&copy; 2018 by Marius Timmer"
+        weight = 1
+        [[languages.en.menu.main]]
+            url = "/en/"
+            name = "Home"
+            weight = 1
+
+        [[languages.en.menu.main]]
+            url = "/post/"
+            name = "Posts"
+            weight = 2
+
+        [[languages.en.menu.main]]
+            url = "/en/references/"
+            name = "References"
+            weight = 3
+
+        [[languages.en.menu.main]]
+            url = "/en/aboutme/"
+            name = "About Me"
+            weight = 4
+
+        [[languages.en.menu.icon]]
+            url = "mailto:timmer@mariustimmer.no-ip.org"
+            name = "envelope-o"
+            weight = 1
+
+        [[languages.en.menu.icon]]
+            url = "https://github.com/mariustimmer/"
+            name = "github"
+            weight = 2
+
+    [languages.de]
+        title = "Timmers Blog"
+        languageName = "Deutsch"
+        description = "Persönlicher Blog von Marius Timmer"
+        copyright = "&copy; 2018 bei Marius Timmer"
+        weight = 2
+        [[languages.de.menu.main]]
+            url = "/"
+            name = "Start"
+            weight = 1
+
+        [[languages.de.menu.main]]
+            url = "/post/"
+            name = "Beiträge"
+            weight = 2
+
+        [[languages.de.menu.main]]
+            url = "/references/"
+            name = "Referenzen"
+            weight = 3
+
+        [[languages.de.menu.main]]
+            url = "/aboutme/"
+            name = "Über Mich"
+            weight = 4
+
+        [[languages.de.menu.icon]]
+            url = "mailto:timmer@mariustimmer.no-ip.org"
+            name = "envelope-o"
+            weight = 1
+
+        [[languages.de.menu.icon]]
+            url = "https://github.com/mariustimmer/"
+            name = "github"
+            weight = 2
+
+[params]
+    author = "Marius Timmer"
+    githubUsername = "#mariustimmer"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["php", "c", "bash", "xml"]
