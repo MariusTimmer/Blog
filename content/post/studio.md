@@ -5,6 +5,7 @@ description: "Weil mir in meinem Zimmer der Platz aus ging, bin ich in den Kelle
 tags: ["YouTube"]
 draft: false 
 keywords: ["Studio", "Video", "YouTube", "Keller"]
+Video: "oFTRDPY87cM"
 ---
 
 # Das neue Studio
@@ -17,5 +18,3 @@ Der Sinn eines GreenScreens ist es zwar, den Hintergrund auszublenden, so dass m
 
 # Das Problem mit dem Ton
 Damit ich nervige Hintergrundgeräusche oder auch den Hall eines leeren Raumes nicht in der Tonspur habe, habe ich mir vor einigen Wochen extra ein Ansteck-Mikrofon gekauft. Dieses Mikrofon hat leider einen 3,5 Jack Anschluss mit 3 Kanälen, wodurch ich nur in Kombination mit meinem Tablet aufnehmen kann. Die GoPro ist technisch zwar auch in der Lage externe Mikrofone zu verwalten, allerdings ist dafür zunächst ein USB (_Typ C_) Konverter im Wert von knapp 60 Euro nötig, was ich einfach nicht einsehe. Leider hat das Tablet bei meiner letzten Aufnahme allerdings vom falschen (_internen_) Mikrofon aufgenommen. Daher habe ich am Ende einfach die originale Tonspur der Kamera genommen. Nun weiß ich auf jeden Fall, dass ich nächste Woche darauf achten werden sollte.
-
-Ob mir das gelingt, könnt ihr dann ja selber sehen. Wenn es euch interessiert, könnt ihr [hier](https://www.youtube.com/watch?v=oFTRDPY87cM) zu dem Video mit dem [Umzug in den Keller](https://www.youtube.com/watch?v=oFTRDPY87cM) gelangen.

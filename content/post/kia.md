@@ -4,6 +4,7 @@ date: 2018-10-24T18:26:25+01:00
 tags: ["Auto"]
 draft: false
 keywords: ["Auto", "YouTube", "KIA", "Passat"]
+video: "0qAiSsmOeZc"
 ---
 
 # Mein neues Auto der KIA
@@ -15,6 +16,4 @@ Einen großen Haken hatte der Wagen allerdings, wie sich schon nach nur einer ha
 
 Zum Glück hatte meine Mutter mir ihren Wagen eine Woche lang geliehen, als sie selber im Urlaub war. Und das, obwohl ich noch wenige Wochen zuvor, einen kleine Zusammenstoß mit dem Wagen meines Vaters hatte, als ich den ausgeliehen hatte. Aber vergessen wir das einfach mal lieber.
 
-Das Schöne an dem KIA ist zweifelsohne, dass er eine schöne Lederausstattung und eine sehr schöne Musik-Anlage hat. Natürlich habe ich auch wieder einige Videos über diese Gesamtsituation gedreht und auf YouTube[1] hochgeladen.
-
-[1]: https://www.youtube.com/watch?v=0qAiSsmOeZc
+Das Schöne an dem KIA ist zweifelsohne, dass er eine schöne Lederausstattung und eine sehr schöne Musik-Anlage hat. Natürlich habe ich auch wieder einige Videos über diese Gesamtsituation gedreht und auf YouTube hochgeladen.
