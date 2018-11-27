@@ -45,7 +45,7 @@ enableRobotsTXT = true
             weight = 5
 
         [[languages.en.menu.icon]]
-            url = "mailto:timmer@mariustimmer.no-ip.org"
+            url = "mailto:admin@mariustimmer.de"
             name = "envelope-o"
             weight = 1
 
@@ -96,7 +96,7 @@ enableRobotsTXT = true
             weight = 5
 
         [[languages.de.menu.icon]]
-            url = "mailto:timmer@mariustimmer.no-ip.org"
+            url = "mailto:admin@mariustimmer.de"
             name = "envelope-o"
             weight = 1
 
