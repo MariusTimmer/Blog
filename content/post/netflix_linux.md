@@ -3,6 +3,7 @@ title: "Netflix unter GNU/Linux (Ubuntu)"
 author: "Marius Timmer"
 date: 2018-05-08T23:31:33+02:00
 draft: false
+keywords: ["Netflix", "Linux", "Chromium", "Chrome", "Firefox", "Ubuntu"]
 ---
 
 # Netflix und Linux (Ubuntu)

@@ -3,6 +3,7 @@ title: "Videoreihe 'Topster am Wochenende'"
 date: 2018-05-21T17:05:38+02:00
 draft: false
 tags: ["YouTube"]
+keywords: ["YouTube", "GoPro", "Topster"]
 ---
 
 Seit dem ich meine [GoPro](https://de.wikipedia.org/wiki/GoPro) besitze, bin ich immer wieder mit ihr unterwegs, um alles Mögliche aufzuzeichnen. Der Großteil des so entstehenden Video-Materials ist einfach nichts wert. Beispielsweise Autofahren; Gutes Schnittmaterial, aber so ganz ohne Inhalt doch eher langweilig. Darum habe ich mir vor einigen Wochen die Idee in den Kopf gesetzt, etwas mehr zu filmen. Wie beispielsweise die Dinge, dich ich so am Wochenende erlebe.

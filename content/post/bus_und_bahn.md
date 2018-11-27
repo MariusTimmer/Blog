@@ -3,6 +3,7 @@ title: "Bus und Bahn fahren macht Spaß"
 date: 2018-09-20T22:44:26+02:00
 draft: false
 tags: ["Auto"]
+keywords: ["YouTube", "Auto", "Bus", "Bahn"]
 ---
 
 # Bus und Bahn fahren macht Spaß

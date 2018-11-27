@@ -4,6 +4,7 @@ date: 2018-11-26T23:26:00+01:00
 description: "Weil mir in meinem Zimmer der Platz aus ging, bin ich in den Keller umgezogen"
 tags: ["YouTube"]
 draft: false 
+keywords: ["Studio", "Video", "YouTube", "Keller"]
 ---
 
 # Das neue Studio
