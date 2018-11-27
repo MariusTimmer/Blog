@@ -6,12 +6,8 @@ rssLimit = 10
 enableRobotsTXT = true
 
 [taxonomies]
-    Hugo = "Hugos"
-    Blog = "Blogs"
-    Server = "Server"
-    Markdown = "Markdown"
-    Stream = "Streams"
-    Technik = "Technik"
+    tag = "tags"
+    category = "categories"
 
 [sitemap]
     changefreq = "weekly"
@@ -34,14 +30,19 @@ enableRobotsTXT = true
             weight = 2
 
         [[languages.en.menu.main]]
+            url = "/polen_2018/"
+            name = "Poland"
+            weight = 3
+
+        [[languages.en.menu.main]]
             url = "/en/references/"
             name = "References"
-            weight = 3
+            weight = 4
 
         [[languages.en.menu.main]]
             url = "/en/aboutme/"
             name = "About Me"
-            weight = 4
+            weight = 5
 
         [[languages.en.menu.icon]]
             url = "mailto:timmer@mariustimmer.no-ip.org"
@@ -52,6 +53,16 @@ enableRobotsTXT = true
             url = "https://github.com/mariustimmer/"
             name = "github"
             weight = 2
+
+        [[languages.en.menu.icon]]
+            url = "https://twitch.tv/topster"
+            name = "twitch"
+            weight = 3
+
+        [[languages.de.menu.icon]]
+            url = "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA"
+            name = "youtube"
+            weight = 4
 
     [languages.de]
         title = "Timmers Blog"
@@ -70,14 +81,19 @@ enableRobotsTXT = true
             weight = 2
 
         [[languages.de.menu.main]]
+            url = "/polen_2018/"
+            name = "Polen"
+            weight = 3
+
+        [[languages.de.menu.main]]
             url = "/references/"
             name = "Referenzen"
-            weight = 3
+            weight = 4
 
         [[languages.de.menu.main]]
             url = "/aboutme/"
             name = "Über Mich"
-            weight = 4
+            weight = 5
 
         [[languages.de.menu.icon]]
             url = "mailto:timmer@mariustimmer.no-ip.org"
@@ -88,6 +104,16 @@ enableRobotsTXT = true
             url = "https://github.com/mariustimmer/"
             name = "github"
             weight = 2
+
+        [[languages.de.menu.icon]]
+            url = "https://twitch.tv/topster"
+            name = "twitch"
+            weight = 3
+
+        [[languages.de.menu.icon]]
+            url = "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA"
+            name = "youtube"
+            weight = 4
 
 [params]
     author = "Marius Timmer"

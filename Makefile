@@ -5,11 +5,13 @@ FTP_HOST=mariustimmer.de
 FTP_USERNAME=m.timmer
 FTP_PASSWORD_FILE=/home/timmer/.ftppassword
 
-build: ${SOURCE_DIRECTORY}
+clean:
+	rm -rf public/*
+
+build: clean ${SOURCE_DIRECTORY}
 	hugo
 
 install: build
-	#cp -pr ${BUILD_DIRECTORY}/* ${SERVER_DIRECTORY}/
 	ncftpput -R \
 		-u "${FTP_USERNAME}" \
 		-p "`cat ${FTP_PASSWORD_FILE}`" \
