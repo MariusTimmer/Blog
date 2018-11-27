@@ -1,8 +1,8 @@
 ---
 title: "Hallo Welt"
-date: 2018-03-09T11:13:38+01:00
+date: 2017-12-01T12:00:00+01:00
 author: "Marius Timmer"
-tags: [ "Hugo", "Markdown", "Blog" ]
+tags: [ "Hugo", "Markdown" ]
 draft: false
 ---
 

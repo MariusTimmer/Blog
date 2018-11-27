@@ -3,7 +3,7 @@ title: "Temperatur Cronjob"
 date: 2018-03-11T11:59:24+01:00
 draft: false
 author: "Marius Timmer"
-tags: ["Technik", "Raspberry Pi"]
+tags: ["Entwicklung", "Raspberry Pi"]
 ---
 
 Es ist kein Geheimnis, dass der Raspberry Pi eine bietet Menge Möglichkeiten bietet, diverse Sensoren anzuschließen und die erhobenen Daten zu verarbeiten. Bevor ich mir vor einiger Zeit ein richtiges Thermometer gekauft habe, war meine einzige Möglichkeit die Temperatur zu messen, die CPU Temperatur abzufragen. Diese ist in der Regel natürlich wesentlich höher als die Raumtemperatur, aber für kleine Versuche reicht es auf jeden Fall aus.

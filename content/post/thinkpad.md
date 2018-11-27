@@ -3,7 +3,7 @@ date = "2018-01-15T21:14:24+01:00"
 draft = false
 title = "Neues altes ThinkPad X200"
 author = "Marius Timmer"
-tags = ["ThinkPad", "Technik"]
+tags = ["ThinkPad"]
 +++
 
 Es ist kein großes Geheimnis, dass ich ein Liebhaber von guten alten ThinkPads bin. Nicht die der neuen Generationen, mit denen ich schon aus rein optischen Gründen nichts anfangen kann. Ich rede viel mehr von jenen, die es auch verkraften mal vom Tisch zu fallen. Jemand erzählte mir mal vor langer Zeit, dass er (_wie auch immer man das anstellt_) mit dem Auto über seines gefahren ist und es anschließend trotzdem noch tadellos funktionierte. Nun habe ich das weder jemals selber getestet, noch habe ich das Verlangen danach, es selber auszuprobieren. Wenn man sich aber die alten „Knochen“ ansieht, kann ich mir schon vorstellen dass da etwas dran ist. Mein größtes und damit auch schwerstes ThinkPad ist mein A31 von 2003 mit einer Größe von 15" und ganzen 3,5 Kilogramm Gewicht. Bevor das beim Herunterfallen kaputt geht, hat man eher ein Loch im Boden.
