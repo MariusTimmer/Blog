@@ -10,7 +10,7 @@ description: "A short overview"
 There isn't much to say about me. Most of the things are already told in my posts. I am Marius Timmer, born 1994 in [Westphalia](https://en.wikipedia.org/wiki/Westphalia), a region within west Germany.
 After finishing my apprenticeship to became a software developer (*aka Coder, Hacker or whatever*) I started my full time job at the University of Münster. When I am not at work or codeing private I like to travel with my friends having no certain target.
 
-![Me on a horse](/img/timmer_pferd.jpg)
+![Me on a horse](/img/timmer.jpg)
 
 
 ## About this Blog
