@@ -1,15 +1,19 @@
 +++
-date = "2018-03-10T12:28:24+01:00"
+date = "2019-01-29T20:26:17+01:00"
 draft = false
 title = "Referenzen"
 author = "Marius Timmer"
 +++
 
-## [Queueadmin-Plugin für OTRS](https://zivgitlab.uni-muenster.de/mtimm_01/OTRS_TemplateSignatureAddOn)
-Als Abschlussprojekt meiner Ausbildung schrieb ich ein Plugin für OTRS, welches die Mandantenfähigkeit bei der Verwaltung von Antwortvorlagen und E-Mail-Signaturen einführt. Es ermöglicht das Ernennen von sogenannten Queueadmins. Diese können dann unter einem neuen Eintrag im Hauptmenü ihre eigenen Antwortvorlagen und Signaturen nach ihren Wünschen anpassen.
+## OTRS Plugins
+Da wir bei uns [OTRS](https://de.wikipedia.org/wiki/Open_Technology_Real_Services) als Ticket-System einsetzen, habe ich im Laufe der letzten Jahre einige Erweiterungen geschrieben, welche alle auch genutzt werden:
 
-Weil mein Arbeitgeber (_Die Uni Münster_) und ich open source mögen, wurde das Projekt öffentlich bereit gestellt:  
-[ZIVgitLab project](https://zivgitlab.uni-muenster.de/mtimm_01/OTRS_TemplateSignatureAddOn)
+ - [Queueadmin](https://zivgitlab.uni-muenster.de/mtimm_01/OTRS_TemplateSignatureAddOn)-Erweiterung
+   Als Abschlussprojekt meiner Ausbildung schrieb ich die sogenannte Queueadmin-Erweiterung für OTRS, welche die Mandantenfähigkeit bei der Verwaltung von Antwortvorlagen und E-Mail-Signaturen einführt. Sie ermöglicht das Ernennen von sogenannten Queueadmins. Diese können dann unter einem neuen Eintrag im Hauptmenü ihre eigenen Antwortvorlagen und Signaturen nach ihren Wünschen anpassen.
+ - ExterneDaten-Erweiterung
+   Um unser OTRS mit bestehenden Drittsystem verbinden zu können, habe ich die ExterneDaten-Erweiterung geschrieben. Diese ermöglicht es den Bearbeitern beliebige Entitäten (_welche natürlich in der Datenbank vorliegen müssen [z.B. fdw]_) mit Tickets zu verknüpfen und so zur Problemlösung beizutragen.
+ - TicketExport-Erweiterung
+   Von Hause aus besitzt OTRS leider nur die Möglichkeit einzelne Tickets zu exportieren. Diese Erweiterung nutzt diesen Mechanismus einfach um alle Tickets einer Queue als PDF zu exportieren. Auch, wenn dies bei großen Queues unter Umständen mehrere Stunden dauern kann.
 
 ![OTRS Logo](/img/logo_otrs.png)
 
@@ -20,8 +24,8 @@ In meiner Ausbildung schrieb ich ein Frage- und Antwortsystem (FAQ). Hat ein Nut
 ![Sciebo Logo](/img/logo_sciebo.png)
 
 
-## [Explain Sort Order – Plugin bei PostgreSQL](https://www.postgresql.org/message-id/F4FF595C-D39D-4036-A446-57C91ABE6B31%40exchange.wwu.de)
-Für die PorstgreSQL-Datenbank war ich an einem Plugin beteiligt, welches die Ausgabe des EXPLAIN-Befehls um die Reihenfolge der abgearbeiteten Keys erweiterte.
+## PostgreSQL
+Ebenfalls durch meinen Beruf bin ich in der Entwicklung von [PostgreSQL](https://de.wikipedia.org/wiki/PostgreSQL) beteiligt. Dabei reviewe ich hin und wieder die eingereichten Patches anderer oder schreibe auch eigene bzw. anderer Patches weiter, wenn wir dies für unsere Zwecke gebrauchen können. Mein erstes eingereichtes Plugin war [ExplainSortOrder](https://www.postgresql.org/message-id/F4FF595C-D39D-4036-A446-57C91ABE6B31%40exchange.wwu.de), auch wenn dieses gegen Ende einfach vom Hauptentwickler noch einmal komplett überarbeitet wurde.
 
 ![PostgreSQL Logo](/img/logo_postgres.png)
 
