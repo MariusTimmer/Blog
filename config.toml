@@ -17,7 +17,7 @@ enableRobotsTXT = true
         title = "Timmers blog"
         languageName = "English"
         description = "Personal blog of Marius Timmer"
-        copyright = "&copy; 2018 by Marius Timmer"
+        copyright = "&copy; 2019 by Marius Timmer"
         weight = 1
         [[languages.en.menu.main]]
             url = "/en/"
@@ -68,7 +68,7 @@ enableRobotsTXT = true
         title = "Timmers Blog"
         languageName = "Deutsch"
         description = "Persönlicher Blog von Marius Timmer"
-        copyright = "&copy; 2018 bei Marius Timmer"
+        copyright = "&copy; 2019 bei Marius Timmer"
         weight = 2
         [[languages.de.menu.main]]
             url = "/"
