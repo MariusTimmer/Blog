@@ -9,11 +9,11 @@ author = "Marius Timmer"
 Da wir bei uns [OTRS](https://de.wikipedia.org/wiki/Open_Technology_Real_Services) als Ticket-System einsetzen, habe ich im Laufe der letzten Jahre einige Erweiterungen geschrieben, welche alle auch genutzt werden:
 
  - [Queueadmin](https://zivgitlab.uni-muenster.de/mtimm_01/OTRS_TemplateSignatureAddOn)-Erweiterung
-   Als Abschlussprojekt meiner Ausbildung schrieb ich die sogenannte Queueadmin-Erweiterung für OTRS, welche die Mandantenfähigkeit bei der Verwaltung von Antwortvorlagen und E-Mail-Signaturen einführt. Sie ermöglicht das Ernennen von sogenannten Queueadmins. Diese können dann unter einem neuen Eintrag im Hauptmenü ihre eigenen Antwortvorlagen und Signaturen nach ihren Wünschen anpassen.
+    - Als Abschlussprojekt meiner Ausbildung schrieb ich die sogenannte Queueadmin-Erweiterung für OTRS, welche die Mandantenfähigkeit bei der Verwaltung von Antwortvorlagen und E-Mail-Signaturen einführt. Sie ermöglicht das Ernennen von sogenannten Queueadmins. Diese können dann unter einem neuen Eintrag im Hauptmenü ihre eigenen Antwortvorlagen und Signaturen nach ihren Wünschen anpassen.
  - ExterneDaten-Erweiterung
-   Um unser OTRS mit bestehenden Drittsystem verbinden zu können, habe ich die ExterneDaten-Erweiterung geschrieben. Diese ermöglicht es den Bearbeitern beliebige Entitäten (_welche natürlich in der Datenbank vorliegen müssen [z.B. fdw]_) mit Tickets zu verknüpfen und so zur Problemlösung beizutragen.
+    - Um unser OTRS mit bestehenden Drittsystem verbinden zu können, habe ich die ExterneDaten-Erweiterung geschrieben. Diese ermöglicht es den Bearbeitern beliebige Entitäten (_welche natürlich in der Datenbank vorliegen müssen [z.B. fdw]_) mit Tickets zu verknüpfen und so zur Problemlösung beizutragen.
  - TicketExport-Erweiterung
-   Von Hause aus besitzt OTRS leider nur die Möglichkeit einzelne Tickets zu exportieren. Diese Erweiterung nutzt diesen Mechanismus einfach um alle Tickets einer Queue als PDF zu exportieren. Auch, wenn dies bei großen Queues unter Umständen mehrere Stunden dauern kann.
+    - Von Hause aus besitzt OTRS leider nur die Möglichkeit einzelne Tickets zu exportieren. Diese Erweiterung nutzt diesen Mechanismus einfach um alle Tickets einer Queue als PDF zu exportieren. Auch, wenn dies bei großen Queues unter Umständen mehrere Stunden dauern kann.
 
 ![OTRS Logo](/img/logo_otrs.png)
 
