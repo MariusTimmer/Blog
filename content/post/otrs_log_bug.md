@@ -1,5 +1,6 @@
 ---
-title: "OTRS ignoriert fehlende Datenbank-Berechtigungen im System-Protokoll"
+title: "OTRS-Bug beim System-Protokoll?"
+description: "Fehlende Berechtigung in Datenbank wird nicht Protokolliert"
 date: 2019-01-28T23:00:00+01:00
 tags: ["Technik", "OTRS"]
 draft: false

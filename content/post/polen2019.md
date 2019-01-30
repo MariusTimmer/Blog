@@ -1,6 +1,7 @@
 ---
-title: "Frohes Neues!"
-date: 2019-01-16T18:30:00:00+01:00
+title: "Frohes Neues"
+description: "Wie wir in das Neue Jahr gekommen sind"
+date: 2019-01-16T18:30:00+01:00
 tags: ["Reisen", "Abenteuer"]
 draft: false
 keywords: ["Urlaub", "Silvester", "Reisen", "Polen", "Tschechien", "Breslau"]

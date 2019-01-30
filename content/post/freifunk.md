@@ -2,7 +2,7 @@
 title: "Freifunk"
 date: 2018-12-03T23:00:00+01:00
 tags: ["Technik"]
-draft: true
+draft: false
 keywords: ["Freifunk", "YouTube", "Mesh-Netzwerk"]
 video: "Yacy8TDXmH4"
 ---

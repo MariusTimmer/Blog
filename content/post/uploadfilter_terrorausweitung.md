@@ -1,5 +1,6 @@
 ---
-title: "Uploadfilter - Jetzt auch gegen Terror"
+title: "Uploadfilter"
+description: "Jetzt auch gegen Terror"
 date: 2019-01-29T19:00:00+01:00
 tags: ["Technik", "Politik"]
 draft: false
