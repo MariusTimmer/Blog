@@ -2,6 +2,7 @@
 date = "2019-01-29T20:26:17+01:00"
 draft = false
 title = "Referenzen"
+description: "Was ich bisher so gemacht habe"
 author = "Marius Timmer"
 +++
 
@@ -32,5 +33,5 @@ In meiner Ausbildung schrieb ich ein Frage- und Antwortsystem (FAQ). Hat ein Nut
 Ebenfalls durch meinen Beruf bin ich in der Entwicklung von [PostgreSQL](https://de.wikipedia.org/wiki/PostgreSQL) beteiligt. Dabei reviewe ich hin und wieder die eingereichten Patches anderer oder schreibe auch eigene bzw. anderer Patches weiter, wenn wir dies für unsere Zwecke gebrauchen können. Mein erstes eingereichtes Plugin war [ExplainSortOrder](https://www.postgresql.org/message-id/F4FF595C-D39D-4036-A446-57C91ABE6B31%40exchange.wwu.de), auch wenn dieses gegen Ende einfach vom Hauptentwickler noch einmal komplett überarbeitet wurde.
 
 
-## Einsatzstellen-Tagebuch und Atemschutz-Programm für die Freiwillige Feuerwehr Havixbeck
-kKurz nach dem Abitur schrieb ich für die Freiwillige Feuerwehr in Havixbeck zwei Programme. Das erste war ausschließlich zur Protokollierung der Ereignisse während eines Einsatzes (_EST_). Das andere sollte die Männer im Einsatzstellenfahrzeug ergänzend warnen, wenn ein Trupp zu lange im Einsatz war und Gefahr laufen, bald keinen Sauerstoff mehr in den Gasflaschen zu haben.
+## Freiwillige Feuerwehr Havixbeck
+Kurz nach dem Abitur schrieb ich für die Freiwillige Feuerwehr in Havixbeck zwei Programme. Das erste war ausschließlich zur Protokollierung der Ereignisse während eines Einsatzes (_EST_). Das andere sollte die Männer im Einsatzstellenfahrzeug ergänzend warnen, wenn ein Trupp zu lange im Einsatz war und Gefahr laufen, bald keinen Sauerstoff mehr in den Gasflaschen zu haben.
