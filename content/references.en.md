@@ -2,7 +2,6 @@
 date = "2019-01-29T20:26:17+01:00"
 draft = false
 title = "References"
-description: "What I did in the past"
 author = "Marius Timmer"
 +++
 
