@@ -59,7 +59,7 @@ enableRobotsTXT = true
             name = "twitch"
             weight = 3
 
-        [[languages.de.menu.icon]]
+        [[languages.en.menu.icon]]
             url = "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA"
             name = "youtube"
             weight = 4
