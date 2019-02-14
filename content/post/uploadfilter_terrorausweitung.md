@@ -26,6 +26,13 @@ Natürlich sind meine Befürchtungen erst einmal nicht mehr als eben nur das: Be
 Praktischerweise ist das hier mein persönlicher Blog, in dem ich die Inhalte selber bestimme. Wenn du willst, kannst du mir gerne schreiben um eine Diskusion zu starten oder Erweiterungen an dieser Stelle posten zu lassen. Wenn dir meine Meinung aber einfach nur nicht passt und du rumstänkern willst, kannst du dir ja gerne selber einen Blog auf machen und es dort kund tun.
 
 
+## Update 14. Feb. 2019
+
+> Verhandlungsführer des EU-Parlaments, des Rates und der Kommission haben sich am Mittwochabend auf einen Deal rund um die Urheberrechtsreform verständigt.[6]
+
+Damit sieht es wohl sehr danach aus, als ob das Leistungsschutzrecht in seiner neuen Form kommen wird und auch die befürchteten Upload-Filter bringt. Jetzt müssen nur noch die Mitgliedsstaaten und das Parlament final zustimmen, können aber auch noch Änderungsanträge einbringen. Ich vermute aber mal, dass da nicht mehr viel zu erwarten sein wird. Aber ich lasse mich da gerne überraschen.[7]
+
+
 
 
 [1]: https://de.wikipedia.org/wiki/Upload-Filter#Geplante_EU-Urheberrechtsreform_2018/2019
@@ -33,3 +40,5 @@ Praktischerweise ist das hier mein persönlicher Blog, in dem ich die Inhalte se
 [3]: http://www.spiegel.de/netzwelt/netzpolitik/google-news-in-spanien-abgeschaltet-kein-geld-fuer-verlage-a-1009027.html
 [4]: https://netzpolitik.org/2018/das-leistungsschutzrecht-ein-zombie-gesetz-aus-deutschland-wird-bald-in-ganz-europa-realitaet/
 [5]: https://netzpolitik.org/2019/uploadfilter-gegen-terroristische-online-inhalte-wie-das-eu-parlament-um-seine-position-ringt/
+[6]: https://www.heise.de/newsticker/meldung/Upload-Filter-und-Leistungsschutzrecht-EU-Gremien-einigen-sich-auf-Copyright-Reform-4308720.html
+[7]: https://www.tagesschau.de/ausland/eu-urheberrechtsreform-101.html
