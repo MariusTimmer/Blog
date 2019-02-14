@@ -1,10 +1,11 @@
 ---
-title: "Uploadfilter"
+title: "Uploadfilter (Update)"
 description: "Jetzt auch gegen Terror"
-date: 2019-01-29T19:00:00+01:00
+date: 2019-02-14T10:43:00+01:00
 tags: ["Technik", "Politik"]
 draft: false
-keywords: ["Technik", "Politik", "Uploadfilter", "EU", "Terror"]
+keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Terror"]
+video: "DrpBkcX55oo"
 ---
 
 ## Stand der Dinge
