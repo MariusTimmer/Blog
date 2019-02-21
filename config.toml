@@ -10,7 +10,7 @@ enableRobotsTXT = true
     category = "categories"
 
 [sitemap]
-    changefreq = "weekly"
+    changefreq = "daily"
 
 [languages]
     [languages.en]
@@ -25,7 +25,7 @@ enableRobotsTXT = true
             weight = 1
 
         [[languages.en.menu.main]]
-            url = "/post/"
+            url = "/en/post/"
             name = "Posts"
             weight = 2
 
@@ -68,7 +68,7 @@ enableRobotsTXT = true
         title = "Timmers Blog"
         languageName = "Deutsch"
         description = "Persönlicher Blog von Marius Timmer"
-        copyright = "&copy; 2019 bei Marius Timmer"
+        copyright = "&copy; 2019 durch Marius Timmer"
         weight = 2
         [[languages.de.menu.main]]
             url = "/"
