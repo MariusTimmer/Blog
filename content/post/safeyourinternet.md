@@ -29,7 +29,7 @@ welcher die ganze Sache ursprünglich vor zwei Jahren ins Rollen gebracht
 hat:
 
 > Sehr geehrter Herr Voss,
-> 
+>
 > mein Name ist Marius Timmer (24 Jahre) und ich komme aus dem schönen
 > Münsterland. Schon seit einiger Zeit verfolge ich Ihre Arbeit auf
 > europäischer Ebene auch bezüglich des Leistungsschutzrechtes. Wie alle
@@ -38,7 +38,7 @@ hat:
 > von YouTube-Videos und meinem eigenen Blog zu beteiligen. Daher würde
 > mich das geplante Leistungsschutzrecht in der derzeitigen Form
 > betreffen, weswegen ich Ihnen nun schreibe.
-> 
+>
 > Dass Journalisten, Autoren, Schauspieler und alle anderen Kreativen für
 > ihre Arbeit gerecht bezahlt werden sollen steht außer Frage. Allerdings
 > ist es auch zum jetzigen Zeitpunkt schon verboten, urheberrechtlich
@@ -55,7 +55,7 @@ hat:
 > zumindest die Vergangenheit bei den weltweit größten Filtern gezeigt.
 > Und wenn die es nicht richtig hin bekommen, wird es niemand schaffen
 > einen Algorithmus zu entwickeln, der eine akzeptable Fehlerquote hat.
-> 
+>
 > Außerdem ist nicht zu vernachlässigen, dass die Einsatzgebiete solcher
 > Filter schnell beliebig ausgeweitet werden könnte. Zum aktuellen
 > Zeitpunkt mag es dazu noch keine Pläne geben und es klingt auch
@@ -64,7 +64,7 @@ hat:
 > auch hier mehr Macht bekommen und eines Tages bestimmen können, was
 > gefiltert werden soll. Wenn ein derartiger Mechanismus einmal existiert,
 > kann er beliebig angepasst werden.
-> 
+>
 > Gestern habe ich ein Wahlplakat der CDU gesehen. Es trug die Aufschrift:
 > "Europa muss man richtig machen" - In den Augen der jungen Wähler wäre
 > das Leistungsschutzrecht in seiner aktuellen Form auf jeden Fall ein
@@ -72,13 +72,13 @@ hat:
 > Daher, aber auch aus Sorge um unsere Demokratie und unser geliebtes
 > Europa, bitte ich Sie, Ihre Entscheidung zum Leistungsschutzrecht noch
 > einmal zu überdenken.
-> 
-> 
+>
+>
 > Mit freundlichen Grüßen,
-> 
+>
 > Marius Timmer
-> 
-> 
+>
+>
 > P.S.: Entgegen der Aussage von Herrn Sven Schulze bin ich fest davon
 > überzeugt, dass die vielen eintreffenden Nachrichten und Appelle von
 > jungen Menschen wie mir stammen und nicht von automatisierten Programmen
@@ -86,6 +86,30 @@ hat:
 > ich mir ziemlich sicher, dass es sich nicht um Fakenews handelt.
 
 
-### Antworten
+### Antwort von Markus Ferber (_CSU_)
 
-_Ich erhoffe in den nächsten Tagen welche zu bekommen_
+> Sehr geehrter Herr Timmer,
+>
+> haben Sie vielen Dank für Ihre Zuschrift zur Urheberrechtsreform, in der
+> Sie Ihre Bedenken, insbesondere bezüglich Artikel 11 und 13, äußern.
+>
+> Wie Sie vielleicht wissen, haben sich Vertreter der Kommission, des Rates
+> und des Europäischen Parlaments am 13. Februar auf einen Kompromiss zur
+> Urheberrechtsreform geeinigt. Nun wird diese politische Einigung von den
+> Sprachjuristen überprüft, als Rechtstext verfasst und anschließend in alle
+> Amtssprachen übersetzt.
+>
+> Erst dann liegt der finale Gesetzestext vor, der schließlich erneut von Rat
+> und Parlament bestätigt werden muss. Ich werde den Text eingehend prüfen,
+> sobald er mir vorliegt.
+>
+> Einstweilen nehme ich Ihre Bedenken zur Kenntnis und werde sie für die finale
+> Abstimmung, deren Zeitpunkt noch nicht feststeht, im Hinterkopf behalten.
+>
+> Für Ihre Ansichten zu diesem wichtigen Thema bedanke ich mich ganz herzlich
+> und verbleibe
+>
+> mit freundlichen Grüßen
+>
+>
+> Markus Ferber, MdEP
