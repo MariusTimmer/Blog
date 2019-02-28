@@ -1,62 +1,68 @@
 ---
 title: "SafeYourInternet"
-description: "Kampagne gegen das Leistungsschutzrecht und Uploadfilter"
+description: "Campaign against the copyright reforms and upload filter"
 date: 2019-02-28T18:00:00+01:00
-tags: ["Technik", "Politik"]
+tags: ["Technology", "Politics"]
 draft: false
-keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Leistungsschutzrecht"]
+keywords: ["Technology", "Politics", "Upload filter", "Article 13", "Copyright reform", "EU"]
 ---
 
-Demonstrationen
----------------
+Demonstrations
+--------------
 
-Nachdem am Mittwochabend nocheinmal für die Uploadfilter gestimmt wurde, wurde
-in Köln relativ spontan am Samstag Mittag eine Demonstration veranstaltet, zu
-der ca. 1.500 Personen kamen. Wenn man bedenkt, dass die Veranstaltung in
-weniger als zwei Tagen geplant wurde, ist das eigentlich eine ganz gute
-Teilnehmerzahl. Durch einige Teilnehmer wie
-[Sep](https://www.youtube.com/watch?v=FsZzAtYYGyU)
+Short after the Members of the European Parliament have voted for the
+controversal copyright reform which brings upload filter with it a
+spontaneous demonstration in Cologne took place with around 1.500 people.
+Keeping in mind that this was planned in less that two days under the week
+that is very impressing. Some of the participants are well known in Germany
+like [Sep](https://www.youtube.com/watch?v=FsZzAtYYGyU)
 ([_PietSmiet_](https://www.youtube.com/user/PietSmittie)),
 [HerrnNewstime](https://www.youtube.com/user/HerrNewstime),
 [Sturmwaffel](https://www.youtube.com/user/SturmwaffelLP),
-die [Marmeladenoma](https://www.youtube.com/channel/UCSSUG_vo76v04FKRnsWavMA)
-u.s.w. schalteten durch ihre Streams weitere 20.000 Personen live dazu.
+the [Marmeladenoma](https://www.youtube.com/channel/UCSSUG_vo76v04FKRnsWavMA)
+etc.. Most of them were livestreaming which adds round about 20.000 more
+people to these protests.
 
-Vor der Europawahl ende März am 26. Mai sollen schon am [23.03.2019](https://savetheinternet.info/demos)
-in ganz Europa ähnliche und größere Veranstaltungen statt finden, um
-gegen die Uploadfilter zu demonstrieren.
-
-
-Abgeordnete anschreiben
------------------------
-
-An vielen Stellen wird darauf verwiesen, dass man den Abgeordneten E-Mails
-schicken oder direkt anrufen könne um ein wenig Druck auszuüben bzw. auch
-neue Aspekte der ganzen Geschichte zu übermitteln. Ich vermute einfach mal,
-dass eine große Anzahl an versendeten E-Mails einen Standardtext enthalten.
-Um selber aber auch mitmachen zu können, habe ich heute Abend eine höfliche
-Nachricht mit meinen Ansichten und Bedenken verfasst und für die jeweiligen
-Parteien und teilweise Politiker noch angepasst. Insgesamt habe ich heute
-Abend 43 unterschiedliche E-Mails an Politiker geschickt, die sich für die
-Uploadfilter ausgesprochen haben oder noch unschlüssig zu dem Thema sind.
-
-Angesichts der großen Flut an E-Mails an die Politiker gehe ich davon aus,
-auf die meisten E-Mails keine Antworten oder lediglich Standardtexte zurück
-zu bekommen. Im Laufe der nächsten Tage werde ich diese Antworten aber auf
-jeden Fall hier posten. Also: Stay tuned.
+The 26th of May this year will give everyone (_European_) the chance to
+change something when the European elections will take place. Many
+demonstrations all over Europe are announced before that day on 23th of
+March. I hope to be there as well to demonstrate against upload filters.
 
 
-Mail an Abgeordnete
--------------------
+Messageing the members of the Parliament
+----------------------------------------
 
-Diese E-Mail habe ich (_für jeden Empfänger passend modifiziert_) an 42
-Politiker gesendet. Inzwischen haben immerhin zwei davon geantwortet. Das
-sind immerhin schon 4.8 Prozent. Beispielhaft zeige ich euch hier die Mail,
-wie ich sie an Herrn Voss, welcher die ganze Sache ursprünglich vor zwei
-Jahren ins Rollen gebracht hat geschickt habe. Im Anschluss findet ihr die
-bisherigen Antworten. Es verwundert nicht, dass Herr Voss noch nicht unter
-den Antworten zu finden ist. Vermutlich hat er aber gerade sowieso mit einer
-Vielzahl an eingehenden Nachrichten zu kämpfen:
+Many people suggest to call or write messages to the members of the
+Parilament to exert a little pressure. I guess, a large number of these
+E-mails sent contain a standard text.
+But in order to be able to participate by myself, I wrote a (_at least I
+hope_) polite message this evening with my views and concerns for the
+respective parties. Altogether I have sent 43 different E-mails to
+politicians, who want to vote for the copyright reform. Of course I've sent
+E-Mails to those who did not had any public opinion as well.
+
+Thinking of the huge flood of E-mails to politicians, I assume that most
+answers will be standard texts. During the next few days, I will definitely
+post these replies here. So: Stay tuned.
+
+
+My message
+----------
+
+I sent this E-mail (_modified for each recipient of course_) to 42
+politicians. In the meantime, at least two of them have replied.
+That's already 4.8 percent - Wow. As an example, I'll show you the mail
+I sent to [Mr. Voss,](https://twitter.com/axelvossmdep) who originally
+started the whole thing two years ago. Below you will find the answers.
+
+It is not surprising that Mr Voss is not yet among the answers. Probably
+he has to struggle with a lot of incoming messages anyway.
+
+*Information*: Unfortunately I will not translate these messages into English
+because of my bad English and I don't want to change the original messages
+so they may sound different. I guess you will have to find a translator
+yourself, learn German or maybe you can understand the output of
+[DeepL](https://deepl.com/).
 
 > Sehr geehrter Herr Voss,
 >
@@ -116,8 +122,8 @@ Vielzahl an eingehenden Nachrichten zu kämpfen:
 > ich mir ziemlich sicher, dass es sich nicht um Fakenews handelt.
 
 
-Nach knapp zwei Tagen bekam ich dann sogar tatsächlich auch meine erste
-Antwort von Markus Ferber (_CSU_):
+After maybe two days I received the first response from Brussels -
+ Markus Ferber (_CSU_):
 
 > Sehr geehrter Herr Timmer,
 >
@@ -146,8 +152,7 @@ Antwort von Markus Ferber (_CSU_):
 > Markus Ferber, MdEP
 
 
-Nach einer Woche erhielt ich dann meine zweite Antwort von Frau Inge Gräßle
-(_CDU_):
+One more week later I got this message from Frau Inge Gräßle (_CDU_):
 
 > Sehr geehrter Herr Timmer,
 > 
