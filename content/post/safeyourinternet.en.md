@@ -1,7 +1,9 @@
 ---
-title: "SafeYourInternet"
+title: "SafeYourInternet (Update)"
 description: "Campaign against the copyright reforms and upload filter"
-date: 2019-02-28T18:00:00+01:00
+icon: "filter"
+lastmod: 2019-02-28T18:00:00+01:00
+date: 2019-02-24T15:30:00+01:00
 tags: ["Technology", "Politics"]
 draft: false
 keywords: ["Technology", "Politics", "Upload filter", "Article 13", "Copyright reform", "EU"]

@@ -1,6 +1,7 @@
 ---
 title: "Uploadfilter (Update)"
 description: "Jetzt auch gegen Terror"
+icon: "filter"
 date: 2019-02-14T10:43:00+01:00
 tags: ["Technik", "Politik"]
 draft: false

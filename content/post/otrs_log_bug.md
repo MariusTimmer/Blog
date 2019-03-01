@@ -1,6 +1,7 @@
 ---
 title: "OTRS-Bug beim System-Protokoll?"
 description: "Fehlende Berechtigung in Datenbank wird nicht Protokolliert"
+icon: "bug"
 date: 2019-01-28T23:00:00+01:00
 tags: ["Technik", "OTRS"]
 draft: false

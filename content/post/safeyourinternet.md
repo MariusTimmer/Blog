@@ -1,7 +1,9 @@
 ---
-title: "SafeYourInternet"
+title: "SafeYourInternet (Update)"
 description: "Kampagne gegen das Leistungsschutzrecht und Uploadfilter"
-date: 2019-02-28T18:00:00+01:00
+icon: "filter"
+lastmod: 2019-02-28T18:00:00+01:00
+date: 2019-02-19T21:50:59+01:00
 tags: ["Technik", "Politik"]
 draft: false
 keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Leistungsschutzrecht"]

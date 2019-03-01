@@ -1,6 +1,7 @@
 ---
 title: "Weltweite Besucher"
 description: "Ihr kommt von überall auf der Welt"
+icon: "globe"
 date: 2019-02-20T19:25:26+01:00
 tags: ["Technik"]
 draft: false

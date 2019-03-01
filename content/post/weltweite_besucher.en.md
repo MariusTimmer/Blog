@@ -1,6 +1,7 @@
 ---
 title: "Worldwide visitors"
 description: "You all are from all around the globe"
+icon: "globe"
 date: 2019-02-20T19:25:26+01:00
 tags: ["Technology"]
 draft: false

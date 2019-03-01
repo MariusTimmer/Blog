@@ -1,6 +1,7 @@
 ---
 title: "Facebook weitet sich aus"
 description: "Zusammenlegung von Facebook, WhatsApp und Instagram"
+icon: "facebook"
 date: 2019-02-02T12:00:00+01:00
 tags: ["Technik"]
 draft: false
