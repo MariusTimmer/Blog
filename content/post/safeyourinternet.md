@@ -2,7 +2,7 @@
 title: "SafeYourInternet"
 description: "Kampagne gegen das Leistungsschutzrecht und Uploadfilter"
 date: 2019-02-28T18:00:00+01:00
-tags: ["Technik", "Politik"]
+tags: ["Technik", "Politik", "Uploadfilter"]
 draft: false
 keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Leistungsschutzrecht"]
 ---
@@ -150,10 +150,10 @@ Nach einer Woche erhielt ich dann meine zweite Antwort von Frau Inge Gräßle
 (_CDU_):
 
 > Sehr geehrter Herr Timmer,
-> 
+>
 > zunächst möchte ich Ihnen für Ihre E-Mail und Ihr Interesse an der geplanten
 > Reform des Urheberrechtes im Binnenmarkt danken.
-> 
+>
 > Im Internet gibt es die Sorge, dass die geplante Reform des europäischen
 > Urheberrechts zu einem Aus für YouTuber führen würde und das „Ende des
 > freien Internets“ bedeute. Fakt ist aber: YouTuber bzw. Nutzer von Online-
@@ -164,7 +164,7 @@ Nach einer Woche erhielt ich dann meine zweite Antwort von Frau Inge Gräßle
 > müssen. Das neue EU-Gesetz soll ihnen so eine bessere Vergütung für die
 > Nutzung ihrer kreativen Inhalte ermöglichen. Derzeit bleibt die Wertschöpfung
 > weitestgehend bei den Plattformen.
-> 
+>
 > Artikel 11 führt eine neues Recht für Presseverleger ein. Dieses Recht gibt
 > den Presseverleger die Möglichkeit, Geld von den Plattformen zu verlangen,
 > wenn sie ihre Presseerzeugnisse nutzen. Will also auch eine Suchmaschine
@@ -173,7 +173,7 @@ Nach einer Woche erhielt ich dann meine zweite Antwort von Frau Inge Gräßle
 > Wörter sowie private und nicht kommerzielle Nutzungen von Presseerzeugnissen
 > sind von Artikel 11 ausgenommen. Journalisten sollen an den zusätzlichen
 > Einnahmen beteiligt werden.
-> 
+>
 > Mit Artikel 13, der für die meiste Kritik sorgt, soll erreicht werden, dass
 > Plattformen, deren Geschäftsmodell auf der Verbreitung urheberrechtlich
 > geschützter Materialien basiert für diese auch bezahlen müssen. Bisher ist
@@ -188,7 +188,7 @@ Nach einer Woche erhielt ich dann meine zweite Antwort von Frau Inge Gräßle
 > Lizenz kauft, noch den Upload irgendwie verhindert, kann der Eigentümer die
 > Plattform verklagen, anstatt gegen die Nutzer vorzugehen. Dies schützt also
 > direkt alle privaten Nutzer.
-> 
+>
 > Wie sollen Plattformen Uploads überprüfen? Im Text steht, dass die
 > Plattformen nach industrieüblichen Standards größtmögliche Anstrengungen
 > („best efforts“) machen müssen, um nicht autorisierte Werke ausfindig zu
@@ -201,7 +201,7 @@ Nach einer Woche erhielt ich dann meine zweite Antwort von Frau Inge Gräßle
 > bezeichnet, ist aber in der Sache nicht gleichbedeutend, weil diese nur auf
 > die Daten reagiert, die der Rechteinhaber vorher der Plattform zur Verfügung
 > gestellt hat.
-> 
+>
 > Wikipedia, Open-Source-Plattformen, nicht-kommerzielle Plattformen, Dropbox,
 > Ebay oder Datingportale fallen nicht unter den Artikel 13. Auch Plattformen,
 > die wenige Werke veröffentlichen und Kleinst- und kleine Unternehmen, wie
@@ -210,8 +210,8 @@ Nach einer Woche erhielt ich dann meine zweite Antwort von Frau Inge Gräßle
 > aufweist und als Unternehmen nicht älter als drei Jahre ist, soll deutlich
 > geringere Pflichten erfüllen müssen.  Zudem werden Memes und Gifs nicht
 > betroffen sein. Der User kann hier nicht haftbar gemacht werden.
-> 
-> 
+>
+>
 > Mit freundlichen Grüßen
-> 
+>
 > Dr. Inge Gräßle
