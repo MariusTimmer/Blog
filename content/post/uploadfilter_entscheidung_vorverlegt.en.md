@@ -1,6 +1,7 @@
 ---
 title: "Upload filter decision brought forward"
-description: "Deconsolidation of upload filters to be carried out before protests"
+description: "Deciding upload filters before protests"
+icon: "filter"
 date: 2019-03-04T17:43:00+01:00
 tags: ["Upload filter", "Politics"]
 draft: false

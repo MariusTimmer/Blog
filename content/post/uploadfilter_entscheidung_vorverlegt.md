@@ -1,6 +1,7 @@
 ---
 title: "Uploadfilter-Entscheidung vorverlegt"
-description: "Entschdiung zu Uploadfiltern soll noch vor Protesten durchgeführt werden"
+description: "Entscheidung zu Uploadfiltern soll noch vor Protesten durchgeführt werden"
+icon: "filter"
 date: 2019-03-04T17:43:00+01:00
 tags: ["Uploadfilter", "Politik"]
 draft: false
