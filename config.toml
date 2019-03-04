@@ -29,11 +29,11 @@ enableRobotsTXT = true
             name = "Posts"
             weight = 2
 
-        [[languages.en.menu.main]]
-            url = "/polen_2018/"
-            name = "Poland"
-            weight = 3
-
+#        [[languages.en.menu.main]]
+#            url = "/polen_2018/"
+#            name = "Poland"
+#            weight = 3
+#
         [[languages.en.menu.main]]
             url = "/en/references/"
             name = "References"
