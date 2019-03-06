@@ -6,6 +6,7 @@ date: 2019-03-05T13:26:00+01:00
 tags: ["Uploadfilter", "Politik"]
 draft: false
 keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Julia Reda", "Manfred Weber", "Köln", "SaveYourInternet", "Artikel13", "CopyrightDirective"]
+video: "42hIZZS9PLo"
 ---
 
 # Die Ursache
@@ -13,4 +14,10 @@ Wie ihr vielleicht bemerkt, überschlagen sich die Ereignisse fast in den letzte
 
 Aus diesem Grund wurden noch gestern Abend spontane Demonstrationen für heute Abend in fünf verschiedenen Städten angemeldet. Zusammen mit [Tobske](https://www.youtube.com/channel/UCVYis-Owuz2Vd-i9sU_Yujw) werde ich heute mit dem Zug nach Köln fahren und dort teilnehmen. Aufgrund der Zugverbindung werden wir wohl erst um 18:30 vor Ort sein.
 
-Ich werde im Anschluss so schnell es geht, ein Video-Update zu veröffentlichen. Vermutlich werde ich dazu aber erst morgen Abend kommen. Zu dem Zeitpunkt wird das dann vermutlich schon wieder kalter Kaffee von gestern sein.
+Ich werde im Anschluss so schnell es geht, ein Video-Update veröffentlichen. Vermutlich werde ich dazu aber erst morgen Abend kommen. Zu dem Zeitpunkt wird das dann vermutlich schon wieder kalter Kaffee von gestern sein.
+
+
+## Update
+Wie versprochen habe ich ein Video von gestern Abend zusammen gebastelt, kam
+aber leider heute erst dazu, es zu schneiden und hochzuladen. Ihr kennst das
+Spiel.
