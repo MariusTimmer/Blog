@@ -50,19 +50,24 @@ enableRobotsTXT = true
             weight = 1
 
         [[languages.en.menu.icon]]
+            url = "https://twitter.com/marius_timmer?lang=en"
+            name = "twitter"
+            weight = 2
+
+        [[languages.en.menu.icon]]
             url = "https://github.com/mariustimmer/"
             name = "github"
-            weight = 2
+            weight = 3
 
         [[languages.en.menu.icon]]
             url = "https://twitch.tv/topster"
             name = "twitch"
-            weight = 3
+            weight = 4
 
         [[languages.en.menu.icon]]
             url = "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA"
             name = "youtube"
-            weight = 4
+            weight = 5
 
     [languages.de]
         title = "Timmers Blog"
@@ -101,19 +106,24 @@ enableRobotsTXT = true
             weight = 1
 
         [[languages.de.menu.icon]]
+            url = "https://twitter.com/marius_timmer?lang=de"
+            name = "twitter"
+            weight = 2
+
+        [[languages.de.menu.icon]]
             url = "https://github.com/mariustimmer/"
             name = "github"
-            weight = 2
+            weight = 3
 
         [[languages.de.menu.icon]]
             url = "https://twitch.tv/topster"
             name = "twitch"
-            weight = 3
+            weight = 4
 
         [[languages.de.menu.icon]]
             url = "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA"
             name = "youtube"
-            weight = 4
+            weight = 5
 
 [params]
     author = "Marius Timmer"
