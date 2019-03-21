@@ -14,6 +14,7 @@ In den vergangenen Wochen fanden immer wieder Demonstrationen gegen das Leistung
 
 # Münster ist auch dabei
 Lange Zeit ging ich davon aus, an dem Tag nach Dortmund oder Osnabrück zu fahren, weil ich Abends noch auf ein Konzert gehe und deswegen nicht nach Köln kommen werde. Wie ich aber gestern herausgefunden habe, ist inzwischen auch eine Demonstration mit den folgenden Veranstaltern in Münster angemeldet worden:
+
  - Junge Liberale Münster
  - Piratenpartei Münster
  - Freifunk Münster
