@@ -1,6 +1,6 @@
 SERVER_DIRECTORY=/httpdocs
 SOURCE_DIRECTORY=./content
-BUILD_DIRECTORY=/home/timmer/blog/public
+BUILD_DIRECTORY=./public
 FTP_HOST=mariustimmer.de
 FTP_USERNAME=m.timmer
 FTP_PASSWORD_FILE=/home/timmer/.ftppassword
