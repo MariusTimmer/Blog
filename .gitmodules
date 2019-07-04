@@ -1,5 +1,0 @@
-[submodule "Minimal"]
-	path = themes/minimal
-	url = ../minimal.git
-	branch = customized
-
