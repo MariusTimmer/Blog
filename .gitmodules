@@ -1,5 +1,5 @@
 [submodule "Minimal"]
 	path = themes/minimal
-	url = timmer@mariustimmer.no-ip.org:~/git/minimal.git
+	url = ../minimal.git
 	branch = customized
 
