@@ -3,7 +3,7 @@ title: "Reise nach Frankfurt"
 description: ""
 icon: "car"
 date: 2019-07-09T13:08:00+01:00
-tags: [""]
+tags: []
 keywords: ["Reise", "Frankfurt am Main", "KIA", "Autolos"]
 draft: false
 video: ""
