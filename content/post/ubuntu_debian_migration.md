@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Debian Migration"
 description: "Wie ich von Ubuntu zu Debian gewechselt bin"
-icon: "computer"
+icon: "linux"
 date: 2019-07-12T09:26:00+01:00
 tags: ["Technik"]
 keywords: ["Linux", "Ubuntu", "Debian", "Migration", "APT", "Mirror" ,"Keys", "GPG", "Komfort", "Freiheit", "ThinkPad", "Mac Mini", "PowerPC", "Netzwerkinstallation", "XFCE", "KDE", "SafeNet", "eToken", "SAC", "Thunderbird"]
