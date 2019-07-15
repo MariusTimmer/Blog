@@ -8,7 +8,7 @@ draft: false
 keywords: ["Technik", "UNIX", "UNIXSystems", "Linux", "Instagram", "Influencer", "Tagebuch", "Experiment"]
 ---
 
-UNIXSSystems
+UNIXSystems
 ============
 
 Intention
