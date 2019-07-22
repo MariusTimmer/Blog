@@ -29,11 +29,11 @@ enableRobotsTXT = true
             name = "Posts"
             weight = 2
 
-#        [[languages.en.menu.main]]
-#            url = "/polen_2018/"
-#            name = "Poland"
-#            weight = 3
-#
+        [[languages.en.menu.main]]
+            url = "/en/service/"
+            name = "Service"
+            weight = 3
+
         [[languages.en.menu.main]]
             url = "/en/references/"
             name = "References"
@@ -91,14 +91,19 @@ enableRobotsTXT = true
             weight = 3
 
         [[languages.de.menu.main]]
+            url = "/service/"
+            name = "Dienstleistungen"
+            weight = 4
+
+        [[languages.de.menu.main]]
             url = "/references/"
             name = "Referenzen"
-            weight = 4
+            weight = 5
 
         [[languages.de.menu.main]]
             url = "/aboutme/"
             name = "Über Mich"
-            weight = 5
+            weight = 6
 
         [[languages.de.menu.icon]]
             url = "mailto:admin@mariustimmer.de"
