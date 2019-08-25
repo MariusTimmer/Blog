@@ -6,6 +6,7 @@ date: "2019-08-22T20:00:00+02:00"
 tags: ["Reisen", "Twitch", "Youtube"]
 draft: false
 keywords: ["Reisen", "Gamescom", "Köln", "Twitch", "YouTube", "SaftigesGnu", "DerHeider", "Heider", "Klengan", "Pietsmiet", "Jay", "Sebro"]
+video: "Mok0Gyoz-5k"
 ---
 
 Gamescom 2019
