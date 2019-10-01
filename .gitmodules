@@ -1,4 +1,4 @@
 [submodule "MinimalTheme"]
-    path = themes/minimal
-    url = ../minimal.git
-    branch = customized
+	path = themes/minimal
+	url = ../minimal
+	branch = customized
