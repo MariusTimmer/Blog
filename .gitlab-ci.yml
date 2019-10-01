@@ -1,0 +1,8 @@
+image: debian:stable
+variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+test:app:
+    before_script:
+        - apt-get update && apt-get install -y hugo
+    script:
+        - hugo
