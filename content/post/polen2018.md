@@ -2,7 +2,9 @@
 title: "Polenreise 2018"
 description: "Reisebericht aus Polen"
 date: 2018-03-29T22:32:21+02:00
+tags: ["Reisen", "Abenteuer"]
 draft: false
+keywords: ["Urlaub", "Silvester", "Reisen", "Polen", "Tschechien", "Breslau"]
 video: "6w69hDWTkPM"
 ---
 

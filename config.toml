@@ -20,53 +20,63 @@ enableRobotsTXT = true
         copyright = "&copy; 2019 by Marius Timmer"
         weight = 1
         [[languages.en.menu.main]]
-            url = "/en/"
-            name = "Home"
+            url    = "/en/"
+            name   = "Home"
             weight = 1
 
         [[languages.en.menu.main]]
-            url = "/en/post/"
-            name = "Posts"
+            url    = "/en/post/"
+            name   = "All posts"
             weight = 2
 
         [[languages.en.menu.main]]
-            url = "/en/service/"
-            name = "Service"
+            url    = "/en/tags/youtube/"
+            name   = "YouTube"
             weight = 3
 
         [[languages.en.menu.main]]
-            url = "/en/references/"
-            name = "References"
+            url    = "/en/tags/technology/"
+            name   = "Technology"
             weight = 4
 
         [[languages.en.menu.main]]
-            url = "/en/aboutme/"
-            name = "About Me"
+            url    = "/en/tags/politics/"
+            name   = "Politics"
             weight = 5
 
+        [[languages.en.menu.main]]
+            url    = "/en/references/"
+            name   = "References"
+            weight = 6
+
+        [[languages.en.menu.main]]
+            url    = "/en/aboutme/"
+            name   = "About Me"
+            weight = 7
+
         [[languages.en.menu.icon]]
-            url = "mailto:admin@mariustimmer.de"
-            name = "envelope-o"
+            url    = "mailto:admin@mariustimmer.de"
+            name   = "envelope-o"
             weight = 1
 
         [[languages.en.menu.icon]]
-            url = "https://twitter.com/marius_timmer?lang=en"
-            name = "twitter"
+            url    = "https://twitter.com/marius_timmer?lang=en"
+            name   = "twitter"
             weight = 2
 
         [[languages.en.menu.icon]]
-            url = "https://github.com/mariustimmer/"
-            name = "github"
+            url    = "https://github.com/mariustimmer/"
+            name   = "github"
             weight = 3
 
         [[languages.en.menu.icon]]
-            url = "https://twitch.tv/topster"
-            name = "twitch"
+            url    = "https://twitch.tv/topster"
+            name   = "twitch"
             weight = 4
 
         [[languages.en.menu.icon]]
-            url = "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA"
-            name = "youtube"
+            url    = "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA"
+            name   = "youtube"
             weight = 5
 
     [languages.de]
@@ -76,58 +86,63 @@ enableRobotsTXT = true
         copyright = "&copy; 2019 durch Marius Timmer"
         weight = 2
         [[languages.de.menu.main]]
-            url = "/"
-            name = "Start"
+            url    = "/"
+            name   = "Start"
             weight = 1
 
         [[languages.de.menu.main]]
-            url = "/post/"
-            name = "Beiträge"
+            url    = "/post/"
+            name   = "Alle Beiträge"
             weight = 2
 
         [[languages.de.menu.main]]
-            url = "/polen_2018/"
-            name = "Polen"
+            url    = "/tags/youtube/"
+            name   = "YouTube"
             weight = 3
 
         [[languages.de.menu.main]]
-            url = "/service/"
-            name = "Dienstleistungen"
+            url    = "/tags/technik/"
+            name   = "Technik"
             weight = 4
 
         [[languages.de.menu.main]]
-            url = "/references/"
-            name = "Referenzen"
+            url    = "/tags/politik/"
+            name   = "Politik"
             weight = 5
 
         [[languages.de.menu.main]]
-            url = "/aboutme/"
-            name = "Über Mich"
+            url    = "/references/"
+            name   = "Referenzen"
             weight = 6
 
+        [[languages.de.menu.main]]
+            url    = "/aboutme/"
+            name   = "Über Mich"
+            weight = 7
+
         [[languages.de.menu.icon]]
-            url = "mailto:admin@mariustimmer.de"
-            name = "envelope-o"
+            url    = "mailto:admin@mariustimmer.de"
+            name   = "envelope-o"
             weight = 1
 
         [[languages.de.menu.icon]]
-            url = "https://twitter.com/marius_timmer?lang=de"
-            name = "twitter"
+            url    = "https://twitter.com/marius_timmer?lang=de"
+            name   = "twitter"
             weight = 2
 
         [[languages.de.menu.icon]]
-            url = "https://github.com/mariustimmer/"
-            name = "github"
+            url    = "https://github.com/mariustimmer/"
+            name   = "github"
             weight = 3
 
         [[languages.de.menu.icon]]
-            url = "https://twitch.tv/topster"
-            name = "twitch"
+            url    = "https://twitch.tv/topster"
+            name   = "twitch"
             weight = 4
 
         [[languages.de.menu.icon]]
-            url = "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA"
-            name = "youtube"
+            url    = "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA"
+            name   = "youtube"
             weight = 5
 
 [params]
