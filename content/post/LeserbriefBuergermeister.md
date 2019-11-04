@@ -1,5 +1,6 @@
 ---
-title: "Leserbrief zur Bürgermeister-Situation"
+title: "Leserbrief zur Bürgermeister-Situation in Laer"
+description: "Mein Kommentar zum Zirkus um den Laerer Bürgermeister"
 icon: "hand-comments"
 date: 2019-07-010T20:00:00+02:00
 tags: ["Politik"]
