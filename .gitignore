@@ -1,5 +1,6 @@
 archetypes/
 layouts/
 public/
-!themes/minimal
 themes/*
+!themes/minimal
+!themes/binario
