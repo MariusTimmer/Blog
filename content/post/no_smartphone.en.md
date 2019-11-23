@@ -7,9 +7,6 @@ keywords: ["Technology", "Smartphone", "Display", "Battery", "Fire", "Repair", "
 video: ""
 ---
 
-No Smartphone
-=============
-
 More than a week ago my [Xiaomi Redmi 5 Plus](https://lmgtfy.com/?q=Xiaomi+Redmi+5+Plus) fell on the road. Actually, that's (_usually_) not a big deal, because until now (_at least for me_) it has always been considered relatively robust. But this time the display broke. Fortunately, the display was still working and the touch function was also working perfectly. However, I didn't want to walk around with a broken display for a year again (_like with the last mobile phone_), which is why I decided to buy a protective cover and a [repair set](https://www.amazon.de/gp/product/B07HK8ZDNG/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) on Amazon. As I've just seen, prices have risen by more than 10 Euros since then. After only two days the package arrived and I was looking forward to finally being able to replace the display. I was surprised that this is possible at all, because nowadays all devices are glued together, which makes the repair almost impossible.
 
 The repair set

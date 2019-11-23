@@ -8,9 +8,6 @@ draft: false
 keywords: ["Technik", "UNIX", "UNIXSystems", "Linux", "Instagram", "Influencer", "Tagebuch", "Experiment"]
 ---
 
-UNIXSystems
-============
-
 Intention
 ---------
 Einer meiner Freunde betreibt schon seit einigen Jahren eine Seite auf Instagram, die inzwischen mehr als 30.000 Follower hat. Er scheint damals eine Art "_Marktlücke_" gefunden zu haben. Immer wieder bekomme ich mit, wie viel Arbeit er in den Betrieb dieser Seite stecken muss. Schon seit einiger Zeit macht er das auch nicht mehr alleine, weil es einfach zu viel Zeit in Anspruch nehmen würde. Ein ähnliches Ziel habe ich nun auch vor.

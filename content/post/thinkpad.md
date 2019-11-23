@@ -10,7 +10,7 @@ Es ist kein großes Geheimnis, dass ich ein Liebhaber von guten alten ThinkPads 
 
 Bisher hatte ich drei verschiedene Laptops dieser Sorte. Alle zeichneten sich dadurch aus, dass sie vor 2006 gebaut wurden und somit auch nicht mehr die schnellsten waren. Allerdings reizte gerade das mich extrem daran. Beispielsweise hatte mein T23 als ich ihn bekam ganze 64MB Arbeitsspeicher, was selbst für Windows XP nur die Mindestvoraussetzungen erfüllt. Im Laufe der Zeit hatte ich das mal auf ganze 256MB aufgestockt und ein ArchLinux darauf installiert. Trotz der nur 1,13 GHz konnte man sogar damit arbeiten, wenn man die GUI nutzte. Allerdings auch nur zum Programmieren in einem Text-Editor. Sobald man Anwendungen wie den Firefox startet, muss man eine Menge Geduld mit bringen.
 
-![Foto eines Thinkpad x200](/img/photo_thinkpad_x200.jpg)
+<img alt="Foto eines Thinkpad x200" src="/img/photo_thinkpad_x200.jpg" srcset="/img/photo_thinkpad_x200_small.jpg 640w,/img/photo_thinkpad_x200.jpg 800w" />
 
 Überraschender weise kam ich neulich an ein ThinkPad X200, welches bis dahin nur noch als Ersatzteillager diente. Die meisten Tasten der Tastatur waren ohne Funktion, es gab keine Festplatte und auch der Arbeitsspeicher war nicht gut ausgerüstet. Allerdings musste ich dieses Gerät haben, weil es noch immer den Charme der alten soliden Vorväter hat, aber technisch trotzdem einwandfrei ist. Ich investierte also in einige Dinge und erhielt am Ende einen Laptop, auf dem ich ohne Probleme flüssig Videos gucken, Entwickeln und sonst was machen kann. Die Hardware bietet mir genau was ich brauche, aber keine unnötigen Pseudo-Features wie eine Webcam o.Ä..
 

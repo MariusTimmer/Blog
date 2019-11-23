@@ -7,9 +7,6 @@ keywords: ["Technik", "Handy", "Smartphone", "Display", "Akku", "Batterie", "Feu
 video: ""
 ---
 
-Kein Smartphone
-===============
-
 Vor über einer Woche ist mir mein [Xiaomi Redmi 5 Plus](https://lmgtfy.com/?q=Xiaomi+Redmi+5+Plus) auf die Straße gefallen. Eigentlich ist das kein Problem, weil es bis dato immer (_zumindest für mich_) als relativ robust galt. Aber nun war es wohl doch so weit, dass mir der Display kaputt gehen musste. Glücklicher weise funktioniere der Display noch und auch die Touch-Funktion lief einwandfrei. Allerdings wollte ich dieses mal nicht (_wie beim letzten Handy_) ein Jahr lang mit kaputtem Display herum laufen, weswegen ich entschloss, mir eine Schutzhülle und ein [Reparatur-Set](https://www.amazon.de/gp/product/B07HK8ZDNG/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) auf Amazon zu kaufen. Wie ich gerade gesehen habe, sind die Preise seit dem schon wieder um mehr als 10 Euro gestiegen. Nach nur zwei Tagen kam das Päckchen bei mir an und ich freute mich schon, endlich den Display austauschen zu können. Prinzipiell war ich überrascht, dass das überhaupt möglich ist, da heutzutage alle Geräte verklebt werden, was die Reparatur nahezu unmöglich macht.
 
 Das Reparatur-Set
