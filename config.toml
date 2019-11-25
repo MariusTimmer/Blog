@@ -30,29 +30,19 @@ enableRobotsTXT = true
             weight = 2
 
         [[languages.en.menu.main]]
-            url    = "/en/tags/youtube/"
-            name   = "YouTube"
+            url    = "/en/photos/"
+            name   = "Photography"
             weight = 3
-
-        [[languages.en.menu.main]]
-            url    = "/en/tags/technology/"
-            name   = "Technology"
-            weight = 4
-
-        [[languages.en.menu.main]]
-            url    = "/en/tags/politics/"
-            name   = "Politics"
-            weight = 5
 
         [[languages.en.menu.main]]
             url    = "/en/references/"
             name   = "References"
-            weight = 6
+            weight = 4
 
         [[languages.en.menu.main]]
             url    = "/en/aboutme/"
             name   = "About Me"
-            weight = 7
+            weight = 5
 
         [[languages.en.menu.icon]]
             url    = "mailto:admin@mariustimmer.de"
@@ -96,29 +86,19 @@ enableRobotsTXT = true
             weight = 2
 
         [[languages.de.menu.main]]
-            url    = "/tags/youtube/"
-            name   = "YouTube"
+            url    = "/photos/"
+            name   = "Fotografie"
             weight = 3
-
-        [[languages.de.menu.main]]
-            url    = "/tags/technik/"
-            name   = "Technik"
-            weight = 4
-
-        [[languages.de.menu.main]]
-            url    = "/tags/politik/"
-            name   = "Politik"
-            weight = 5
 
         [[languages.de.menu.main]]
             url    = "/references/"
             name   = "Referenzen"
-            weight = 6
+            weight = 4
 
         [[languages.de.menu.main]]
             url    = "/aboutme/"
             name   = "Über Mich"
-            weight = 7
+            weight = 5
 
         [[languages.de.menu.icon]]
             url    = "mailto:admin@mariustimmer.de"

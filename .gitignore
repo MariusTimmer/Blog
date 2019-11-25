@@ -1,5 +1,3 @@
-archetypes/
-layouts/
 public/
 themes/*
 !themes/minimal
