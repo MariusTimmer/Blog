@@ -5,7 +5,7 @@ icon: "filter"
 date: 2019-03-05T13:26:00+01:00
 tags: ["Uploadfilter", "Politik"]
 draft: false
-keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Julia Reda", "Manfred Weber", "Köln", "SaveYourInternet", "Artikel13", "CopyrightDirective"]
+keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Julia Reda", "Manfred Weber", "Köln", "SaveYourInternet", "CopyrightDirective"]
 video: "42hIZZS9PLo"
 ---
 
