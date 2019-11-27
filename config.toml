@@ -17,7 +17,6 @@ enableRobotsTXT = true
         title = "Timmers blog"
         languageName = "English"
         description = "Personal blog of Marius Timmer"
-        copyright = "&copy; 2019 by Marius Timmer"
         weight = 1
         [[languages.en.menu.main]]
             url    = "/en/"
@@ -73,7 +72,6 @@ enableRobotsTXT = true
         title = "Timmers Blog"
         languageName = "Deutsch"
         description = "Persönlicher Blog von Marius Timmer"
-        copyright = "&copy; 2019 durch Marius Timmer"
         weight = 2
         [[languages.de.menu.main]]
             url    = "/"
@@ -127,6 +125,7 @@ enableRobotsTXT = true
 
 [params]
     author = "Marius Timmer"
+    copyright = "Marius Timmer"
     githubUsername = "#mariustimmer"
     accent = "red"
     showBorder = true
