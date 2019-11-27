@@ -1,3 +1,6 @@
+- id: author
+  translation: Autor
+
 # Post
 - id: post_toc
   translation: Inhaltsverzeichnis
