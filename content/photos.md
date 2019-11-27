@@ -21,14 +21,11 @@ Aber nicht nur die Sterne ergeben ein gutes Motiv. Vor einigen Tagen war ich in 
     </a>
     <figcaption>
         <small>
-            <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">
-                &copy;
-                <span property="copyrightYear">2019</span>
-                by
-                <span property="copyrightHolder">Marius Timmer</span>
-            </a>
+            <span property="copyrightYear" content="https://creativecommons.org/licenses/by-sa/4.0/"></span>
+            <span property="license" content="CC BY-SA"></span>
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
+            <span property="copyrightHolder">Marius Timmer</span>
         </small>
-        <small property="license" content="CC-BY Marius Timmer"></small>
         &minus;
         <span property="abstract">Dieses Foto der verschwommenen Autolichter schoss ich eines Nachts von einer Brücke auf der A1</span>
     </figcaption>
@@ -60,14 +57,11 @@ Entgegen meiner früheren Erwartungen kann man mit einer knapp 15 Jahre alten Ka
     </a>
     <figcaption>
         <small>
-            <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">
-                &copy;
-                <span property="copyrightYear">2019</span>
-                by
-                <span property="copyrightHolder">Marius Timmer</span>
-            </a>
+            <span property="copyrightYear" content="https://creativecommons.org/licenses/by-sa/4.0/"></span>
+            <span property="license" content="CC BY-SA"></span>
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
+            <span property="copyrightHolder">Marius Timmer</span>
         </small>
-        <small property="license" content="CC-BY Marius Timmer"></small>
         &minus;
         <span property="abstract">Die Kanal-Schleuse in Münster bei Nacht mit einer starken Spiegelung des Ufers in der Wasseroberfläche.</span>
     </figcaption>
@@ -84,14 +78,11 @@ Normalerweise schließt der [Allwetterzoo in Münster](https://www.allwetterzoo.
     </a>
     <figcaption>
         <small>
-            <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">
-                &copy;
-                <span property="copyrightYear">2019</span>
-                by
-                <span property="copyrightHolder">Marius Timmer</span>
-            </a>
+            <span property="copyrightYear" content="https://creativecommons.org/licenses/by-sa/4.0/"></span>
+            <span property="license" content="CC BY-SA"></span>
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
+            <span property="copyrightHolder">Marius Timmer</span>
         </small>
-        <small property="license" content="CC-BY Marius Timmer"></small>
         &minus;
         <span property="abstract">Lichtinstallation im Allwetterzoo Münster bei Nacht.</span>
     </figcaption>
