@@ -133,3 +133,4 @@ enableRobotsTXT = true
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["php", "bash"]
+    related = true
