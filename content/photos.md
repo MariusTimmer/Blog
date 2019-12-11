@@ -16,9 +16,7 @@ Also mache ich mir (_logischerweise_) eher Gedanken um digitale Fotografie. Die 
 Aber nicht nur die Sterne ergeben ein gutes Motiv. Vor einigen Tagen war ich in Münster. Dort herrscht zwar eine relative Lichtverschmutzung (_wie in jeder Stadt_), aber von einem mir bekannten Parkhaus hat man eine super Übersicht über die Stadt und auch der Straßenverkehr ergbit schöne Bilder, wenn man beispielsweise nur noch die verschwommenen Lichtspuren erkennen kann.
 
 <figure vocab="https://schema.org/" typeof="Photograph">
-    <a href="/img/photos/autobahn.jpg" rel="alternate">
-        <img alt="verschwommender Lichter von Autos" srcset="/img/photos/autobahn_small.jpg 640w,/img/photos/autobahn_medium.jpg 1080w,/img/photos/autobahn_large.jpg 1920w" copyright="cc-by Marius Timmer" />
-    </a>
+    <img alt="verschwommender Lichter von Autos" srcset="/img/photos/autobahn_small.jpg 640w,/img/photos/autobahn_medium.jpg 1080w,/img/photos/autobahn_large.jpg 1920w" copyright="cc-by Marius Timmer" />
     <figcaption>
         <small>
             <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
@@ -51,9 +49,7 @@ Schleuse mit alter Kamera
 Entgegen meiner früheren Erwartungen kann man mit einer knapp 15 Jahre alten Kamera noch immer zeitgemäße Fotos schießen. Es ist alles eine Frage der korrekten Einstellung, des benutzten Objektives und der Nachbearbeitung (_die ich ja noch immer nicht kann_). Beispielsweise finde ich dieses Bild der Schleuse in Münster gar nicht mal so schlecht. Man merkt auch hier, dass ich gerne mit langen Belichtungszeiten spiele
 
 <figure vocab="https://schema.org/" typeof="Photograph">
-    <a href="/img/photos/hafen.jpg" rel="alternate">
-        <img alt="Foto der Kanal-Schleuse in Münster bei Nacht" srcset="/img/photos/hafen_small.jpg 640w,/img/photos/hafen_medium.jpg 1080w,/img/photos/hafen_large.jpg 1920w" copyright="cc-by Marius Timmer" />
-    </a>
+    <img alt="Foto der Kanal-Schleuse in Münster bei Nacht" srcset="/img/photos/hafen_small.jpg 640w,/img/photos/hafen_medium.jpg 1080w,/img/photos/hafen_large.jpg 1920w" copyright="cc-by Marius Timmer" />
     <figcaption>
         <small>
             <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
@@ -71,9 +67,7 @@ Lichterausstellung im Zoo
 Normalerweise schließt der [Allwetterzoo in Münster](https://www.allwetterzoo.de/#) über den Winter relativ früh. Im Winter 2019/20 konnte man allerdings fast jeden Abend bis 22 Uhr durch den Zoo laufen. Allerdings waren zu der Zeit keine Tiere zu sehen, sondern aufwändig eingerichtete [Lichtinstallationen](https://www.allwetterzoo.de/de/zoo/besucherinfos/termine/gast_va_christmas_garden/). Davon musste ich natürlich auch das ein oder andere Foto schießen. Noch immer ist der Anteil an guten Fotos verschwindend gering, gemessen an der Gesamtanzahl jeweils geschossener Fotos. Dieses Bild sticht allerdings hervor, weil es taghell wirkt und durch das helle Licht und die lange Belichtungszeit aus einer normalen Diskokugel eine Art Stern wird. Die Reflektionen ergeben dabei kreisförmige Lichtspuren, so wie es auch mit den Sternen am Nachthimmel passiert, wenn man sie zu lange ablichtet.
 
 <figure vocab="https://schema.org/" typeof="Photograph">
-    <a href="/img/photos/disko_zoo.jpg" rel="alternate">
-        <img alt="Foto der Lichtinstallation im Allwetterzoo Münster" srcset="/img/photos/disko_zoo_small.jpg 640w,/img/photos/disko_zoo_medium.jpg 1080w,/img/photos/disko_zoo_large.jpg 1920w" copyright="cc-by Marius Timmer" />
-    </a>
+    <img alt="Foto der Lichtinstallation im Allwetterzoo Münster" srcset="/img/photos/disko_zoo_small.jpg 640w,/img/photos/disko_zoo_medium.jpg 1080w,/img/photos/disko_zoo_large.jpg 1920w" copyright="cc-by Marius Timmer" />
     <figcaption>
         <small>
             <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
