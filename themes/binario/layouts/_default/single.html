@@ -4,21 +4,19 @@
 			<article class="post">
 				{{- partial "post_featured.html" (dict "page" . "IsSingle" true) }}
 				{{- partial "post_meta.html" (dict "page" . "class" "mb") }}
-				<h1 class="post__title" >{{ if .Params.video }}<a href="https://www.youtube.com/watch?v={{ .Params.video }}" rel="external" title="{{ i18n "videolink" }}">&#x25B6;</a> {{ end }}<span property="headline">{{ .Title }}</span></h1>
+        <h1 class="post__title" >{{ if .Params.video }}<a href="https://www.youtube.com/watch?v={{ .Params.video }}" rel="external" title="{{ i18n "videolink" }}">&#x25B6;</a> {{ end }}<span property="headline">{{ .Title }}</span></h1>
 				{{- partial "post_toc.html" . }}
 				<div class="post__content" style="text-align: right;">
-					<div>
 					{{ if .Author }}
-						<span property="author" typeof="Person">
-							{{ i18n "author" }}: <span property="name">{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}XX{{ else }}{{ .Param "author" }}{{ end }}</span>
-						</span>
-						&minus;
+					<span property="author" typeof="Person" content="{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}{{ else }}{{ .Param "author" }}{{ end }}">
+						{{ i18n "author" }}: <span property="name">{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}{{ else }}{{ .Param "author" }}{{ end }}</span>
+					</span>
+					&minus;
 					{{ end }}
 					<time datetime="{{ .Date.Format "2006-01-02" }}" value="{{ .Date.Format "2006-01-02" }}" property="dateModified datePublished">{{ .Date.Format "02.01.2006" }}</time>
-					</div>
 				</div>
 				<div class="post__content" property="articleBody">{{ .Content }}</div>
-                {{ if or (.Param "share") (isset $.Params "tags") }}
+          {{ if or (.Param "share") (isset $.Params "tags") }}
 				<footer class="post__footer">
 					{{ partial "post_tags.html" . }}
 					{{ partial "post_share.html" . }}
