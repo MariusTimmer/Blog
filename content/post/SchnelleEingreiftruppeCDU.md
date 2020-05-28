@@ -6,6 +6,7 @@ date: 2019-10-01T12:16:00+01:00
 tags: ["Politik"]
 keywords: ["Politik", "Rezo", "Jugend", "CDU", "CSU", "CSYou", "SPD", "NPD", "AfD", "Paul Ziemiak", "Ziemiak", "Philipp Amthor", "Tiemo Wölken", "Amthor", "YouTube", "Video", "Social Media", "Soziale Medien", "Trolle"]
 draft: false
+image: "https://mariustimmer.de/img/ziemiak_rezo.jpg"
 video: ""
 ---
 

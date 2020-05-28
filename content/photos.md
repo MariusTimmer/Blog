@@ -3,6 +3,8 @@ title: "Fotografie"
 date: 2019-11-23T12:00:00+01:00
 draft: false
 author: "Marius Timmer"
+keywords: ["Fotografie", "Canon", "Olympus", "Belichtung", "Nacht Fotografie", "Zoo", "Lichter", "Münster"]
+image: "https://mariustimmer.de/img/photos/disko_zoo_large.jpg"
 description: "Meine Gallerie"
 ---
 

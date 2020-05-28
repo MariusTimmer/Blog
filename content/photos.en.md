@@ -5,6 +5,7 @@ draft: false
 author: "Marius Timmer"
 categories: ["Photography"]
 keywords: ["Photography", "Canon", "Olympus", "Shutter", "Night photography", "Zoo", "Lights", "Münster"]
+image: "https://mariustimmer.de/img/photos/disko_zoo_large.jpg"
 description: "My gallery"
 ---
 
