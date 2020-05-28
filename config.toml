@@ -125,6 +125,7 @@ enableRobotsTXT = true
 
 [params]
     author = "Marius Timmer"
+    twitter_username = "@marius_timmer"
     copyright = "Marius Timmer"
     githubUsername = "#mariustimmer"
     accent = "red"
@@ -134,3 +135,7 @@ enableRobotsTXT = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["php", "bash"]
     related = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
