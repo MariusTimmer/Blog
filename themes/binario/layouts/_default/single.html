@@ -13,8 +13,8 @@
 				{{- partial "post_toc.html" . }}
 				<div class="post__content" style="text-align: right;">
 					{{ if .Author }}
-						<span property="author" typeof="Person">
-							{{ i18n "author" }}: <span property="name">{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}XX{{ else }}{{ .Param "author" }}{{ end }}</span>
+                        <span property="author" typeof="Person" content="{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}{{ else }}{{ .Param "author" }}{{ end }}">
+							{{ i18n "author" }}: <span property="name">{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}{{ else }}{{ .Param "author" }}{{ end }}</span>
 						</span>
 						&minus;
 					{{ end }}
