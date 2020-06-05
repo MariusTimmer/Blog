@@ -21,11 +21,13 @@ Mal wieder besteht die größte Hürde nicht aus irgendwelchen technischen Spiel
 
 Wie attraktiv es allerdings ist einen Sender zu hören, der nur einige Stunden am Tag sendet ist natürlich auch fragtlich. Prinzipiell könnte ich auch bestimmt nocht dafür sorgen, dass meine Musik-Bibliothek 24/7 als eine Art Fallback sendet. Wenn ich dann aktiv "_moderiere_" und bewusst Lieder einschalte, würde dies einfach diesen Fallback ersetzen, bis ich wieder offline gehe. Vielleicht werde ich mich die Tage ja noch darum kümmern.
 
-Wie lange ich Spaß daran haben werde, Musik zu hören, parallel zu senden und dabei noch hin und wieder rein zu quatschen wird die Zukunft zeigen. Wenn ihr aber Lust habt, einmal rein zu hören, könnt ihr das entweder über die kleine [Webseite](http://nytlora.ddns.net/piratensenderpowerplay/) machen die ich dafür eingerichtet habe, einfach hier unten abspielen (_falls ich gerade sende_) oder den [direkten Link zum Stream](http://nytlora.ddns.net:8000/PiratensenderPowerplay) verwenden.
+Wie lange ich Spaß daran haben werde, Musik zu hören, parallel zu senden und dabei noch hin und wieder rein zu quatschen wird die Zukunft zeigen. Wenn ihr aber Lust habt, einmal rein zu hören, könnt ihr das entweder über die kleine [Webseite](https://nytlora.ddns.net/piratensenderpowerplay/) machen die ich dafür eingerichtet habe, einfach hier unten abspielen (_falls ich gerade sende_) oder den [direkten Link zum Stream](https://icecast.mariustimmer.de/PiratensenderPowerplay) verwenden.
 
-> Achtung Chrome-Nutzer: Die Webseite selbst ist SSL gesichert, der Stream aber nicht. Dadurch kann es sein, dass Chrome es nicht bei euch abspielt.
+Update vom 05.06.2020
+---------------------
+Heute habe ich einen Reverse-Proxy auf meinr Haupt-Seite (_also diese hier vom Blog_) eingerichtet. Dadurch musste ich mich nicht mit der SSL-Engine von Icecast auseinander setzen, was bei mir auf anhieb auch gar nicht funktioniert hatte. Stattdessen Habe ich dem Icecast nun einen eigenen DNS-Eintrag geschenkt und kann nun die ganz normale SSL-Engine von Apache (_mit der ich auch vertraut bin_) benutzen. So können nun auch die Chrome-Nutzer von euch, die kein Einbinden von HTTP-Inhalten auf HTTPS-Seiten erlauen ermöglichen.
 
 <audio class="card-img-top" controls>
-	<source src="http://nytlora.ddns.net:8000/PiratensenderPowerplay" type="audio/ogg" />
+    <source src="https://icecast.mariustimmer.de/PiratensenderPowerplay" type="audio/ogg" />
 	Dein Browser kann das nicht <code>:(</code>
 </audio>
