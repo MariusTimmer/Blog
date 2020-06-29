@@ -3,7 +3,7 @@ languageCode = "de"
 theme = "binario"
 DefaultContentLanguage = "de"
 rssLimit = 10
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [taxonomies]
     tag = "tags"
