@@ -5,7 +5,9 @@ date: 2019-12-09T16:31:33+02:00
 draft: false
 keywords: ["Firewalld", "Firewall", "Linux", "Network", "Host", "IP", "IP address", "nftables", "iptables"]
 ---
+
 <span vocab="http://schema.org/" typeof="Report">
+
 My personal experience level
 ----------------------------
 <span property="backstory">I am administrating many servers for our university since 2016. Of course we try to keep them as safe as possible by using firewalls. They are used to protect our network from unwanted visitors and to protect every single node from each other. Only administrative and known service ports are open for specific IPs. Additionally we are NATting a lot of traffic. So you could say I am firm with the usage of firewalls. Our primary firewall is [firewalld](https://en.wikipedia.org/wiki/Firewalld) which is a frontend for [nftables](https://en.wikipedia.org/wiki/Nftables)/[iptables](https://en.wikipedia.org/wiki/Iptables). I wouldn't say that I am an firewalld expert because I only knew the things I need to know for the things I use it for.</span>
