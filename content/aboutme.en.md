@@ -5,6 +5,7 @@ draft: false
 author: "Marius Timmer"
 image: "https://mariustimmer.de/img/timmer.jpg"
 description: "A short overview"
+priority: 0.9
 ---
 
 ## Personal

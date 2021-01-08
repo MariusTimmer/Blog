@@ -7,6 +7,7 @@ categories: ["Photography"]
 keywords: ["Photography", "Canon", "Olympus", "Shutter", "Night photography", "Zoo", "Lights", "Münster"]
 image: "https://mariustimmer.de/img/photos/disko_zoo_large.jpg"
 description: "My gallery"
+priority: 1.0
 ---
 
 For some time I have had access to a small selection of cameras again and again. Since I haven't done this for so long, I'm discovering the field of photography for myself again. When I found out that my mother had her own [photo lab](https://en.wikipedia.org/wiki/Photographic_laboratory) (_over twenty years ago_) to develop her films, I was quite impressed. In spite of my love for old and classic things, I have to admit that an own photo lab is not interesting for me, since I only own one film camera. I also think that it is helpful to see the results directly when taking photos, not after a few minutes/hours when the film has been developed.

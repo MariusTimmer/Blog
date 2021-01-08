@@ -6,6 +6,7 @@ author: "Marius Timmer"
 keywords: ["Fotografie", "Canon", "Olympus", "Belichtung", "Nacht Fotografie", "Zoo", "Lichter", "Münster"]
 image: "https://mariustimmer.de/img/photos/disko_zoo_large.jpg"
 description: "Meine Gallerie"
+priority: 1.0
 ---
 
 Seit einiger Zeit komme ich immer wieder an eine kleine Auswahl an Kameras. Da ich das noch gar nicht so lange mache, entdecke ich den Bereich der Fotografie immer mehr für mich. Als ich erfuhr, dass meine Mutter vor über zwanzig Jahren ein eigenes Fotolabor hatte um ihre Filme zu entwickeln, beeindruckte mich das schon ziemlich. Trotz meiner Liebe für alte bzw. klassische Vorgehensweisen muss ich zugeben, dass ein eigenes Fotolabor für mich uninteressant ist, da ich nur noch eine Film-Kamera besitze. Außerdem glaube ich, dass es hilfreich ist, die Ergebnisse beim Ausprobieren direkt zu sehen und nicht erst nach einigen Minuten/Stunden, wenn der Film fertig entwickelt wurde.

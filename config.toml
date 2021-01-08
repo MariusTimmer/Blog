@@ -11,6 +11,7 @@ enableRobotsTXT = false
 
 [sitemap]
     changefreq = "daily"
+    priority = "0.1"
 
 [languages]
     [languages.en]
@@ -84,6 +85,7 @@ enableRobotsTXT = false
             weight = 2
 
         [[languages.de.menu.main]]
+            priority = 4
             url    = "/photos/"
             name   = "Fotografie"
             weight = 3

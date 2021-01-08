@@ -1,5 +1,5 @@
 ---
-title: "Meine neue DJI Mini 2 Drohne (erste Erfahrungen)"
+title: "Meine neue DJI Mini 2 Drohne"
 date: 2021-01-07T20:00:00+02:00
 draft: false
 author: "Marius Timmer"
