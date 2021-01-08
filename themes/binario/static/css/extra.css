@@ -1,3 +1,15 @@
 .block figure {
 	border: 1px dotted silver;
+	text-align: center;
+}
+.block figure.left {
+	float: left;
+	margin-right: 1em;
+}
+.block figure.right {
+    float: right;
+    margin-left: 1em;
+}
+.block figure img {
+	display: block;
 }
