@@ -17,7 +17,7 @@ Die Dokumentation
 
 Der AfD Pressesprecher Christian Lüth
 --------------------------------------
-Bemerkenswert finde ich, dass die rechte Influenzerin Lisa Li während des Drehs eine Art Zusammenbruch hat, ganz offen über das Milleu redet und sich bis zum Ende hin entscheidet, "_auszusteigen_". Sie erzählt auch, wie sich beispielsweise ihre Gefolgschaft im Internet "_verändert_" hat und ihr selbst zu "_krass_" wurde. Ich finde das wirklich bemerkenswert. Vor Allem, weil das der Grund ist, wieso sie sich am Ende der Dokumentation mit dem AfD-Pressesprecher Christian Lüth trifft, und diesem ungehäuerliche Aussagen entlockt:
+Bemerkenswert finde ich, dass die rechte Influenzerin [Lisa Licentia](https://twitter.com/LicentiaLisa) während des Drehs eine Art Zusammenbruch hat, ganz offen über das Milieu redet und sich bis zum Ende hin entscheidet, "_auszusteigen_". Sie erzählt auch, wie sich beispielsweise ihre Gefolgschaft im Internet "_verändert_" hat und ihr selbst zu "_krass_" wurde. Ich finde das wirklich bemerkenswert. Vor Allem, weil das der Grund ist, wieso sie sich am Ende der Dokumentation mit dem AfD-Pressesprecher Christian Lüth trifft, und Diesem ungeheure Aussagen entlockt:
 
 <blockquote>
     <p>"Wir können die nachher immer noch alle erschießen. [...] Das ist überhaupt kein Thema. Oder vergasen, oder wie du willst. Mir egal!"</p>
