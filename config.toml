@@ -127,9 +127,7 @@ enableRobotsTXT = false
 
 [params]
     author = "Marius Timmer"
-    twitter_username = "@marius_timmer"
     copyright = "Marius Timmer"
-    githubUsername = "#mariustimmer"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
@@ -137,6 +135,12 @@ enableRobotsTXT = false
     highlightStyle = "solarized-dark"
     highlightLanguages = ["php", "bash"]
     related = true
+  [params.social]
+    twitter   = "marius_timmer"
+    github    = "mariustimmer"
+    email     = "admin@mariustimmer.de"
+    telegram  = "mariustimmer"
+    instagram = "timmer94"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
