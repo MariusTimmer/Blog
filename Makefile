@@ -12,6 +12,7 @@ build: clean ${SOURCE_DIRECTORY}
 	hugo
 
 install: build
+	./minify.sh
 	ncftpput -R \
 		-u "${FTP_USERNAME}" \
 		-p "`cat ${FTP_PASSWORD_FILE}`" \
