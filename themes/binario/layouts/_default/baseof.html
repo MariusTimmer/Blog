@@ -7,8 +7,11 @@
 	<meta name="theme-color" content="{{ .Site.Params.Manifest.themeColor | default "#1b1b1b" }}">
 	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
-	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">
-	{{- if .Site.Params.opengraph }}
+	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">{{ if .IsHome }}
+    <meta name="keywords" content="{{ range first 25 $.Site.Taxonomies.tags.ByCount }}{{.Name}},{{end}}" />
+{{ else }}
+    <meta name="keywords" content="{{ delimit .Keywords ", " }}" />
+    {{ end }}{{- if .Site.Params.opengraph }}
 		{{ template "_internal/opengraph.html" . }}
 	{{- end }}
 	{{- if .Site.Params.twitter_cards }}
