@@ -21,7 +21,7 @@ enableRobotsTXT = false
         weight = 1
         [[languages.en.menu.main]]
             url    = "/en/"
-            name   = "Home"
+            name   = "Homepage"
             weight = 1
 
         [[languages.en.menu.main]]
@@ -76,7 +76,7 @@ enableRobotsTXT = false
         weight = 2
         [[languages.de.menu.main]]
             url    = "/"
-            name   = "Start"
+            name   = "Startseite"
             weight = 1
 
         [[languages.de.menu.main]]
