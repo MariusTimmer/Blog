@@ -11,7 +11,16 @@ priority: 0.9
 ## Persönliches
 Zu mir selber gibt es eigentlich nicht viel zu sagen außer das, was ohnehin schon bekannt ist: Ich bin Marius Timmer, geboren 1994 im Münsterland. Nach meiner Ausbildung zum *Fachinformatiker für Anwendungsentwicklung* (*aka Programmierer*) wurde ich unbefristet übernommen und arbeite seit dem als Anwendungsentwickler am Zentrum für Informationsverarbeitung der Westfälischen Wilhelms-Universität Münster. Wenn ich mal nicht arbeite oder trotzdem programmiere, fahre ich gerne in Urlaube mit unbekanntem Ziel.
 
-<img alt="Ich auf einem Pferd" src="/img/timmer.jpg" srcset="/img/timmer_small.jpg 640w,/img/timmer.jpg 1024w" />
+<figure class="right">
+    <img
+        alt="Ein relativ aktuelles Foto von mir"
+        src="/img/timmer.jpg"
+        srcset="/img/timmer_small.jpg  480w,
+                /img/timmer_medium.jpg 960w,
+                /img/timmer.jpg 1024w"
+    />
+    <figcaption>Ein relativ aktuelles Bild von mir</figcaption>
+</figure>
 
 
 ## Über diesen Blog

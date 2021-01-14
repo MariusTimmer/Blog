@@ -7,9 +7,17 @@ keywords: ["Drohne", "DJI Mini 2", "Fliegen", "Videos", "Weihnachten", "Luftfahr
 description: "Meine erste Mini 2 Drohne von DJI erfordert eine Menge Bürokratie mit Versicherung und LBA. Eine Menge Flugstunden muss man dann auch noch sammeln."
 ---
 
-<figure class="right">
-    <img title="Die DJI Mini 2 Drohne wie ich sie jetzt auch habe." alt="DJI Mini 2 Drohne" src="/img/djimini2.png">
-    <caption>Die DJI Mini 2 Drohne wie ich sie jetzt auch habe.</caption>
+<figure class="right col2">
+    <img
+        title="Die DJI Mini 2 Drohne wie ich sie jetzt auch habe."
+        alt="DJI Mini 2 Drohne"
+        src="/img/djimini2.png"
+        srcset="/img/djimini2_small.png  480w,
+                /img/djimini2_medium.png 960w,
+                /img/djimini2_large.png  1920w,
+                /img/djimini2.png 2200w"
+        />
+    <figcaption>Die DJI Mini 2 Drohne wie ich sie jetzt auch habe.</figcaption>
 </figure>
 Zu diesem Weihnachten gabe es eine Reihe von Geschenken. Unter anderem zum Beispiel ein cooles Poster von "Haus des Geldes" in der originalen Spanischen Sprache, aber eben auch eine **[Mini 2 Drohne](https://www.dji.com/de/mini-2)** von DJI. Laut vielen Reviews im Netz ist das wohl _die perfekte Einsteigerdrohne_, da sie gut bedienbar ist, aber auch einige Automatismen für vorprogrammiere Shots hat.
 

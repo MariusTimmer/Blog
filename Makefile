@@ -13,6 +13,7 @@ build: clean ${SOURCE_DIRECTORY}
 
 install: build
 	./minify.sh
+	./process_images.sh
 	ncftpput -R \
 		-u "${FTP_USERNAME}" \
 		-p "`cat ${FTP_PASSWORD_FILE}`" \

@@ -13,14 +13,20 @@ Nur zur Sicherheit sei an dieser Stelle erwähnt, dass ich absolut kein Freund T
 
 Ich stelle mir zum Beispiel die Frage, wie gut die Beziehung zwischen Berlin und Washington aussehen werden, wenn Donald Trump weitere vier Jahre im Amt bleibt. Wenn man sich ansieht, was in der letzten Amtszeit alles geschehen ist, sieht die Zukunft nicht rosig aus. Ich denke da vor allem an die Bilder vom G7-Gipfel, als Donald Trump sich wie ein Kind verhielt, und sich weigerte, die Hand von Angela Merkel zu schütteln, auch nachdem die Pressevertreter darum für ein Foto gebeten hatten.
 
-Sehr interessant fand' ich beispielsweise [dieses Foto](#merkel_trump), auf dem Trump wie ein trotziges Kind, welches nicht hören will, an einem Tisch sitzt, während sich Angela merkel von der anderen Seite zusammen mit Emmanuel Macron offensichtlich angestrengt mit ihm zu unterhalten versuchen. Damals wurde dieses Bild sehr häufig in den Nachrichten gezeigt. In den Medien der jeweiligen anderen Länder wurde dieses Bild aber aus anderen Perspektiven geschossen. Im Amerika sah man zum Beispiel Trump umringt von den anderen Führern der Welt. In Kanadas Medien sah man, wie sich Premierminister Justin Trudeau an die Seite Trumps setzt. Jede Nation schien Interesse daran zu haben, zu zeigen, dass man mit dem Amerikanischen Präsidenten Reden würde (_wohlmöglich um ihn zur "Vernunft" zu bringen_). Aber vielleicht bilde ich mir das auch nur ein.
-
-<figure role="group">
-    <img id="merkel_trump" src="/img/merkel_trump_g7.jpg" alt="Foto vom G7-Gipfel auf dem Trump mit verschränkten Armen trotzig an einem Tisch sitzt und sich Angela Merkel von der anderen Seite rüber beugt" />
+<figure role="group" class="right col2">
+    <img
+        id="merkel_trump"
+        src="/img/merkel_trump_g7.jpg"
+        srcset="/img/merkel_trump_g7_small.jpg  480w,
+                /img/merkel_trump_g7.jpg        700w"
+        alt="Foto vom G7-Gipfel auf dem Trump mit verschränkten Armen trotzig an einem Tisch sitzt und sich Angela Merkel von der anderen Seite rüber beugt"
+        />
     <figcaption>
         Angela Merkel scheint die Gespräche auf dem G7-Gipfel zu dominieren | Quelle: <a href="https://www.dw.com/de/merkel-und-die-us-pr%C3%A4sidenten/g-55420647">Deutsche Welle</a>
     </figcaption>
 </figure>
+Sehr interessant fand' ich beispielsweise [dieses Foto](#merkel_trump), auf dem Trump wie ein trotziges Kind, welches nicht hören will, an einem Tisch sitzt, während sich Angela merkel von der anderen Seite zusammen mit Emmanuel Macron offensichtlich angestrengt mit ihm zu unterhalten versuchen. Damals wurde dieses Bild sehr häufig in den Nachrichten gezeigt. In den Medien der jeweiligen anderen Länder wurde dieses Bild aber aus anderen Perspektiven geschossen. Im Amerika sah man zum Beispiel Trump umringt von den anderen Führern der Welt. In Kanadas Medien sah man, wie sich Premierminister Justin Trudeau an die Seite Trumps setzt. Jede Nation schien Interesse daran zu haben, zu zeigen, dass man mit dem Amerikanischen Präsidenten Reden würde (_wohlmöglich um ihn zur "Vernunft" zu bringen_). Aber vielleicht bilde ich mir das auch nur ein.
+
 
 Aktuelle Situation
 ------------------

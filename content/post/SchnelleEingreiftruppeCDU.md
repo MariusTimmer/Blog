@@ -12,11 +12,19 @@ video: ""
 
 Nachdem wenige Tage vor der vergangenen Europawahl (_ende Mai diesen Jahres_) der YouTuber Rezo ein Video veröffentlichte, welches rasenschnell groß verbreitet wurde und kein gutes Haar an der großen Koalition lässt, gibt es nun - _nur_ knapp fünf Monate später eine Reaktion der CDU. Die SPD hatte ja bereits relativ schnell ein [Antwort-Video](https://www.youtube.com/watch?v=79d9X16w8zc) von [Tiemo Wölken](https://twitter.com/woelken) veröffentlicht. Angeblich existierte auch ein Video der CDU mit [Philipp Amthor](https://de.wikipedia.org/wiki/Philipp_Amthor), welches wohl aber nicht den Qualitätsansprüchen genügte bzw. nicht als angemessen angesehen wurde (_wie er selber bei Markus Lanz sagte_) und daher [nie veröffentlicht](https://www.youtube.com/watch?v=KGuKAHX5-_k) wurde.
 
+<figure role="group" class="right col3">
+    <img
+        alt="Paul Ziemiak in einer Fernsehsendung mit einem Foto von Rezo im Hintergrund"
+        srcset="/img/ziemiak_rezo_small.jpg 640w,
+                /img/ziemiak_rezo.jpg       940w"
+        src="/img/ziemiak_rezo.jpg"
+        />
+    <figcaption>Paul Ziemiak im Fernseh-Interview zum Thema Influencer und ihr Einfluss in der Politik</figcaption>
+</figure>
 So wie es aussieht, wird es in Zukunft aber auch wesentlich besser laufen für die Christdemokraten: Paul Ziemiak will nun eine [neue Art der Öffentlichkeitsarbeit ausprobieren](https://www.heise.de/newsticker/meldung/Krisenradar-CDU-plant-schnelle-Online-Eingreiftruppe-nach-Rezo-Alarm-4543909.html). Eine schnelle online-Eingreiftruppe soll Hilfe bringen und rechtzeitig reagieren. Allerdings bleibt der Vorschlag gewohnt schwammig und abgesehen von "Beobachten, Vorbereiten, Eingreifen" oder folgender Aussage gibt es nichts Konkretes:
 
 > "Eine schnelle Eingreiftruppe mit geeigneten Spindoktoren für die sozialen Medien soll es künftig richten."
 
-<img alt="Paul Ziemiak in einer Fernsehsendung mit einem Foto von Rezo im Hintergrund" srcset="/img/ziemiak_rezo_small.jpg 640w,/img/ziemiak_rezo.jpg 940w" src="/img/ziemiak_rezo.jpg" />
 
 Trollen wie die CSU
 -------------------
