@@ -3,7 +3,7 @@ title: "About me"
 date: 2018-03-09T14:06:36+01:00
 draft: false
 author: "Marius Timmer"
-image: "https://mariustimmer.de/img/timmer.jpg"
+image: "https://mariustimmer.de/img/timmer.webp"
 description: "A short overview"
 priority: 0.9
 ---
@@ -12,7 +12,16 @@ priority: 0.9
 There isn't much to say about me. Most of the things are already told in my posts. I am Marius Timmer, born 1994 in [Westphalia](https://en.wikipedia.org/wiki/Westphalia), a region within west Germany.
 After finishing my apprenticeship to become a software developer (*aka Coder, Hacker or whatever*) I started my full time job at the [University of Münster](https://www.uni-muenster.de/en/). When I am not working or codeing private I like to travel with my friends having no certain target.
 
-<img alt="Me on a horse" src="/img/timmer.jpg" srcset="/img/timmer_small.jpg 640w,/img/timmer.jpg 1024w" />
+<figure class="right">
+    <img
+        alt="A recent photo of me"
+        src="/img/timmer.webp"
+        srcset="/img/timmer_small.webp  480w,
+                /img/timmer_medium.webp 960w,
+                /img/timmer.webp 1024w"
+    />
+    <figcaption>A recent photo of me</figcaption>
+</figure>
 
 
 ## About this Blog

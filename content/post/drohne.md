@@ -11,11 +11,11 @@ description: "Meine erste Mini 2 Drohne von DJI erfordert eine Menge Bürokratie
     <img
         title="Die DJI Mini 2 Drohne wie ich sie jetzt auch habe."
         alt="DJI Mini 2 Drohne"
-        src="/img/djimini2.png"
-        srcset="/img/djimini2_small.png  480w,
-                /img/djimini2_medium.png 960w,
-                /img/djimini2_large.png  1920w,
-                /img/djimini2.png 2200w"
+        src="/img/djimini2.webp"
+        srcset="/img/djimini2_small.webp  480w,
+                /img/djimini2_medium.webp 960w,
+                /img/djimini2_large.webp  1920w,
+                /img/djimini2.webp 2200w"
         />
     <figcaption>Die DJI Mini 2 Drohne wie ich sie jetzt auch habe.</figcaption>
 </figure>
@@ -41,7 +41,7 @@ Das ein oder andere Bild werde ich demnächst unter [Fotografie in meinem Blog](
         id="drohnenvideo"
         controls="controls"
         width="100%"
-        poster="/video/drohne_laer_nacht_thumbnail.png"
+        poster="/video/drohne_laer_nacht_thumbnail.webp"
         autobuffer="autobuffer"
         title="Mein erster Nachtflug"
         >

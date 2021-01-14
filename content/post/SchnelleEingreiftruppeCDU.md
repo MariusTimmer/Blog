@@ -6,7 +6,7 @@ date: 2019-10-01T12:16:00+01:00
 tags: ["Politik"]
 keywords: ["Politik", "Rezo", "Jugend", "CDU", "CSU", "CSYou", "SPD", "NPD", "AfD", "Paul Ziemiak", "Ziemiak", "Philipp Amthor", "Tiemo Wölken", "Amthor", "YouTube", "Video", "Social Media", "Soziale Medien", "Trolle"]
 draft: false
-image: "https://mariustimmer.de/img/ziemiak_rezo.jpg"
+image: "https://mariustimmer.de/img/ziemiak_rezo_small.webp"
 video: ""
 ---
 
@@ -15,9 +15,9 @@ Nachdem wenige Tage vor der vergangenen Europawahl (_ende Mai diesen Jahres_) de
 <figure role="group" class="right col3">
     <img
         alt="Paul Ziemiak in einer Fernsehsendung mit einem Foto von Rezo im Hintergrund"
-        srcset="/img/ziemiak_rezo_small.jpg 640w,
-                /img/ziemiak_rezo.jpg       940w"
-        src="/img/ziemiak_rezo.jpg"
+        srcset="/img/ziemiak_rezo_small.webp 480w,
+                /img/ziemiak_rezo.webp       940w"
+        src="/img/ziemiak_rezo.webp"
         />
     <figcaption>Paul Ziemiak im Fernseh-Interview zum Thema Influencer und ihr Einfluss in der Politik</figcaption>
 </figure>

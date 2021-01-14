@@ -3,7 +3,7 @@ title: "Über Mich"
 date: 2018-03-09T14:06:36+01:00
 draft: false
 author: "Marius Timmer"
-image: "https://mariustimmer.de/img/timmer.jpg"
+image: "https://mariustimmer.de/img/timmer_small.webp"
 description: "Eine kleine Übersicht"
 priority: 0.9
 ---
@@ -14,10 +14,10 @@ Zu mir selber gibt es eigentlich nicht viel zu sagen außer das, was ohnehin sch
 <figure class="right">
     <img
         alt="Ein relativ aktuelles Foto von mir"
-        src="/img/timmer.jpg"
-        srcset="/img/timmer_small.jpg  480w,
-                /img/timmer_medium.jpg 960w,
-                /img/timmer.jpg 1024w"
+        src="/img/timmer.webp"
+        srcset="/img/timmer_small.webp  480w,
+                /img/timmer_medium.webp 960w,
+                /img/timmer.webp 1024w"
     />
     <figcaption>Ein relativ aktuelles Bild von mir</figcaption>
 </figure>

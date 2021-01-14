@@ -16,9 +16,9 @@ Ich stelle mir zum Beispiel die Frage, wie gut die Beziehung zwischen Berlin und
 <figure role="group" class="right col2">
     <img
         id="merkel_trump"
-        src="/img/merkel_trump_g7.jpg"
-        srcset="/img/merkel_trump_g7_small.jpg  480w,
-                /img/merkel_trump_g7.jpg        700w"
+        src="/img/merkel_trump_g7.webp"
+        srcset="/img/merkel_trump_g7_small.webp  480w,
+                /img/merkel_trump_g7.webp        700w"
         alt="Foto vom G7-Gipfel auf dem Trump mit verschränkten Armen trotzig an einem Tisch sitzt und sich Angela Merkel von der anderen Seite rüber beugt"
         />
     <figcaption>

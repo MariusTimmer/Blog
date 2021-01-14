@@ -135,13 +135,30 @@ enableRobotsTXT = false
     highlightStyle = "solarized-dark"
     highlightLanguages = ["php", "bash"]
     related = true
-  [params.social]
-    twitter   = "marius_timmer"
-    github    = "mariustimmer"
-    email     = "admin@mariustimmer.de"
-    telegram  = "mariustimmer"
-    instagram = "timmer94"
+    [params.social]
+        twitter   = "marius_timmer"
+        github    = "mariustimmer"
+        email     = "admin@mariustimmer.de"
+        telegram  = "mariustimmer"
+        instagram = "timmer94"
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[outputFormats]
+    [outputFormats.MANIFEST]
+        mediaType = "application/json"
+        baseName = "manifest"
+        isPlainText = true
+        notAlternative = true
+[outputs]
+    home = ["HTML", "RSS", "MANIFEST"]
+
+    [params.Manifest]
+        name            = "Timmers persönlicher Blog"
+        shortName       = "Timmers Blog"
+        display         = "browser"
+        startUrl        = "/"
+        backgroundColor = "#FFFFFF"
+        themeColor      = "#FFFFFF"

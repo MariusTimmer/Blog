@@ -8,17 +8,18 @@ tags = ["ThinkPad"]
 
 Es ist kein großes Geheimnis, dass ich ein Liebhaber von guten alten ThinkPads bin. Nicht die der neuen Generationen, mit denen ich schon aus rein optischen Gründen nichts anfangen kann. Ich rede viel mehr von jenen, die es auch verkraften mal vom Tisch zu fallen. Jemand erzählte mir mal vor langer Zeit, dass er (_wie auch immer man das anstellt_) mit dem Auto über seines gefahren ist und es anschließend trotzdem noch tadellos funktionierte. Nun habe ich das weder jemals selber getestet, noch habe ich das Verlangen danach, es selber auszuprobieren. Wenn man sich aber die alten „Knochen“ ansieht, kann ich mir schon vorstellen dass da etwas dran ist. Mein größtes und damit auch schwerstes ThinkPad ist mein A31 von 2003 mit einer Größe von 15" und ganzen 3,5 Kilogramm Gewicht. Bevor das beim Herunterfallen kaputt geht, hat man eher ein Loch im Boden.
 
-Bisher hatte ich drei verschiedene Laptops dieser Sorte. Alle zeichneten sich dadurch aus, dass sie vor 2006 gebaut wurden und somit auch nicht mehr die schnellsten waren. Allerdings reizte gerade das mich extrem daran. Beispielsweise hatte mein T23 als ich ihn bekam ganze 64MB Arbeitsspeicher, was selbst für Windows XP nur die Mindestvoraussetzungen erfüllt. Im Laufe der Zeit hatte ich das mal auf ganze 256MB aufgestockt und ein ArchLinux darauf installiert. Trotz der nur 1,13 GHz konnte man sogar damit arbeiten, wenn man die GUI nutzte. Allerdings auch nur zum Programmieren in einem Text-Editor. Sobald man Anwendungen wie den Firefox startet, muss man eine Menge Geduld mit bringen.
-
 <figure role="group" class="right col2">
     <img
         alt="Foto eines Thinkpad X200"
-        src="/img/photo_thinkpad_x200.jpg"
-        srcset="/img/photo_thinkpad_x200_small.jpg 480w,
-                /img/photo_thinkpad_x200.jpg       800w"
+        src="/img/photo_thinkpad_x200.webp"
+        srcset="/img/photo_thinkpad_x200_small.webp 480w,
+                /img/photo_thinkpad_x200.webp       800w"
         />
     <figcaption>Mein neues Thinkpad x200</figcaption>
 </figure>
+
+
+Bisher hatte ich drei verschiedene Laptops dieser Sorte. Alle zeichneten sich dadurch aus, dass sie vor 2006 gebaut wurden und somit auch nicht mehr die schnellsten waren. Allerdings reizte gerade das mich extrem daran. Beispielsweise hatte mein T23 als ich ihn bekam ganze 64MB Arbeitsspeicher, was selbst für Windows XP nur die Mindestvoraussetzungen erfüllt. Im Laufe der Zeit hatte ich das mal auf ganze 256MB aufgestockt und ein ArchLinux darauf installiert. Trotz der nur 1,13 GHz konnte man sogar damit arbeiten, wenn man die GUI nutzte. Allerdings auch nur zum Programmieren in einem Text-Editor. Sobald man Anwendungen wie den Firefox startet, muss man eine Menge Geduld mit bringen.
 
 Überraschender weise kam ich neulich an ein ThinkPad X200, welches bis dahin nur noch als Ersatzteillager diente. Die meisten Tasten der Tastatur waren ohne Funktion, es gab keine Festplatte und auch der Arbeitsspeicher war nicht gut ausgerüstet. Allerdings musste ich dieses Gerät haben, weil es noch immer den Charme der alten soliden Vorväter hat, aber technisch trotzdem einwandfrei ist. Ich investierte also in einige Dinge und erhielt am Ende einen Laptop, auf dem ich ohne Probleme flüssig Videos gucken, Entwickeln und sonst was machen kann. Die Hardware bietet mir genau was ich brauche, aber keine unnötigen Pseudo-Features wie eine Webcam o.Ä..
 

@@ -6,7 +6,7 @@ date: "2019-08-22T20:00:00+02:00"
 tags: ["Reisen", "Twitch", "Youtube"]
 draft: false
 keywords: ["Reisen", "Gamescom", "Köln", "Twitch", "YouTube", "SaftigesGnu", "DerHeider", "Heider", "Klengan", "Pietsmiet", "Jay", "Sebro"]
-image: "https://mariustimmer.de/img/saftigesgnu.jpg"
+image: "https://mariustimmer.de/img/saftigesgnu_small.webp"
 video: "Mok0Gyoz-5k"
 ---
 
@@ -19,9 +19,9 @@ Es hat einige Zeit gedauert, bis man einen groben Überblick hatte, was es wo zu
 <figure role="group" class="right col2">
     <img
         alt="@SaftigesGnu und ich"
-        srcset="/img/saftigesgnu_small.jpg 480w,
-                /img/saftigesgnu.jpg       536w"
-        src="/img/saftigesgnu.jpg"
+        srcset="/img/saftigesgnu_small.webp 480w,
+                /img/saftigesgnu.webp       536w"
+        src="/img/saftigesgnu.webp"
         />
     <figcaption>Unter Anderem traf ich <a href="https://twitter.com/SaftigesGnu">@SaftigesGnu</a></figcaption>
 </figure>
