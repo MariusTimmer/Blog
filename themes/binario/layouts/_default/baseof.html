@@ -46,8 +46,10 @@
 	{{- with .Site.Params.colorTheme }}
 	<link rel="stylesheet" href="{{ (printf "css/themes/%s.css" .) | relURL }}">
 	{{- end }}
-	<link rel="icon" href="{{ "icons/16.png" | relURL }}" sizes="16x16" type="image/png">
-	<link rel="icon" href="{{ "icons/32.png" | relURL }}" sizes="32x32" type="image/png">
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" href="/favicon.png" sizes="96x96" type="image/png" />
+    <link rel="icon" href="/favicon.ico" sizes="48x48" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="96x96" href="/apple-touch-icon.png" />
 	{{- with .OutputFormats.Get "rss" }}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
