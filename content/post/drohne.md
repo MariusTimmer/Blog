@@ -5,6 +5,7 @@ draft: false
 author: "Marius Timmer"
 keywords: ["Drohne", "DJI Mini 2", "Fliegen", "Videos", "Weihnachten", "Luftfahrt-Bundesamt", "Haftpflicht"]
 description: "Meine erste Mini 2 Drohne von DJI erfordert eine Menge Bürokratie mit Versicherung und LBA. Eine Menge Flugstunden muss man dann auch noch sammeln."
+video: "ZMimjM1-ocE"
 ---
 
 <figure class="right col2">
