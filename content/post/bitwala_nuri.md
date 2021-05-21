@@ -29,8 +29,8 @@ Einige Jahre vorher (_2010_) hätte ich BTC minen und vor allem bis jetzt behalt
     <a href="https://app.nuri.com/r/D9MM-UK9B" target="_blank">
 		<img
 	        alt="Bildschirmfoto meiner Bitcoin-Wallet in der Nuri-App"
-	        srcset="/img/nuri.webp 480w,
-	                /img/nuri.webp       536w"
+	        srcset="/img/nuri_small.webp 480w,
+	                /img/nuri.webp       640w"
 	        src="/img/nuri.webp"
 	        />
 	</a>
