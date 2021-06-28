@@ -17,7 +17,7 @@ Da für den Anschluss zuerst das Kabel zum Grundstück verlegt und anschließend
 
 Zwei Wochen nachdem wir den Vertrag abgeschlossen hatten, kamen eine hand voll Bauarbeiter vorbei. Das Glasfasernetz führt sprichwörtlich direkt vor unserer Haustür vorbei führt, mussten sie von dort nur ein kurzes Stück (_knapp 10 Meter_) neues Kabel verlegen. Sie führten das Kabel unter unserem Gartenzaun und unter den Steinen in unserem Vorgarten her. Das ging erstaunlich schnell. Vor allem sah man am Ende nicht direkt, dass einige Steine des Vorgartens herausgenommen wurden. Nachdem die Männer ihre Arbeit abgeschlossen hatten, guckte kurz vor der Hauswand ein aufgerolltes Stück Glasfaserkabel aus dem Boden.
 
-Eine Woche später kam ein einzelner Technicker vorbei, der sich darum kümmerte, den Anschluss in das Haus zu verlegen. Er selber war den gesamten Nachmittag damit beschäftigt. Die Bohrung am Haus selber dauerte aber nur wenige Minuten. Nach weiteren 30 Minuten hatte er den <abbr title=Haus-Übergabe-Punkt">HÜP</abbr> in der Küche angeschlossen und sagte mir, dass wir jetzt direkt los legen könnten und alles bereit sei.
+Eine Woche später kam ein einzelner Technicker vorbei, der sich darum kümmerte, den Anschluss in das Haus zu verlegen. Er selber war den gesamten Nachmittag damit beschäftigt. Die Bohrung am Haus selber dauerte aber nur wenige Minuten. Nach weiteren 30 Minuten hatte er den <abbr title="Haus-Übergabe-Punkt">HÜP</abbr> in der Küche angeschlossen und sagte mir, dass wir jetzt direkt los legen könnten und alles bereit sei.
 
 Anfangsprobleme
 ---------------
