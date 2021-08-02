@@ -3,6 +3,7 @@ title: "Glasfaser bis nach Hause"
 description: "Wie wir Glasfaser bis ins Haus gelegt bekommen haben"
 author: "Marius Timmer"
 keywords: ["Glasfaser", "Gigabit", "Bohrung", "Deutsche Glasfaser", "Telekom"]
+tags: ["Technik"]
 date: "2020-04-28T19:00:00+02:00"
 draft: false
 ---

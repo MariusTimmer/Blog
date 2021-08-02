@@ -4,6 +4,7 @@ date: 2018-11-28T23:50:25+01:00
 tags: []
 draft: false
 keywords: ["PHP", "Programmierung", "Softwareentwicklung", "C", "GnuPG", "GPG", "PGP", "Verschlüsselung", "php-gpg"]
+tags: ["Technik"]
 video: ""
 ---
 

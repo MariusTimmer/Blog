@@ -4,6 +4,7 @@ date: 2021-06-14T10:00:00+02:00
 draft: false
 author: "Marius Timmer"
 keywords: ["Einbruch", "Diebstahl", "Auto", "Audi 80"]
+tags: ["Auto"]
 description: "Mir ist jemand in mein Auto eingebrochen"
 ---
 

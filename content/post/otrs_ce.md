@@ -4,6 +4,7 @@ date: 2021-01-12T10:00:00+02:00
 draft: false
 author: "Marius Timmer"
 keywords: ["OTRS", "Community Edition", "OTRS AG", "Znuny", "KIX", "c.a.p.e. IT GmbH", "Hochschulen"]
+tags: ["Technik", "OTRS"]
 description: "Die OTRS AG hat die rechtzeitige Veröffentlichung der Community Edition in Version 7 versäumt und damit für viel Aufruhe gesorgt."
 ---
 

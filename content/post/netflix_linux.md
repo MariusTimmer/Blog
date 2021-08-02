@@ -4,6 +4,7 @@ author: "Marius Timmer"
 date: 2018-05-08T23:31:33+02:00
 draft: false
 keywords: ["Netflix", "Linux", "Chromium", "Chrome", "Firefox", "Ubuntu"]
+tags: ["Technik"]
 ---
 
 # Netflix und Linux (Ubuntu)

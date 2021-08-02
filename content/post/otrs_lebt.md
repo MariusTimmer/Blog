@@ -4,6 +4,7 @@ date: 2021-06-29T18:00:00+02:00
 draft: false
 author: "Marius Timmer"
 keywords: ["OTRS", "Community Edition", "OTRS AG", "OTTER Allianz", "Znuny", "maxence", "becon", "Efflux", "it-novum", "perl service", "sector nord ag", "Hochschulen"]
+tags: ["Technik", "OTRS"]
 description: "Die OTRS Community Edition lebt weiter und wird nun von der OTTER Allianz weiter geführt"
 ---
 
