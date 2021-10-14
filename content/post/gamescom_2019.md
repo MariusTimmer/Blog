@@ -23,7 +23,7 @@ Es hat einige Zeit gedauert, bis man einen groben Überblick hatte, was es wo zu
                 /img/saftigesgnu.webp       536w"
         src="/img/saftigesgnu.webp"
         />
-    <figcaption>Unter Anderem traf ich <a href="https://twitter.com/SaftigesGnu">@SaftigesGnu</a></figcaption>
+    <figcaption>Unter Anderem traf ich <a href="https://twitter.com/Gnu_Official_">@SaftigesGnu</a></figcaption>
 </figure>
 
 Fasziniert bin ich auch ein wenig davon, wie selbstverständlich sich dort alle durch "Funk und Fernsehen" (_Also YouTube und Twitch_) bekannten Leute fort bewegen. Sie gehen einfach durch die Menschenmengen und werden gar nicht mal (_soweit ich das sehen konnte_) von einem Mob von Pöbel belagert. Ich hielt [Jay](https://twitter.com/JayPietsmiet) (_von [Pietsmiet](https://www.pietsmiet.de/)_) die Tür auf, und traf [Lara Loft](https://twitter.com/Lara_Loft) (_Streamerin und deutsche Stimme von Lara Croft_) einfach zwischen Tür und Angel. Gefreut habe ich mich auch, als ich draußen [Sebro](https://twitter.com/Sebro_twitch/) getroffen hatte, der mich auch von den letzten malen wiedererkannt zu haben scheint. Er hat noch eine relativ kleine Community, wodurch man sich in seinen Streams gut mit ihm unterhalten kann. Auch auf den [Artikel 13 Demonstrationen](/post/uploadfilter_koeln_dritte_demo/) traf ich ihn, da er dort auch der Veranstalter war.
