@@ -6,7 +6,9 @@ FTP_USERNAME=m.timmer
 FTP_PASSWORD_FILE=/home/timmer/.ftppassword
 
 clean:
-	rm -rf public/*
+	rm -rf \
+		public/* \
+		static/img/*.webp
 
 build: clean ${SOURCE_DIRECTORY}
 	hugo
