@@ -1,10 +1,10 @@
 ---
 title: "Mein Review zu Ghostbusters: LEGACY"
 date: "2021-11-19T10:00:00+01:00"
-description: "Gestern habe ich die Fortsetzung der Ghostbusters-Reihe \"Ghostbusters Legacy\" gesehen"
+description: "Gestern habe ich die Fortsetzung der Ghostbusters-Reihe \"Ghostbusters Legacy\" gesehen und bin begeistert. Zumindest von dem Gefühl das der Film vermittelt."
 summary: Die achtziger Jahre müssen eine spannende Zeit gewesen sein. Klar, der kalte Krieg war noch nicht zu Ende und so gab es ganz eigene Probleme. Aber dafür gab es nahezu täglich neue technische Errungenschaften so wie die Computer von Commodore, der Atari und gerade popkulturell passierte einiges. Unter vielen anderen guten Filmen erschien im Jahre 1984 der Klassiker ["Ghostbusters - die Geisterjäger"](https://www.youtube.com/watch?v=y-eckhstakM),  der mich (_sowie wohl millionen andere auf der Welt_) schon als Kind faszinierte. Nicht zuletzt wegen ECTO-1.
 tags: ["Kino"]
-keywords: ["Ghostbusters", "Legacy", "Film", "Kino", "Geister"]
+keywords: ["Ghostbusters", "Legacy", "Film", "Kino", "Review", "Geister"]
 draft: false
 ---
 
@@ -14,6 +14,8 @@ Das Original
     <img
         title="Hauptdarsteller vom Film von 1984"
         alt="Foto der vier Hauptdarsteller in ihren Uniformen am Filmset"
+        width="100%"
+        height="100%"
         src="/img/ghostbusters_original.webp"
         srcset="/img/ghostbusters_original_small.webp  480w,
                 /img/ghostbusters_original_medium.webp 960w,
@@ -49,8 +51,8 @@ Geschichte nun also endlich im Kino **fortgesetzt**.
 
 Das Gefühl steht über der Handlung
 ----------------------------------
-Um die Gefahr von Spoilern zu vermeiden, verlinke ich hier einfach nur den
-[letzten deutschen Trailer des Filmes](https://www.youtube.com/watch?v=LNuYnowgiFw).
+Um die Gefahr von Spoilern zu vermeiden, verlinke ich in diesem Review einfach
+nur den [letzten deutschen Trailer des Filmes](https://www.youtube.com/watch?v=LNuYnowgiFw).
 Damit geht es nämlich auch schon los. Entgegen der aktuellen Tendenz von
 Spoilern die gesamte Handlung bis hin zum Plot zu verraten hält er sich
 in diesem Fall gut zurück, schafft es dabei aber trotzdem Lust auf den
@@ -64,8 +66,6 @@ Kamerafahrten, einen generellen Look, der _(ein bisschen wie Stranger Things_)
 an die achtziger erinnert (_oder eher an das, was ich dafür halte_) und
 außerdem ist das Ectomobil perfekt in Szene gesetzt.
 
-Mit Kindern gehts auch
-----------------------
 Der Film erfindet nichts neu. Das erwartet man aber auch gar nicht von ihm.
 Er fühlte sich einfach gut an. Natürlich gibt es einige Plot holes, die aber
 nicht wirklich weh tun. Man muss sich darauf einlassen und dann macht es
@@ -84,6 +84,8 @@ Familienproduktion
     <img
         title="Filmplakat"
         alt="Filmplakat mit düsterem Himmel und dem Fahrzeug ECTO-1 auf einem Feld um das die Protagonisten des Filmes stehen"
+        width="100%"
+        height="100%"
         src="/img/ecto1.webp"
         srcset="/img/ecto1_small.webp  480w,
                 /img/ecto1.webp 960w"
