@@ -6,9 +6,8 @@ before_script:
 build:site:
   script:
   - hugo
-  - pwd
-  - ls -la .
-  - process_images.sh
+  - echo $HOME
+  - /bin/sh /builds/mtimm_01/blog/process_images.sh
   artifacts:
     paths:
     - public/
