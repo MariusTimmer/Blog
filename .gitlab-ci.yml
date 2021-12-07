@@ -9,7 +9,6 @@ build:site:
   - pwd
   - ls -la .
   - process_images.sh
-
-artifacts:
-  paths:
-  - public/
+  artifacts:
+    paths:
+    - public/
