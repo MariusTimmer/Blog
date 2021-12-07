@@ -4,9 +4,9 @@ stages:
 build-site:
   - image: jguyomard/hugo-builder
   - stage: build
-  before_script:
+    before_script:
     - apk --update add minify imagemagick
-  script:
+    script:
     - hugo
     - ./minify.sh
     - ./process_images.sh
