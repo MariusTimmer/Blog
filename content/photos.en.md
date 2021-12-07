@@ -26,7 +26,13 @@ You can do this with "_tripods_" that move with you, but they are simply too exp
 But not only the stars make a good motive. A few days ago I was in Münster. There is a relative light pollution (_as in every city_), but from a parking garage I know you have a great overview of the city and also the traffic ergbit nice pictures, if you can only see the blurred light tracks.
 
 <figure vocab="https://schema.org/" typeof="Photograph">
-    <img alt="Blurred lights of moving cars" srcset="/img/photos/autobahn_small.jpg 640w,/img/photos/autobahn_medium.jpg 1080w,/img/photos/autobahn_large.jpg 1920w" copyright="cc-by Marius Timmer" />
+    <img
+        alt="Blurred lights of moving cars"
+        srcset="/img/photos/autobahn_small.webp  480w,
+                /img/photos/autobahn_medium.webp 960w,
+                /img/photos/autobahn_large.webp  1920w"
+        copyright="cc-by Marius Timmer"
+        />
     <figcaption>
         <small>
             <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
@@ -55,7 +61,13 @@ I was able to collect some experience with the following cameras:
 
 
 <figure vocab="https://schema.org/" typeof="Photograph">
-    <img alt="Photo of an channel sluice at the city of Münster at night" srcset="/img/photos/hafen_small.jpg 640w,/img/photos/hafen_medium.jpg 1080w,/img/photos/hafen_large.jpg 1920w" copyright="cc-by Marius Timmer" />
+    <img
+        alt="Photo of an channel sluice at the city of Münster at night"
+        srcset="/img/photos/hafen_small.webp   480w,
+                /img/photos/hafen_medium.webp  960w,
+                /img/photos/hafen_large.webp   1920w"
+        copyright="cc-by Marius Timmer"
+        />
     <figcaption>
         <small>
             <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
@@ -69,7 +81,13 @@ I was able to collect some experience with the following cameras:
 
 
 <figure vocab="https://schema.org/" typeof="Photograph">
-    <img alt="Photo of a light installation in the zoo of Münster" srcset="/img/photos/disko_zoo_small.jpg 640w,/img/photos/disko_zoo_medium.jpg 1080w,/img/photos/disko_zoo_large.jpg 1920w" copyright="cc-by Marius Timmer" />
+    <img
+        alt="Photo of a light installation in the zoo of Münster"
+        srcset="/img/photos/disko_zoo_small.webp  480w,
+                /img/photos/disko_zoo_medium.webp 960w,
+                /img/photos/disko_zoo_large.webp  1920w"
+        copyright="cc-by Marius Timmer"
+        />
     <figcaption>
         <small>
             <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
