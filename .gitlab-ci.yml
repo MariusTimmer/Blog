@@ -6,4 +6,10 @@ before_script:
 build:site:
   script:
   - hugo
-  - ./process_images.sh
+  - pwd
+  - ls -la .
+  - process_images.sh
+
+artifacts:
+  paths:
+    - public/
