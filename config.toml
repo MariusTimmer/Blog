@@ -1,5 +1,4 @@
 baseURL = "https://mariustimmer.de/"
-languageCode = "de"
 theme = "binario"
 DefaultContentLanguage = "de"
 rssLimit = 10
