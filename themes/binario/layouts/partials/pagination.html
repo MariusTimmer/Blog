@@ -1,6 +1,6 @@
 {{- $pag := $.Paginator }}
 {{- if gt $pag.TotalPages 1 }}
-<div class="pagination block">
+<div class="pagination block" role="navigation" aria-label="Pagination Navigation">
 	{{- $.Scratch.Set "__paginator.ellipsed" false }}
 	{{- range $pag.Pagers }}
 	{{- $right := sub .TotalPages .PageNumber }}
