@@ -1,10 +1,9 @@
 image: jguyomard/hugo-builder
 
 before_script:
-- apk --update add minify imagemagick
+- apk --update add imagemagick
 
 build:site:
   script:
   - hugo
-  - ./minify.sh
   - ./process_images.sh
