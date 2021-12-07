@@ -1,12 +1,13 @@
 ---
-title: "Photography"
+title: "My photographs"
+description: "I started to be a photographer for some time. It did not work out but I would like to share the best results here."
 date: 2019-11-23T12:00:00+01:00
+lastmod: 2021-12-07T14:05:00+01:00
 draft: false
 author: "Marius Timmer"
 categories: ["Photography"]
 keywords: ["Photography", "Canon", "Olympus", "Shutter", "Night photography", "Zoo", "Lights", "Münster"]
-image: "https://mariustimmer.de/img/photos/disko_zoo_large.jpg"
-description: "My gallery"
+images: ["https://mariustimmer.de/img/photos/disko_zoo_large.jpg"]
 priority: 1.0
 ---
 

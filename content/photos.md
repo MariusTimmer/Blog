@@ -1,11 +1,12 @@
 ---
-title: "Fotografie"
+title: "Meine Fotografien"
+description: "Vor einiger Zeit habe ich mit dem Fotografieren angefangen. Das dauerte leider nicht lange, aber ich wollte mal die Ergebnisse zeigen."
 date: 2019-11-23T12:00:00+01:00
+lastmod: 2021-12-07T14:05:00+01:00
 draft: false
 author: "Marius Timmer"
 keywords: ["Fotografie", "Canon", "Olympus", "Belichtung", "Nacht Fotografie", "Zoo", "Lichter", "Münster"]
-image: "https://mariustimmer.de/img/photos/disko_zoo_large_small.webp"
-description: "Meine Gallerie"
+images: ["https://mariustimmer.de/img/photos/disko_zoo_large.jpg"]
 priority: 1.0
 ---
 
