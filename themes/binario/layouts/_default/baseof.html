@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="{{ .Site.Language.Lang | default "en-us" }}">
+<html class="no-js" lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,17 +18,17 @@
 	{{- end }}
 	{{- if .Site.Params.twitter_cards }}
 		{{ template "_internal/twitter_cards.html" . }}
-	{{- end }}
-  <meta name="og:title" content="{{ .Title }}" />
-  <meta name="og:description" content="{{ .Description }}" />
-  <meta name="og:url" content="{{ .Permalink }}" />
-  <meta name="og:type" content="article" />
-  <meta name="og:site_name" content="{{ .Site.Title }}" />{{ if .Params.Image }}
-	<meta name="og:image" content="{{ .Params.Image }}" />{{ if .Author }}
+	{{- end }}{{ if .Title }}
+ 	<meta name="og:title" content="{{ .Title }}" />{{ if .Description }}
+ 	{{ end }}<meta name="og:description" content="{{ .Description }}" />
+ 	{{ end }}<meta name="og:url" content="{{ .Permalink }}" />
+	<meta name="og:type" content="article" />
+	<meta name="og:site_name" content="{{ .Site.Title }}" />{{ if .Params.Images }}{{ range .Params.Images }}
+	<meta name="og:image" content="{{ . }}" />
+	<meta name="twitter:image" content="{{ . }}" />
+	{{ end }}{{ end }}{{ if .Author }}
 	<meta name="author" content="{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}{{ else }}{{ .Param "author" }}{{ end }}" />
 	<meta name="article:author" content="{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}{{ else }}{{ .Param "author" }}{{ end }}" />
-	{{ end }}
-	<meta name="twitter:image" content="{{ .Params.Image }}" />
 	{{ end }}{{ if .Params.video }}
 	<meta name="og:video" content="https://www.youtube.com/watch?v={{ .Params.video }}" />
 	{{ end }}
