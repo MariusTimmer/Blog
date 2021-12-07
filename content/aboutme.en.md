@@ -12,7 +12,7 @@ priority: 0.9
 There isn't much to say about me. Most of the things are already told in my posts. I am Marius Timmer, born 1994 in [Westphalia](https://en.wikipedia.org/wiki/Westphalia), a region within west Germany.
 After finishing my apprenticeship to become a software developer (*aka Coder, Hacker or whatever*) I started my full time job at the [University of Münster](https://www.uni-muenster.de/en/). When I am not working or codeing private I like to travel with my friends having no certain target.
 
-<figure class="right">
+<figure class="right col3">
     <img
         alt="A recent photo of me"
         src="/img/timmer.webp"
@@ -31,6 +31,15 @@ I started this little blog to test the software [Hugo](https://gohugo.io/) which
 ## Contact
 In case you want to contact me (*And I do not mean the kind of contact my spam is full with*) you can use email. Usually it is easyer to reach me with a email instead of a WhatsApp message or something because I do not like to answer my annoying cell phone all the time it rings me.
 
-I am able to read HTML mails but I do prefer to use `PlainText`. So you should consider using it. This mail account is hosted by myself which is why your mail provider could deny receiving my mails. Keep that in mind when contacting me. I suggest to use PGP / GnuPG when communicating. Here you can find my public key: [`F792 2D50 82D7 D064 DFCC  D38C 3E31 0C88 2C31 6733`](/timmer_at_mariustimmer_no_ip_org.asc)
+Of course I am able to read HTML mails but I really do prefer to get `plain text` mails. So you should consider using it instead of HTML. I suggest to use [GnuPG](https://gnupg.com/index.html) when communicating. You will find my mail address in the footer of this page (_Finger print: [`8180 A515 BAA9 285C 91FC ECBC 0CD8 0EC9 E66F 69BF`](/8180A515BAA9285C91FCECBC0CD80EC9E66F69BF.asc)_).
 
-[Timmer@MariusTimmer.no-ip.org](mailto:timmer@mariustimmer.no-ip.org)
+<div vocab="http://schema.org/" typeof="Person" style="text-align: center;">
+    <address>
+        <span property="givenName">Marius</span> <span property="familyName">Timmer</span> &mdash;
+        <span property="address" typeof="PostalAddress">
+            <span property="streetAddress">Am Bach 14</span> &mdash;
+            <span property="postalCode">48366</span> <span property="addressRegion">Laer</span> &mdash;
+            <span property="country">Germany</span>
+        </span>
+    </address>
+</div>
