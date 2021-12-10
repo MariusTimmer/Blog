@@ -3,9 +3,9 @@ image: jguyomard/hugo-builder
 before_script:
 - apk --update add imagemagick
 
-build:site:
+pages:
   script:
-  - hugo
+  - hugo --baseURL https://mtimm_01.zivgitlabpages.uni-muenster.de/blog/
   - echo $HOME
   - /bin/sh /builds/mtimm_01/blog/process_images.sh
   artifacts:
