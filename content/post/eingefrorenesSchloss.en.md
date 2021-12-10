@@ -25,7 +25,7 @@ Winter is coming
 </figure>
 
 In mid-December, it shouldn't be much of a surprise that winter is dropping the
-temperatures, and it freezes again at night. As a car driver the first thing
+temperatures, and it freezes again at night. As a Audi 80 driver the first thing
 you notice is that the roads are slippery. Then, if you have a car without
 <abbr title="Anti-lock braking system">ABS</abbr> in the case of a braking,
 even good winter tires are no longer much help. With summer tires it would be
@@ -35,9 +35,10 @@ one you quickly stand in the middle of the intersection instead of on the
 stop line.
 
 When I wanted to drive to work this morning, I quickly realized that I couldn't
-get into the car. The lock was frozen. In the past, I could get **frozen locks
-relatively easily and quickly with my breath warm enough** so that the door
-could be unlocked again. However, today that wasn't enough.
+get into the Audi. Not only streets get slippery in winter, but door locks
+freeze. In the past, I could get **frozen locks relatively easily and quickly
+with my breath warm enough** so that the door could be unlocked again. However,
+today that wasn't enough.
 
 Does a lighter help?
 --------------------

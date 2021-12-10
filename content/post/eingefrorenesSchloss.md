@@ -25,7 +25,7 @@ Der Winter kommt
 </figure>
 
 Mitte Dezember sollte es nicht sehr überraschend sein, dass der Winter die
-Temperaturen fallen lässt und es in den Nächten wieder friert. Als Autofahrer
+Temperaturen fallen lässt und es in den Nächten wieder friert. Als Audi 80 Fahrer
 merkt man das immer als Erstes an glatten Straßen. Wenn man dann ein Auto ohne
 <abbr title="Antiblockiersystem">ABS</abbr> fährt, helfen im Falle einer
 Bremsung aber auch Winterreifen nicht mehr viel. Mit Sommerreifen wäre es
@@ -34,10 +34,11 @@ ich erzählen, dass die Räder auch schon bei leichtem Bremsen stillstehen und
 man schnell mal mitten auf der Kreuzung steht anstatt auf der Haltelinie.
 
 Als ich heute Morgen dann "_mal eben_" zur Arbeit fahren wollte, musste ich
-schnell feststellen, dass ich gar nicht in das Auto reinkomme. Das Schloss war
-eingefroren. In der Vergangenheit konnte ich eingefrorene Schlösser relativ
-**einfach und schnell mit meinem Atem warm** genug bekommen, sodass die Tür
-sich wieder aufschließen ließ. Heute reichte das aber nicht aus.
+schnell feststellen, dass ich gar nicht in den Audi reinkomme. Im Winter
+werden nicht nur Straßen glatt, Türschlösser können auch einfrieren. In der
+Vergangenheit konnte ich eingefrorene Schlösser relativ **einfach und schnell
+mit meinem Atem warm** genug bekommen, sodass die Tür sich wieder aufschließen
+ließ. Heute reichte das aber nicht aus.
 
 
 Hilft ein Feuerzeug?
