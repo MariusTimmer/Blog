@@ -4,7 +4,7 @@ author: "Marius Timmer"
 date: 2019-12-09T16:31:33+02:00
 draft: false
 keywords: ["Firewalld", "Firewall", "Linux", "Network", "Host", "IP", "IP address", "nftables", "iptables"]
-tags: ["Technik"]
+tags: ["Technik", "Linux"]
 ---
 
 <span vocab="http://schema.org/" typeof="Report">
