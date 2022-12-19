@@ -11,6 +11,7 @@
     <meta name="robots" content="index" />
     <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">{{ if .IsHome }}
     <meta name="keywords" content="{{ range first 25 $.Site.Taxonomies.tags.ByCount }}{{.Name}},{{end}}" />
+    <meta rel="me" href="https://mastodon.mariustimmer.de/@timmer" />
 {{ else }}
     <meta name="keywords" content="{{ delimit .Keywords ", " }}" />
     {{ end }}{{- if .Site.Params.opengraph }}
