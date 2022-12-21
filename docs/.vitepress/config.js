@@ -20,10 +20,6 @@ export default {
         lineNumbers: true
     },
     themeConfig: {
-        editLink: {
-            pattern: "https://github.com/mariustimmer/blog/edit/main/docs/:path",
-            text: "auf Github Bearbeiten"
-        },
         logo: {
             src: "/favicon.png",
             alt: "Kleines monochromes Bild von Marius Timmer im Profil"
