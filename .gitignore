@@ -1,4 +1,5 @@
-public/
-themes/*
-!themes/binario
+node_modules
+docs/.vitepress/cache
+docs/.vitepress/dist
 *.webp
+!*_thumbnail.webp
