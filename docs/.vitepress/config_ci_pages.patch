@@ -1,0 +1,12 @@
+diff --git a/docs/.vitepress/config.js b/docs/.vitepress/config.js
+index aeb8425..ca35da2 100644
+--- a/docs/.vitepress/config.js
++++ b/docs/.vitepress/config.js
+@@ -2,6 +2,7 @@ export default {
+     title: "Timmers Blog",
+     description: "Marius Timmers persönlicher Blog",
+     lang: "de",
++    base: "/blog/",
+     author: {
+         name: "Marius Timmer",
+         mail: "info@mariustimmer.de"

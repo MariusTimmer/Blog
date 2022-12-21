@@ -27,10 +27,7 @@
 	<meta name="og:site_name" content="{{ .Site.Title }}" />{{ if .Params.Images }}{{ range .Params.Images }}
 	<meta name="og:image" content="{{ . }}" />
 	<meta name="twitter:image" content="{{ . }}" />
-	{{ end }}{{ end }}{{ if .Params.image }}
-	<meta name="og:image" content="{{ .Params.image }}" />
-	<meta name="twitter:image" content="{{ .Params.image }}" />
-	{{ end }}{{ if .Author }}
+	{{ end }}{{ end }}{{ if .Author }}
 	<meta name="author" content="{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}{{ else }}{{ .Param "author" }}{{ end }}" />
 	<meta name="article:author" content="{{ if $.Param "author.display_name" }}{{ $.Param "author.display_name" }}{{ else }}{{ .Param "author" }}{{ end }}" />
 	{{ end }}{{ if .Params.video }}
