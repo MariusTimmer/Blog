@@ -1,3 +1,6 @@
+import postdata from "../../postdata.json";
+import postUtils from "./../utilities/postUtils.js";
+
 export default {
     title: "Timmers Blog",
     description: "Marius Timmers persönlicher Blog",
@@ -30,6 +33,10 @@ export default {
                 link: "/"
             },
             {
+                text: "Beiträge",
+                link: "/post/"
+            },
+            {
                 text: "Fotografie",
                 link: "/photos"
             },
@@ -42,43 +49,45 @@ export default {
                 link: "/aboutme"
             }
         ],
-        sidebar: [
-            {
-                text: "Aktuelle Beiträge",
-                collapsible: true,
-                items: [
-                    {
-                        text: "Meine Mastodon-Instanz",
-                        link: "/post/mastodon"
-                    },
-                    {
-                        text: "Sprengstoff am Longinusturm",
-                        link: "/post/sprengunglonginusturm"
-                    },
-                    {
-                        text: "Gentoo auf dem PowerPC",
-                        link: "/post/powerpcgentoo"
-                    }
-                ]
-            },
-            {
-                text: "Klassiker",
-                collapsible: true,
-                items: [
-                    {
-                        text: "Gentoo auf dem PowerPC",
-                        link: "/post/powerpcgentoo"
-                    },
-                    {
-                        text: "OTRS lebt",
-                        link: "/post/otrs_lebt"
-                    },
-                    {
-                        text: "Gamescom 2019",
-                        link: "/post/gamescom_2019"
-                    }
-                ]
-            }
-        ]
+        sidebar: {
+            "/post/": [
+                {
+                    text: "Alle Beiträge",
+                    collapsible: true,
+                    collapsed: true,
+                    items: postUtils.getPostsNavigation(
+                        postdata.sort(
+                            postUtils.sortPosts
+                        ),
+                        100
+                    )
+                }
+            ],
+            "/": [
+                {
+                    text: "OTRS",
+                    collapsable: true,
+                    collapsed: false,
+                    items: [
+                        {
+                            text: "OTRS CE lebt",
+                            link: "/post/otrs_lebt"
+                        },
+                        {
+                            text: "Ende von OTRS CE?",
+                            link: "/post/otrs_ce"
+                        },
+                        {
+                            text: "Bug im OTRS Protokoll",
+                            link: "/post/otrs_log_bug"
+                        }
+                    ]
+                }
+            ]
+        },
+        footer: {
+            message: "Zusammengebastelt mit <a href=\"https://vitepress.vuejs.org/\">VitePress</a>",
+            copyright: "Copyright &copy; seit 2017 bis heute: <a href=\"/aboutme\">Marius Timmer</a>"
+        }
     }
 }

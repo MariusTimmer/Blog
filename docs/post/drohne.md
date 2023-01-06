@@ -9,18 +9,7 @@ description: "Meine erste Mini 2 Drohne von DJI erfordert eine Menge Bürokratie
 video: "ZMimjM1-ocE"
 ---
 
-<figure class="right col2">
-    <img
-        title="Die DJI Mini 2 Drohne wie ich sie jetzt auch habe."
-        alt="DJI Mini 2 Drohne"
-        src="/img/djimini2.webp"
-        srcset="/img/djimini2_small.webp  480w,
-                /img/djimini2_medium.webp 960w,
-                /img/djimini2_large.webp  1920w,
-                /img/djimini2.webp 2200w"
-        />
-    <figcaption>Die DJI Mini 2 Drohne wie ich sie jetzt auch habe.</figcaption>
-</figure>
+<Image :imagedata="drone_image" />
 
 Zu diesem Weihnachten gabe es eine Reihe von Geschenken. Unter anderem zum Beispiel ein cooles Poster von "Haus des Geldes" in der originalen Spanischen Sprache, aber eben auch eine **[Mini 2 Drohne](https://www.dji.com/de/mini-2)** von DJI. Laut vielen Reviews im Netz ist das wohl _die perfekte Einsteigerdrohne_, da sie gut bedienbar ist, aber auch einige Automatismen für vorprogrammiere Shots hat.
 
@@ -57,3 +46,18 @@ Das ein oder andere Bild werde ich demnächst unter [Fotografie in meinem Blog](
 </figure>
 
 [1]: https://www.lba.de/DE/Betrieb/Unbemannte_Luftfahrtsysteme/UAS_Betreiberregistrierung/UAS_Betreiberregistrierung_node.html
+
+<script setup>
+import Image from "./../components/Image.vue";
+
+const drone_image = {
+    src: "djimini2",
+    srcset: [
+        "djimini2_small",
+        "djimini2_medium",
+        "djimini2_large",
+        "djimini2"
+    ],
+    title: "Die DJI Mini 2 Drohne wie ich sie jetzt auch habe"
+};
+</script>

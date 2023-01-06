@@ -1,5 +1,5 @@
 ---
-title: "Der Winter lässt Türschlösser einfrieren"
+title: "Eingefrorene Türschlösser"
 description: "Der Winter hat begonnen und die Temperaturen sinken. Heute Morgen ist mir seit langer Zeit mal wieder das Türschloss vom Auto eingefroren."
 date: "2021-12-10T10:45:05+01:00"
 keywords: ["Auto", "Audi 80", "Winter", "Türschloss", "ABS", "Bremsen"]
@@ -7,6 +7,9 @@ tags: ["Auto"]
 images: ["https://mariustimmer.de/img/audi80.webp"]
 draft: false
 ---
+
+{{ $frontmatter.title }}
+========================
 
 Der Winter kommt
 ----------------

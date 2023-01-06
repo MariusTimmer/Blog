@@ -8,6 +8,9 @@ keywords: ["Ghostbusters", "Legacy", "Film", "Kino", "Review", "Geister"]
 draft: false
 ---
 
+{{ $frontmatter.title }}
+========================
+
 Das Original
 ------------
 <figure class="right col3">
