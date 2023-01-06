@@ -5,8 +5,11 @@ draft: false
 author: "Marius Timmer"
 keywords: ["Einbruch", "Diebstahl", "Auto", "Audi 80"]
 tags: ["Auto"]
-description: "Mir ist jemand in mein Auto eingebrochen"
+description: "Bei mir ist jemand in mein Auto eingebrochen"
 ---
+
+{{ $frontmatter.title }}
+========================
 
 Die Story
 ---------

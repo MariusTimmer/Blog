@@ -7,6 +7,8 @@ tags: ["Technik", "Linux"]
 draft: false
 ---
 
+{{ $frontmatter.title }}
+========================
 
 Wieso ein Computer von 2005?
 ----------------------------

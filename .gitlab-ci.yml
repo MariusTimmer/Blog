@@ -1,6 +1,7 @@
 image: node:latest
 
 before_script:
+  - ./updatePostList.sh > ./postdata.json
   - ./process_images.sh
   - patch -p0 ./docs/.vitepress/config.js < ./docs/.vitepress/config_ci_pages.patch
   - find ./docs/public/img -type f -name '*.jpg' -exec rm {} \;

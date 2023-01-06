@@ -1,13 +1,16 @@
 ---
-title: "Meine eigene Mastodon-Instanz"
+title: "Meine Mastodon-Instanz"
 description: "Mastodon ist quelloffen und zudem dezentral aufgebaut. Daher habe ich mir meine eigene Instanz eingerichtet. Twitter zerlegt sich gerade sowieso selber."
 lastmod: "2022-10-18T09:00:00+02:00"
 date: "2022-10-17T20:30:00+02:00"
 tags: ["Technik"]
+image: "/img/mastodon_maskottchen.webp"
 draft: false
 keywords: ["Technik", "Mastodon", "Twitter", "Elon Musk"]
 ---
 
+{{ $frontmatter.title }}
+========================
 Es ist schon einige Wochen her, seitdem Elon Musk Twitter gekauft und damit
 völlig auf den Kopf gestellt hat. Seit jeher ändern sich die geltenden
 Spielregeln der Plattform nahezu täglich willkürlich. Diese Gelegenheit

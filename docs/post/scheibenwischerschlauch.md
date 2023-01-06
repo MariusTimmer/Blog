@@ -1,5 +1,5 @@
 ---
-title: "Reparatur meines Scheibenwischer Schlauches"
+title: "Reparatur meines Scheibenwischers"
 description: "Dass der Schlauch für das Wasser des Scheibenwischers nicht mehr dicht ist, merkt man natürlich erst in der kalten Jahreszeit"
 date: "2021-12-12T16:00:00+01:00"
 keywords: ["Auto", "Audi 80", "Winter", "Scheibenwischer", "Wischwasser", "Schlauch", "Frostschutz"]
@@ -7,10 +7,12 @@ tags: ["Auto"]
 draft: false
 ---
 
+{{ $frontmatter.title }}
+========================
+
 
 Der Winter hält mich auf Trab
 -----------------------------
-
 Bekanntlich ist der Winter die kalte Jahreszeit. Oftmals muss ich dann
 im Hinblick auf meienn Audi 80 einiges bedenken. Nachdem mir neulich das
 [Türschloss zugefroren](/post/eingefrorenesschloss) war, sah ich nun

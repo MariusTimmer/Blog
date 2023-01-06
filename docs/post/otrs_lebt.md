@@ -8,6 +8,9 @@ tags: ["Technik", "OTRS"]
 description: "Die OTRS Community Edition lebt weiter und wird nun von der OTTER Allianz weiter geführt"
 ---
 
+{{ $frontmatter.title }}
+========================
+
 Vor einigen Monaten schrieb ich, dass die [OTRS AG den Support für die Community Edition nicht mehr weiter führt](/post/otrs_ce). Um genau zu sein: Die OTRS AG wollte die CE-Versionen immer mit zwei Jahren Verzug veröffentlichen. Laut diesem Vorhaben, hätte im Dezember die erste 7er Version kommen müssen. Stattdessen gab es ein sehr kurzfristiges Statement, dass das Ende verkündet. Mehr Details findet ihr im entsprechenden Blog-Eintrag.
 
 Da sich nach meinem Beitrag die unterschiedlichsten Leute gemeldet haben (_Nutzer und Admins_), sollte ich den aktuellen Stand bekannt geben. Auch wenn das alles genau so gut in den offiziellen Quellen nachgelesen werden kann. [Znuny](https://www.znuny.com/de/) hatte noch im Januar angekündigt, eine <abbr title="Long time support">LTS</abbr>-Version der Community Edition für mindestens zwei Jahre weiter zu führen und die Nutzer (_also unter Anderen auch mich_) so weiter mit Sicherheitsupdates zu versorgen.

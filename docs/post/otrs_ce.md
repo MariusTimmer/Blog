@@ -8,6 +8,9 @@ tags: ["Technik", "OTRS"]
 description: "Die OTRS AG hat die rechtzeitige Veröffentlichung der Community Edition in Version 7 versäumt und damit für viel Aufruhe gesorgt."
 ---
 
+{{ $frontmatter.title }}
+========================
+
 Das Ticket-System <abbr title="Open Technology Real Services">[OTRS](https://de.wikipedia.org/wiki/Open_Technology_Real_Services)</abbr> wird weltweit viel für die Kommunikation zwischen Firmen und Kunden eingesetzt. Außerdem setzen es auch Hochschulen wie unsere ein, um einen einheitlichen Kommunikationsweg zu den Studierenden, Mitarbeitenden und Außenstehenden zu pflegen. Bei uns bin ich unter Anderem Serveradministrator und habe die ein oder andere Erweiterung für das System entwickelt.
 
 Spontanes End Of Life
