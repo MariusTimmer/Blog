@@ -10,9 +10,9 @@ WIDTH_LARGE=1920
 
 for BASEFILE in ${BASE_ALL}; do
     FILENAME=$(basename "${BASEFILE}")
-    USED=$(grep -rnw ./content/ -e "${FILENAME::-4}" | wc -l)
+    USED=$(grep -rnw $(find ./content/ -type f -name '*.md') -e "${FILENAME::-4}" | wc -l)
     if [ "${USED}" == "0" ]; then
-        echo " - ${BASEFILE} wird nicht mehr benutzt"
+        echo " - ${FILENAME::-4} wird nicht mehr benutzt"
         continue
     fi
     WIDTH=$(convert ${BASEFILE} -print "%w\n" /dev/null)
