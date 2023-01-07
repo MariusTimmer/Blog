@@ -49,42 +49,42 @@ export default {
                 link: "/aboutme"
             }
         ],
-        sidebar: {
-            "/post/": [
-                {
-                    text: "Alle Beiträge",
-                    collapsible: true,
-                    collapsed: true,
-                    items: postUtils.getPostsNavigation(
-                        postdata.sort(
-                            postUtils.sortPosts
-                        ),
-                        100
-                    )
-                }
-            ],
-            "/": [
-                {
-                    text: "OTRS",
-                    collapsable: true,
-                    collapsed: false,
-                    items: [
-                        {
-                            text: "OTRS CE lebt",
-                            link: "/post/otrs_lebt"
-                        },
-                        {
-                            text: "Ende von OTRS CE?",
-                            link: "/post/otrs_ce"
-                        },
-                        {
-                            text: "Bug im OTRS Protokoll",
-                            link: "/post/otrs_log_bug"
-                        }
-                    ]
-                }
-            ]
-        },
+        sidebar: [
+            {
+                text: "Alle Beiträge",
+                collapsible: true,
+                collapsed: true,
+                items: postUtils.getPostsNavigation(
+                    postdata.sort(
+                        postUtils.sortPosts
+                    ),
+                    100
+                )
+            },
+            {
+                text: "OTRS",
+                collapsable: true,
+                collapsed: false,
+                items: [
+                    {
+                        text: "Was kommt nach Znunys OTRS LTS 6.0?",
+                        link: "/post/ZnunyOTRSLTS2023"
+                    },
+                    {
+                        text: "OTRS CE lebt",
+                        link: "/post/otrs_lebt"
+                    },
+                    {
+                        text: "Ende von OTRS CE?",
+                        link: "/post/otrs_ce"
+                    },
+                    {
+                        text: "Bug im OTRS Protokoll",
+                        link: "/post/otrs_log_bug"
+                    }
+                ]
+            }
+        ],
         footer: {
             message: "Zusammengebastelt mit <a href=\"https://vitepress.vuejs.org/\">VitePress</a>",
             copyright: "Copyright &copy; seit 2017 bis heute: <a href=\"/aboutme\">Marius Timmer</a>"
