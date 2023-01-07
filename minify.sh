@@ -4,6 +4,11 @@
 # Package minify is required
 ###
 
+if [ -z "$(whereis minify | cut -d\: -f2)" ]; then
+    # There is no minify tool installed
+    exit 0
+fi
+
 # Stylesheets
 for FILE in `find ./public/css -name '*.css' -type f`; do
     FILEPATH=$(realpath "${FILE}")
