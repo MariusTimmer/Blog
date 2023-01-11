@@ -14,10 +14,11 @@
     "vue": "^3.2.45"
   },
   "scripts": {
-    "postdata": "tsc ./docs/utilities/postProvider.ts ./docs/scripts/providePostdata.ts && node ./docs/scripts/providePostdata.js",
+    "process:posts": "tsc ./docs/utilities/postProvider.ts ./docs/scripts/providePostdata.ts && node ./docs/scripts/providePostdata.js",
+    "process:images": "./process_images.sh",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "npm run postdata && vitepress build docs",
-    "docs:preview": "npm run postdata &&  && vitepress preview docs"
+    "docs:build": "npm run process:images && npm run process:posts && vitepress build docs",
+    "docs:preview": "npm run process:images && npm run process:posts &&  && vitepress preview docs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

@@ -59,6 +59,5 @@ var getTagSidebar = function () {
 };
 exports.getTagSidebar = getTagSidebar;
 exports.sidebarOTRSItems = exports.sidebarItems.filter(function (item) {
-    (0, exports.getTagSidebar)();
     return item.text.toUpperCase().includes("OTRS");
 });
