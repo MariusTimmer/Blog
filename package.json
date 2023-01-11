@@ -1,5 +1,5 @@
 {
-  "name": "Blog",
+  "name": "blog",
   "version": "1.2.0",
   "description": "Personal blog of Marius Timmer",
   "main": "index.js",
@@ -8,12 +8,19 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4",
     "vitepress": "^1.0.0-alpha.33",
     "vue": "^3.2.45"
   },
   "scripts": {
+    "postdata": "tsc ./docs/utilities/postProvider.ts ./docs/scripts/providePostdata.ts && node ./docs/scripts/providePostdata.js",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:build": "npm run postdata && vitepress build docs",
+    "docs:preview": "npm run postdata &&  && vitepress preview docs"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "remove-markdown": "^0.5.0"
   }
 }
