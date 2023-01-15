@@ -5,6 +5,7 @@ summary: "Aktuell betreibe ich OTRS in der LTS-Version 6.0, dessen Support mit E
 draft: false
 date: "2023-01-06T17:45:00+01:00"
 keywords: ["OTRS", "Znuny", "LTS", "Ticketsystem", "Update"]
+tags: ["OTRS", "Technik"]
 author: "Marius Timmer"
 image: "https://mariustimmer.de/img/znuny_otrs_favicon.webp"
 ---

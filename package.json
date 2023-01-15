@@ -18,7 +18,7 @@
     "process:images": "./process_images.sh",
     "docs:dev": "vitepress dev docs",
     "docs:build": "npm run process:images && npm run process:posts && vitepress build docs",
-    "docs:preview": "npm run process:images && npm run process:posts &&  && vitepress preview docs"
+    "docs:preview": "npm run process:images && npm run process:posts && vitepress preview docs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
