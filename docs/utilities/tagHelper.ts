@@ -1,0 +1,1 @@
+export const buildTagLink = (tagName) => tagName.replace(" ", "-").toLowerCase();
