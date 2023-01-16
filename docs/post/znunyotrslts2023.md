@@ -24,8 +24,8 @@ als Community Edition weiter geführt. Kurz darauf hatte sich die sogenannte
 [OTTER Allianz](https://www.otter-alliance.de) aus unterstützdenden Unternehmen
 gebildet, wodurch alles auf noch festeren Beinen steht.
 
-Wechsel von OTRS CE auf Znunys LTS-Version 6.4
-----------------------------------------------
+Von OTRS CE zu Znunys 6.4
+-------------------------
 Damals sind wir (_die Uni Münster_) dann also auf die dort angebotene 
 <abbr title="Longterm support">LTS</abbr>-Version umgestiegen. Die Migration
 war denkbar einfach, da auf maximale Kompatibilität gesetzt wurde und
@@ -84,4 +84,15 @@ Sobald wir den Wechsel hinter uns gebracht haben, werde ich davon berichten.
 Und auch von eventuell anstehenden Serviceaufwand, der dadurch entstanden sein
 könnte (_was ich mal nicht hoffe_).
 
-> <abbr title="To be added">TBA</abbr>
+Update: Wir bleiben bei LTS
+---------------------------
+Nachdem nun wieder alle im Büro sind, haben wir das weitere Vorgehen
+besprochen: Wir bleiben bei der Langzeitunterstützung, sprich: Diesen Monat
+aktualisieren wir auf die LTS-Version von Ende Dezember
+(_[6.0.48](https://www.znuny.org/de/releases/znuny-lts-6-0-48)_), die bei uns
+noch nicht eingespielt war. Im nächsten regulären Wartungsfenster werden wir
+dann auf die bis dahin neu erschienene LTS-Version 6.5.x springen. So stellen
+wir einen stabilen Betrieb sicher. Bis dahin wird es meine Aufgabe sein,
+die von uns eingesetzten und entwickelten Erweiterungen in neueren
+Versionen aufzusuchen und zu portieren. Das wird noch ein schöner Spaß.
+<abbr title="Achselzuckender Emoji">`¯\_(ツ)_/¯`</abbr>
