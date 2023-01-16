@@ -12,7 +12,7 @@ Dies ist eine Liste aller Tags, mit denen ich meine bisherigen Beiträge
 versehen habe. Du kannst sie auch als Beitragsreihen verstehen. Klicke
 auf ein Tag, um zur Liste aller dazugehörigen Beiträge zu gelangen.
 
-<ul>
+<ul class="two-columns">
     <li v-for="tagDetails in tagData">
         <a :href="'#'+ buildTagLink(tagDetails.text)">
             {{ tagDetails.text }}
@@ -30,7 +30,7 @@ zugeordnet sein, wenn es beispielsweise mehrere inhaltliche Themen gibt
 <div v-for="tagDetails in tagData" class="card">
     <section :id="buildTagLink(tagDetails.text)">
         <h3>{{ tagDetails.text }}</h3>
-        <ul>
+        <ul class="two-columns">
             <li v-for="articleDetails in tagDetails.items">
                 <a :href="withBase(articleDetails.link)">{{ articleDetails.text }}</a>
             </li>
@@ -45,7 +45,7 @@ import { buildTagLink } from "./../utilities/tagHelper";
 
 </script>
 <style>
-ul {
+ul.two-columns {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
