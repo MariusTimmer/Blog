@@ -16,7 +16,8 @@ exports.sidebarItems = articles
         text: "" + data.title,
         date: null,
         link: "/post/".concat((0, node_path_1.basename)(article, ".md")),
-        description: null
+        description: null,
+        draft: false
     };
     if (data.hasOwnProperty("date")) {
         item.date = data.date;
@@ -24,9 +25,11 @@ exports.sidebarItems = articles
     if (data.hasOwnProperty("description")) {
         item.description = data.description;
     }
+    item.draft = (data.hasOwnProperty("draft") && data.draft);
     return item;
 })
     .filter(function (e) { return e.link !== '/post/index'; })
+    .filter(function (e) { return e.draft !== true; })
     .sort(function (a, b) { return new Date(b.date).getTime() - new Date(a.date).getTime(); });
 //.map(({text, link}) => ({text, link}));
 var getTagSidebar = function () {
