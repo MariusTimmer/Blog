@@ -4,7 +4,8 @@ description: "Nach einiger Zeit des Wartens ist die neue LTS-Version 6.5 von OTR
 summary: ""
 draft: false
 date: "2023-03-27 12:00:00+01"
-tags: ["OTRS", "Znuny", "LTS-Release"]
+keywords: ["OTRS", "Znuny", "LTS-Release"]
+tags: ["Technik", "OTRS"]
 ---
 
 # {{ $frontmatter.title }}
