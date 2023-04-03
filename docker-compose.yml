@@ -1,0 +1,19 @@
+version: "3.1"
+services:
+  node:
+    image: node:latest
+    container_name: blog_node
+    volumes:
+      - ./:/tmp/blog/:Z
+    working_dir: /tmp/blog/
+    entrypoint: npm run docs:dockerdev
+    networks:
+      blognetwork:
+        ipv4_address: 172.16.16.2
+
+networks:
+  blognetwork:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: "172.16.16.0/24"

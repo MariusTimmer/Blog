@@ -14,10 +14,6 @@ export default defineConfig({
             }
         ]
     ],
-    markdown: {
-        theme: "material-palenight",
-        lineNumbers: true
-    },
     themeConfig: {
         logo: {
             src: "/favicon.png",
