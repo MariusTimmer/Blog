@@ -61,4 +61,7 @@ ul.tag-list {
 .tag-list a:hover {
     color: white;
 }
+figure img {
+    border-radius: 1em;
+}
 </style>
