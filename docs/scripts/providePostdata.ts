@@ -1,23 +1,23 @@
 #!/usr/bin/env node
 
 const fqdn = "mariustimmer.de";
-const postProvider = require("../utilities/postProvider");
-const fs = require("fs");
+import { sidebarItems, getTagSidebar } from "../utilities/postProvider";
+import { writeFile } from "fs";
 
 /**
  * Post and Tag data needs to be stored in separate JSON files,
  * so they can be used at runtime.
  */
-//console.log(postProvider.sidebarItems);
-fs.writeFile(
+//console.log(sidebarItems);
+writeFile(
     "./docs/postData.json",
-    JSON.stringify(postProvider.sidebarItems),
+    JSON.stringify(sidebarItems),
     console.error
 );
 
-fs.writeFile(
+writeFile(
     "./docs/tagData.json",
-    JSON.stringify(postProvider.getTagSidebar()),
+    JSON.stringify(getTagSidebar()),
     console.error
 );
 
@@ -54,7 +54,7 @@ let urls = [
         priority: "0.5"
     }
 ];
-let articles = postProvider.sidebarItems.map((article) => {
+let articles = sidebarItems.map((article) => {
     let dateObject = new Date(article.date);
     return {
         link: "https://"+ fqdn + article.link +".html",
@@ -76,7 +76,7 @@ let articles = postProvider.sidebarItems.map((article) => {
 });
 
 sitemap.endDocument();
-fs.writeFile(
+writeFile(
     "./docs/sitemap.xml",
     sitemap.toString(),
     console.error

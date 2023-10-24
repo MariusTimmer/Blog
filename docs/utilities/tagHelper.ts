@@ -1,1 +1,3 @@
-export const buildTagLink = (tagName) => tagName.replace(" ", "-").toLowerCase();
+export function buildTagLink(tagName: string): string {
+    return tagName.replace(" ", "-").toLowerCase();
+}

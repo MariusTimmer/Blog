@@ -41,7 +41,7 @@ zugeordnet sein, wenn es beispielsweise mehrere inhaltliche Themen gibt
 <script setup>
 import {withBase} from "vitepress";
 import tagData from "./../tagData.json";
-import { buildTagLink } from "./../utilities/tagHelper";
+import { buildTagLink } from './../utilities/tagHelper.ts';
 
 </script>
 <style>

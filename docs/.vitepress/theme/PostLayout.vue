@@ -36,7 +36,7 @@
 </template>
 <script setup>
 import DefaultTheme from "vitepress/theme";
-import { buildTagLink } from "./../../utilities/tagHelper";
+import { buildTagLink } from './../../utilities/tagHelper.ts';
 import { withBase } from "vitepress";
 
 const { Layout } = DefaultTheme;

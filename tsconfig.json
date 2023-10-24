@@ -1,0 +1,6 @@
+{
+  "resolveJsonModule": true,
+  "esModuleInterop": true,
+  "module": "ESNext",
+  "target": "esnext"
+}

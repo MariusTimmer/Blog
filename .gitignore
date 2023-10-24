@@ -1,7 +1,6 @@
 node_modules
 docs/.vitepress/cache
 docs/.vitepress/dist
-docs/*Data.json
 *.webp
 !*_thumbnail.webp
 .idea

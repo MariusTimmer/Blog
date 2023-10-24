@@ -1,14 +1,16 @@
 #!/usr/bin/env node
+"use strict";
+exports.__esModule = true;
 var fqdn = "mariustimmer.de";
-var postProvider = require("../utilities/postProvider");
-var fs = require("fs");
+var postProvider_1 = require("../utilities/postProvider");
+var fs_1 = require("fs");
 /**
  * Post and Tag data needs to be stored in separate JSON files,
  * so they can be used at runtime.
  */
-//console.log(postProvider.sidebarItems);
-fs.writeFile("./docs/postData.json", JSON.stringify(postProvider.sidebarItems), console.error);
-fs.writeFile("./docs/tagData.json", JSON.stringify(postProvider.getTagSidebar()), console.error);
+//console.log(sidebarItems);
+(0, fs_1.writeFile)("./docs/postData.json", JSON.stringify(postProvider_1.sidebarItems), console.error);
+(0, fs_1.writeFile)("./docs/tagData.json", JSON.stringify((0, postProvider_1.getTagSidebar)()), console.error);
 // Sitemap
 var XMLWriter = require('xml-writer');
 var sitemap = new XMLWriter();
@@ -41,7 +43,7 @@ var urls = [
         priority: "0.5"
     }
 ];
-var articles = postProvider.sidebarItems.map(function (article) {
+var articles = postProvider_1.sidebarItems.map(function (article) {
     var dateObject = new Date(article.date);
     return {
         link: "https://" + fqdn + article.link + ".html",
@@ -61,4 +63,4 @@ var articles = postProvider.sidebarItems.map(function (article) {
     });
 });
 sitemap.endDocument();
-fs.writeFile("./docs/sitemap.xml", sitemap.toString(), console.error);
+(0, fs_1.writeFile)("./docs/sitemap.xml", sitemap.toString(), console.error);
