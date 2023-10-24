@@ -7,19 +7,18 @@
   "author": "Marius Timmer <marius.timmer@uni-muenster.de>",
   "license": "MIT",
   "private": true,
+  "type": "module",
   "devDependencies": {
     "@types/node": "^18.11.18",
-    "typescript": "^4.9.4",
+    "typescript": "^4.9.5",
     "vitepress": "^1.0.0-alpha.33",
     "vue": "^3.2.45"
   },
   "scripts": {
-    "process:posts": "tsc ./docs/utilities/postProvider.ts ./docs/scripts/providePostdata.ts && node ./docs/scripts/providePostdata.js",
     "process:images": "./process_images.sh",
     "docs:dev": "vitepress dev docs",
-    "docs:dockerdev": "vitepress dev docs --host",
-    "docs:build": "npm run process:images && npm run process:posts && vitepress build docs && mv ./docs/sitemap.xml ./docs/.vitepress/dist/sitemap.xml",
-    "docs:preview": "npm run process:images && npm run process:posts && vitepress preview docs && mv ./docs/sitemap.xml ./docs/.vitepress/dist/sitemap.xml"
+    "docs:build": "vitepress build docs && mv ./docs/sitemap.xml ./docs/.vitepress/dist/sitemap.xml",
+    "docs:preview": "vitepress preview docs && mv ./docs/sitemap.xml ./docs/.vitepress/dist/sitemap.xml"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
