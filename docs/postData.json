@@ -1,12 +1,5 @@
 [
   {
-    "text": "Korrekturen am Blog",
-    "date": "2023-10-23T15:00:00+01:00",
-    "link": "/test/",
-    "description": "Nach einiger Zeit habe ich wieder neue Beiträge verfassen wollten, allerdings bemerkte ich, dass einiges repariert werden musste. Nun habe ich es notdürftig reparieren können.",
-    "draft": false
-  },
-  {
     "text": "Meine neue Schreibmaschine",
     "date": "2023-10-21T15:00:00+01:00",
     "link": "/post/schreibmaschine",
