@@ -81,7 +81,3 @@ export const getTagSidebar = () => {
     });
     return sidebar;
 };
-
-export const sidebarOTRSItems = sidebarItems.filter((item) => {
-    return item.text.toUpperCase().includes("OTRS");
-});
