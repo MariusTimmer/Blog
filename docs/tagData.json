@@ -1,1 +1,550 @@
-[{"text":"Technik","items":[{"text":"Wo ist Ausgangssperre?","link":"/post/ausgangssperre"},{"text":"Bitcoin Kurs","link":"/post/bitcoins"},{"text":"Facebook weitet sich aus","link":"/post/datenkrake_facebook"},{"text":"Meine neue DJI Mini 2 Drohne","link":"/post/drohne"},{"text":"FinFisher gegen Netzpolitik","link":"/post/finfisher"},{"text":"Freifunk","link":"/post/freifunk"},{"text":"Glasfaser bis nach Hause","link":"/post/glasfaser"},{"text":"Mein Umstieg zum i3 Fenstermanager","link":"/post/i3"},{"text":"Meine Mastodon-Instanz","link":"/post/mastodon"},{"text":"Netflix unter GNU/Linux (Ubuntu)","link":"/post/netflix_linux"},{"text":"Neues Layout","link":"/post/neues_layout"},{"text":"Kein Smartphone","link":"/post/no_smartphone"},{"text":"Das neue OTRS 6.5 LTS-Release ist da","link":"/post/otrs_6_5_release"},{"text":"Das Ende der OTRS Community Edition?","link":"/post/otrs_ce"},{"text":"Die OTRS CE lebt!","link":"/post/otrs_lebt"},{"text":"OTRS-Bug beim System-Protokoll?","link":"/post/otrs_log_bug"},{"text":"PHP mal anders","link":"/post/phpmalanders"},{"text":"Gentoo auf einem Mac Mini (G4 PowerPC) installieren","link":"/post/powerpcgentoo"},{"text":"SafeYourInternet (Update)","link":"/post/safeyourinternet"},{"text":"Meine neue Schreibmaschine","link":"/post/schreibmaschine"},{"text":"Der Bot bekommt einen Namen","link":"/post/telegrambot"},{"text":"Neues altes ThinkPad X200","link":"/post/thinkpad"},{"text":"Ubuntu Debian Migration","link":"/post/ubuntu_debian_migration"},{"text":"UNIXSystems","link":"/post/unix_systems"},{"text":"Uploadfilter (Update)","link":"/post/uploadfilter_terrorausweitung"},{"text":"Umstieg von Hugo auf VitePress","link":"/post/vitepress"},{"text":"Weltweite Besucher","link":"/post/weltweite_besucher"},{"text":"Wordpress Hack","link":"/post/wordpresshack"},{"text":"Wordpress Hack total","link":"/post/wordpresshacktotal"},{"text":"Was kommt nach Znunys OTRS LTS 6.0?","link":"/post/znunyotrslts2023"}],"collapsible":true,"collapsed":true},{"text":"Auto","items":[{"text":"Einbruch ins Auto","link":"/post/autoeinbruch"},{"text":"Bus und Bahn fahren macht Spaß","link":"/post/bus_und_bahn"},{"text":"Eingefrorene Türschlösser","link":"/post/eingefrorenesschloss"},{"text":"Mein neues Auto der KIA","link":"/post/kia"},{"text":"Reparatur meines Scheibenwischers","link":"/post/scheibenwischerschlauch"}],"collapsible":true,"collapsed":true},{"text":"Politik","items":[{"text":"CDU und die Jugend","link":"/post/cdu_und_jugend"},{"text":"Von der Leyen als Kommissionschefin?","link":"/post/eukommissionschef_vonderleyen"},{"text":"Gegendemonstration zum Neujahrsempfang der AfD","link":"/post/gegendemoneujahrsempfangderafdmuenster"},{"text":"Leserbrief zur Bürgermeister-Situation in Laer","link":"/post/leserbriefbuergermeister"},{"text":"SafeYourInternet (Update)","link":"/post/safeyourinternet"},{"text":"Schnelle Online-Eingreiftruppe der CDU","link":"/post/schnelleeingreiftruppecdu"},{"text":"Leistungsschutzrecht angenommen","link":"/post/uploadfilter_angenommen"},{"text":"SaveYourInternet-Demo in Köln","link":"/post/uploadfilter_demo_koeln"},{"text":"SaveYourInternet-Demo in Münster","link":"/post/uploadfilter_demo_muenster"},{"text":"Uploadfilter-Entscheidung vorverlegt","link":"/post/uploadfilter_entscheidung_vorverlegt"},{"text":"Erneute Demonstration gegen Uploadfilter","link":"/post/uploadfilter_koeln_dritte_demo"},{"text":"Uploadfilter (Update)","link":"/post/uploadfilter_terrorausweitung"},{"text":"Die Vierte Welle","link":"/post/vierte_welle"}],"collapsible":true,"collapsed":true},{"text":"DSGVO","items":[{"text":"Panik vor der europäischen Datenschutz Grundverordnung","link":"/post/eudsgvo"}],"collapsible":true,"collapsed":true},{"text":"Entwicklung","items":[{"text":"Panik vor der europäischen Datenschutz Grundverordnung","link":"/post/eudsgvo"},{"text":"Der Bot bekommt einen Namen","link":"/post/telegrambot"}],"collapsible":true,"collapsed":true},{"text":"Überwachung","items":[{"text":"FinFisher gegen Netzpolitik","link":"/post/finfisher"}],"collapsible":true,"collapsed":true},{"text":"Reisen","items":[{"text":"Gamescom","link":"/post/gamescom_2019"},{"text":"Polenreise 2018","link":"/post/polen2018"},{"text":"Frohes Neues","link":"/post/polen2019"}],"collapsible":true,"collapsed":true},{"text":"Twitch","items":[{"text":"Gamescom","link":"/post/gamescom_2019"},{"text":"Jetzt twitche ich auch","link":"/post/twitch"}],"collapsible":true,"collapsed":true},{"text":"Youtube","items":[{"text":"Gamescom","link":"/post/gamescom_2019"}],"collapsible":true,"collapsed":true},{"text":"Kino","items":[{"text":"Mein Review zu Ghostbusters: LEGACY","link":"/post/ghostbusters"}],"collapsible":true,"collapsed":true},{"text":"Umzug","items":[{"text":"Tschüss Coesfeld","link":"/post/goodbye_coesfeld"},{"text":"Umzug mit Hürden","link":"/post/umzug_mit_huerden"}],"collapsible":true,"collapsed":true},{"text":"Hugo","items":[{"text":"Hallo Welt","link":"/post/hallo-welt"},{"text":"Umstieg von Hugo auf VitePress","link":"/post/vitepress"}],"collapsible":true,"collapsed":true},{"text":"Markdown","items":[{"text":"Hallo Welt","link":"/post/hallo-welt"}],"collapsible":true,"collapsed":true},{"text":"Linux","items":[{"text":"Mein Umstieg zum i3 Fenstermanager","link":"/post/i3"},{"text":"Netflix unter GNU/Linux (Ubuntu)","link":"/post/netflix_linux"},{"text":"Gentoo auf einem Mac Mini (G4 PowerPC) installieren","link":"/post/powerpcgentoo"},{"text":"Ubuntu Debian Migration","link":"/post/ubuntu_debian_migration"}],"collapsible":true,"collapsed":true},{"text":"OTRS","items":[{"text":"Das neue OTRS 6.5 LTS-Release ist da","link":"/post/otrs_6_5_release"},{"text":"Das Ende der OTRS Community Edition?","link":"/post/otrs_ce"},{"text":"Die OTRS CE lebt!","link":"/post/otrs_lebt"},{"text":"OTRS-Bug beim System-Protokoll?","link":"/post/otrs_log_bug"},{"text":"Was kommt nach Znunys OTRS LTS 6.0?","link":"/post/znunyotrslts2023"}],"collapsible":true,"collapsed":true},{"text":"Abenteuer","items":[{"text":"Polenreise 2018","link":"/post/polen2018"},{"text":"Frohes Neues","link":"/post/polen2019"},{"text":"Die Polenreise kommt näher","link":"/post/polenreise_vorbereitungen"},{"text":"Rally","link":"/post/rally"}],"collapsible":true,"collapsed":true},{"text":"Uploadfilter","items":[{"text":"SafeYourInternet (Update)","link":"/post/safeyourinternet"},{"text":"Leistungsschutzrecht angenommen","link":"/post/uploadfilter_angenommen"},{"text":"SaveYourInternet-Demo in Köln","link":"/post/uploadfilter_demo_koeln"},{"text":"SaveYourInternet-Demo in Münster","link":"/post/uploadfilter_demo_muenster"},{"text":"Uploadfilter-Entscheidung vorverlegt","link":"/post/uploadfilter_entscheidung_vorverlegt"},{"text":"Erneute Demonstration gegen Uploadfilter","link":"/post/uploadfilter_koeln_dritte_demo"},{"text":"Uploadfilter (Update)","link":"/post/uploadfilter_terrorausweitung"}],"collapsible":true,"collapsed":true},{"text":"Regional","items":[{"text":"Sprengstoff am Longinusturm","link":"/post/sprengunglonginusturm"}],"collapsible":true,"collapsed":true},{"text":"YouTube","items":[{"text":"Das neue Studio","link":"/post/studio"},{"text":"Neues Video: Mein Tag","link":"/post/video_meintag"},{"text":"Videoprojekt Internet","link":"/post/videoprojekt_internet"},{"text":"Videoreihe 'Topster am Wochenende'","link":"/post/videoreiheamwochenende"}],"collapsible":true,"collapsed":true},{"text":"Telegram","items":[{"text":"Der Bot bekommt einen Namen","link":"/post/telegrambot"}],"collapsible":true,"collapsed":true},{"text":"ThinkPad","items":[{"text":"Neues altes ThinkPad X200","link":"/post/thinkpad"}],"collapsible":true,"collapsed":true},{"text":"Stream","items":[{"text":"Jetzt twitche ich auch","link":"/post/twitch"}],"collapsible":true,"collapsed":true},{"text":"","items":[{"text":"Reise nach Kiew im August 2023","link":"/post/ukraine_2023"}],"collapsible":true,"collapsed":true},{"text":"EU","items":[{"text":"Leistungsschutzrecht angenommen","link":"/post/uploadfilter_angenommen"}],"collapsible":true,"collapsed":true}]
+[
+  {
+    "text": "Technik",
+    "items": [
+      {
+        "text": "Wo ist Ausgangssperre?",
+        "link": "/post/ausgangssperre"
+      },
+      {
+        "text": "Bitcoin Kurs",
+        "link": "/post/bitcoins"
+      },
+      {
+        "text": "Facebook weitet sich aus",
+        "link": "/post/datenkrake_facebook"
+      },
+      {
+        "text": "Meine neue DJI Mini 2 Drohne",
+        "link": "/post/drohne"
+      },
+      {
+        "text": "FinFisher gegen Netzpolitik",
+        "link": "/post/finfisher"
+      },
+      {
+        "text": "Freifunk",
+        "link": "/post/freifunk"
+      },
+      {
+        "text": "Glasfaser bis nach Hause",
+        "link": "/post/glasfaser"
+      },
+      {
+        "text": "Mein Umstieg zum i3 Fenstermanager",
+        "link": "/post/i3"
+      },
+      {
+        "text": "Meine neue Schreibmaschine",
+        "link": "/post/schreibmaschine"
+      },
+      {
+        "text": "Meine Mastodon-Instanz",
+        "link": "/post/mastodon"
+      },
+      {
+        "text": "Netflix unter GNU/Linux (Ubuntu)",
+        "link": "/post/netflix_linux"
+      },
+      {
+        "text": "Neues Layout",
+        "link": "/post/neues_layout"
+      },
+      {
+        "text": "Kein Smartphone",
+        "link": "/post/no_smartphone"
+      },
+      {
+        "text": "Das neue OTRS 6.5 LTS-Release ist da",
+        "link": "/post/otrs_6_5_release"
+      },
+      {
+        "text": "Das Ende der OTRS Community Edition?",
+        "link": "/post/otrs_ce"
+      },
+      {
+        "text": "Die OTRS CE lebt!",
+        "link": "/post/otrs_lebt"
+      },
+      {
+        "text": "OTRS-Bug beim System-Protokoll?",
+        "link": "/post/otrs_log_bug"
+      },
+      {
+        "text": "PHP mal anders",
+        "link": "/post/phpmalanders"
+      },
+      {
+        "text": "Gentoo auf einem Mac Mini (G4 PowerPC) installieren",
+        "link": "/post/powerpcgentoo"
+      },
+      {
+        "text": "SafeYourInternet (Update)",
+        "link": "/post/safeyourinternet"
+      },
+      {
+        "text": "Meine neue Schreibmaschine",
+        "link": "/post/schreibmaschine"
+      },
+      {
+        "text": "Der Bot bekommt einen Namen",
+        "link": "/post/telegrambot"
+      },
+      {
+        "text": "Neues altes ThinkPad X200",
+        "link": "/post/thinkpad"
+      },
+      {
+        "text": "Ubuntu Debian Migration",
+        "link": "/post/ubuntu_debian_migration"
+      },
+      {
+        "text": "UNIXSystems",
+        "link": "/post/unix_systems"
+      },
+      {
+        "text": "Uploadfilter (Update)",
+        "link": "/post/uploadfilter_terrorausweitung"
+      },
+      {
+        "text": "Umstieg von Hugo auf VitePress",
+        "link": "/post/vitepress"
+      },
+      {
+        "text": "Weltweite Besucher",
+        "link": "/post/weltweite_besucher"
+      },
+      {
+        "text": "Wordpress Hack",
+        "link": "/post/wordpresshack"
+      },
+      {
+        "text": "Wordpress Hack total",
+        "link": "/post/wordpresshacktotal"
+      },
+      {
+        "text": "Was kommt nach Znunys OTRS LTS 6.0?",
+        "link": "/post/znunyotrslts2023"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Auto",
+    "items": [
+      {
+        "text": "Einbruch ins Auto",
+        "link": "/post/autoeinbruch"
+      },
+      {
+        "text": "Bus und Bahn fahren macht Spaß",
+        "link": "/post/bus_und_bahn"
+      },
+      {
+        "text": "Eingefrorene Türschlösser",
+        "link": "/post/eingefrorenesschloss"
+      },
+      {
+        "text": "Mein neues Auto der KIA",
+        "link": "/post/kia"
+      },
+      {
+        "text": "Reparatur meines Scheibenwischers",
+        "link": "/post/scheibenwischerschlauch"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Politik",
+    "items": [
+      {
+        "text": "CDU und die Jugend",
+        "link": "/post/cdu_und_jugend"
+      },
+      {
+        "text": "Von der Leyen als Kommissionschefin?",
+        "link": "/post/eukommissionschef_vonderleyen"
+      },
+      {
+        "text": "Gegendemonstration zum Neujahrsempfang der AfD",
+        "link": "/post/gegendemoneujahrsempfangderafdmuenster"
+      },
+      {
+        "text": "Leserbrief zur Bürgermeister-Situation in Laer",
+        "link": "/post/leserbriefbuergermeister"
+      },
+      {
+        "text": "SafeYourInternet (Update)",
+        "link": "/post/safeyourinternet"
+      },
+      {
+        "text": "Schnelle Online-Eingreiftruppe der CDU",
+        "link": "/post/schnelleeingreiftruppecdu"
+      },
+      {
+        "text": "Leistungsschutzrecht angenommen",
+        "link": "/post/uploadfilter_angenommen"
+      },
+      {
+        "text": "SaveYourInternet-Demo in Köln",
+        "link": "/post/uploadfilter_demo_koeln"
+      },
+      {
+        "text": "SaveYourInternet-Demo in Münster",
+        "link": "/post/uploadfilter_demo_muenster"
+      },
+      {
+        "text": "Uploadfilter-Entscheidung vorverlegt",
+        "link": "/post/uploadfilter_entscheidung_vorverlegt"
+      },
+      {
+        "text": "Erneute Demonstration gegen Uploadfilter",
+        "link": "/post/uploadfilter_koeln_dritte_demo"
+      },
+      {
+        "text": "Uploadfilter (Update)",
+        "link": "/post/uploadfilter_terrorausweitung"
+      },
+      {
+        "text": "Die Vierte Welle",
+        "link": "/post/vierte_welle"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "DSGVO",
+    "items": [
+      {
+        "text": "Panik vor der europäischen Datenschutz Grundverordnung",
+        "link": "/post/eudsgvo"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Entwicklung",
+    "items": [
+      {
+        "text": "Panik vor der europäischen Datenschutz Grundverordnung",
+        "link": "/post/eudsgvo"
+      },
+      {
+        "text": "Der Bot bekommt einen Namen",
+        "link": "/post/telegrambot"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Überwachung",
+    "items": [
+      {
+        "text": "FinFisher gegen Netzpolitik",
+        "link": "/post/finfisher"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Reisen",
+    "items": [
+      {
+        "text": "Gamescom",
+        "link": "/post/gamescom_2019"
+      },
+      {
+        "text": "Polenreise 2018",
+        "link": "/post/polen2018"
+      },
+      {
+        "text": "Frohes Neues",
+        "link": "/post/polen2019"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Twitch",
+    "items": [
+      {
+        "text": "Gamescom",
+        "link": "/post/gamescom_2019"
+      },
+      {
+        "text": "Jetzt twitche ich auch",
+        "link": "/post/twitch"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Youtube",
+    "items": [
+      {
+        "text": "Gamescom",
+        "link": "/post/gamescom_2019"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Kino",
+    "items": [
+      {
+        "text": "Mein Review zu Ghostbusters: LEGACY",
+        "link": "/post/ghostbusters"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Umzug",
+    "items": [
+      {
+        "text": "Tschüss Coesfeld",
+        "link": "/post/goodbye_coesfeld"
+      },
+      {
+        "text": "Umzug mit Hürden",
+        "link": "/post/umzug_mit_huerden"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Hugo",
+    "items": [
+      {
+        "text": "Hallo Welt",
+        "link": "/post/hallo-welt"
+      },
+      {
+        "text": "Umstieg von Hugo auf VitePress",
+        "link": "/post/vitepress"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Markdown",
+    "items": [
+      {
+        "text": "Hallo Welt",
+        "link": "/post/hallo-welt"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Linux",
+    "items": [
+      {
+        "text": "Mein Umstieg zum i3 Fenstermanager",
+        "link": "/post/i3"
+      },
+      {
+        "text": "Netflix unter GNU/Linux (Ubuntu)",
+        "link": "/post/netflix_linux"
+      },
+      {
+        "text": "Gentoo auf einem Mac Mini (G4 PowerPC) installieren",
+        "link": "/post/powerpcgentoo"
+      },
+      {
+        "text": "Ubuntu Debian Migration",
+        "link": "/post/ubuntu_debian_migration"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "OTRS",
+    "items": [
+      {
+        "text": "Das neue OTRS 6.5 LTS-Release ist da",
+        "link": "/post/otrs_6_5_release"
+      },
+      {
+        "text": "Das Ende der OTRS Community Edition?",
+        "link": "/post/otrs_ce"
+      },
+      {
+        "text": "Die OTRS CE lebt!",
+        "link": "/post/otrs_lebt"
+      },
+      {
+        "text": "OTRS-Bug beim System-Protokoll?",
+        "link": "/post/otrs_log_bug"
+      },
+      {
+        "text": "Was kommt nach Znunys OTRS LTS 6.0?",
+        "link": "/post/znunyotrslts2023"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Abenteuer",
+    "items": [
+      {
+        "text": "Polenreise 2018",
+        "link": "/post/polen2018"
+      },
+      {
+        "text": "Frohes Neues",
+        "link": "/post/polen2019"
+      },
+      {
+        "text": "Die Polenreise kommt näher",
+        "link": "/post/polenreise_vorbereitungen"
+      },
+      {
+        "text": "Rally",
+        "link": "/post/rally"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Uploadfilter",
+    "items": [
+      {
+        "text": "SafeYourInternet (Update)",
+        "link": "/post/safeyourinternet"
+      },
+      {
+        "text": "Leistungsschutzrecht angenommen",
+        "link": "/post/uploadfilter_angenommen"
+      },
+      {
+        "text": "SaveYourInternet-Demo in Köln",
+        "link": "/post/uploadfilter_demo_koeln"
+      },
+      {
+        "text": "SaveYourInternet-Demo in Münster",
+        "link": "/post/uploadfilter_demo_muenster"
+      },
+      {
+        "text": "Uploadfilter-Entscheidung vorverlegt",
+        "link": "/post/uploadfilter_entscheidung_vorverlegt"
+      },
+      {
+        "text": "Erneute Demonstration gegen Uploadfilter",
+        "link": "/post/uploadfilter_koeln_dritte_demo"
+      },
+      {
+        "text": "Uploadfilter (Update)",
+        "link": "/post/uploadfilter_terrorausweitung"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Regional",
+    "items": [
+      {
+        "text": "Sprengstoff am Longinusturm",
+        "link": "/post/sprengunglonginusturm"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "YouTube",
+    "items": [
+      {
+        "text": "Das neue Studio",
+        "link": "/post/studio"
+      },
+      {
+        "text": "Neues Video: Mein Tag",
+        "link": "/post/video_meintag"
+      },
+      {
+        "text": "Videoprojekt Internet",
+        "link": "/post/videoprojekt_internet"
+      },
+      {
+        "text": "Videoreihe 'Topster am Wochenende'",
+        "link": "/post/videoreiheamwochenende"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Telegram",
+    "items": [
+      {
+        "text": "Der Bot bekommt einen Namen",
+        "link": "/post/telegrambot"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "ThinkPad",
+    "items": [
+      {
+        "text": "Neues altes ThinkPad X200",
+        "link": "/post/thinkpad"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "Stream",
+    "items": [
+      {
+        "text": "Jetzt twitche ich auch",
+        "link": "/post/twitch"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "",
+    "items": [
+      {
+        "text": "Reise nach Kiew im August 2023",
+        "link": "/post/ukraine_2023"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "text": "EU",
+    "items": [
+      {
+        "text": "Leistungsschutzrecht angenommen",
+        "link": "/post/uploadfilter_angenommen"
+      }
+    ],
+    "collapsible": true,
+    "collapsed": true
+  }
+]
