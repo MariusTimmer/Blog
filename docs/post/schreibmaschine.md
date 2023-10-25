@@ -1,6 +1,6 @@
 ---
 title: "Meine neue Schreibmaschine"
-description: "Auf einem Antikmarkt in Polen habe ich mir eine neue Schreibmaschine gekauft."
+description: "Auf einem Antikmarkt in Polen habe ich mir eine neue Schreibmaschine gekauft. Nun kann ich endlich richtig schön altmodisch und stromfrei schreiben."
 date: "2023-10-21T15:00:00+01:00"
 tags: ["Technik"]
 draft: false
@@ -31,6 +31,7 @@ Relativ früh sprang mir eine orangene Schreibmaschine von brother ins Auge. Sie
         srcset="/img/schreibmaschine_small.webp 256w,/img/schreibmaschine_medium.webp 768w, /img/schreibmaschine.webp"
         alt="Frontales Foto meiner manuellen, orangenen Schreibmaschine mit dem Schriftzug 'brother DELUXE 262 TR'"
         />
+    <figcaption>Meine neue alte brother Schreibmaschine</figcaption>
 </figure>
 
 Wenn ich alleine daran denke, wie viel ich bis jetzt schon mit der Maschine getippt habe, und vor allem, wie viel Spaß ich bisher mit ihr gehabt habe, ist sie eigentlich doch gar nicht so viel zu teuer gewesen. Und auch wenn man jetzt fragen könnte, wieso ich überhaupt eine Schreibmaschine haben möchte, wo das Korrigieren ja nur extrem aufwändig ist und man am Ende nicht mal den Text digital vorliegen hat, denke ich mir, dass gerade das auch die Vorteile sind. Gerade weil eine Korrektur relativ aufwändig ist, überlegt man sich vorab genau, was man tippen möchte. Und gerade die Tatsache, dass die Texte nicht digital vorliegen, macht für mich einen gewissen Reiz aus. Ein netter Nebeneffekt ist, dass sie immer sofort betriebsbereit ist und funktioniert, logischerweise auch ohne Strom. Wenn ich am PC tippe, muss ich aber zuerst einen Drucker suchen, der dann sowieso wieder nicht funktioniert.
