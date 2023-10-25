@@ -4,3 +4,7 @@ docs/.vitepress/dist
 *.webp
 !*_thumbnail.webp
 .idea
+docs/postdata.json
+docs/scripts/metaCollector.js
+docs/utilities/postMetaData.js
+docs/utilities/tagHelper.js
