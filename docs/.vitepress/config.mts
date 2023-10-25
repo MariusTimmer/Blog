@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
-import sidebarItems from "../postData.json";
+import { fetchSidebarItems, PostItem } from "../utilities/postMetaData";
+//import sidebarItems from "../postData.json";
 
 export default defineConfig({
     title: "Timmers Blog",
@@ -45,16 +46,18 @@ export default defineConfig({
             "/": [
                 {
                     text: "Alle Beiträge",
-                    items: sidebarItems,
-                    collapsible: true,
+                    items: fetchSidebarItems().filter((item: PostItem) => {
+                        return item.link.toUpperCase().startsWith("/post/")
+                    }),
+                    //collapsible: true,
                     collapsed: true
                 },
                 {
                     text: "OTRS",
-                    items: sidebarItems.filter((item) => {
+                    items: fetchSidebarItems().filter((item: PostItem) => {
                         return item.text.toUpperCase().includes("OTRS");
                     }),
-                    collapsible: true,
+                    //collapsible: true,
                     collapsed: false
                 }
             ]
