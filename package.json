@@ -7,15 +7,17 @@
   "author": "Marius Timmer <marius.timmer@uni-muenster.de>",
   "license": "MIT",
   "private": true,
-  "type": "module",
   "devDependencies": {
     "@types/node": "^18.11.18",
     "typescript": "^4.9.5",
-    "vitepress": "^1.0.0-alpha.33",
+    "markdown-it-html5-media": "^0.7.1",
+    "prettier": "^2.8.1",
+    "vitepress": "^1.0.0-alpha.38",
     "vue": "^3.2.45"
   },
   "scripts": {
     "process:images": "./process_images.sh",
+    "build:meta": "tsc && node ./docs/scripts/metaCollector.js",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs && mv ./docs/sitemap.xml ./docs/.vitepress/dist/sitemap.xml",
     "docs:preview": "vitepress preview docs && mv ./docs/sitemap.xml ./docs/.vitepress/dist/sitemap.xml"
