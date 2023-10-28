@@ -47,7 +47,7 @@ export default defineConfig({
                 {
                     text: "Alle Beiträge",
                     items: fetchSidebarItems().filter((item: PostItem) => {
-                        return item.link.toUpperCase().startsWith("/post/")
+                        return item.link.toUpperCase().startsWith("/POST/")
                     }),
                     //collapsible: true,
                     collapsed: true
