@@ -1,10 +1,9 @@
 ---
 title: "Reise nach Kiew im August 2023"
 date: "2023-08-25T10:00:00+02:00"
-draft: false
+draft: true
 author: "Marius Timmer"
 keywords: ["Ukraine", "Reise", "Krieg", "Russland", "Kiew"]
-tags: [""]
 description: "Trotz des anhaltenden Russischen Angriffskrieges auf die Ukraine sind mein Mitbewohner und ich vor zwei Wochen nach Kiew gefahren"
 ---
 
