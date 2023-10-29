@@ -1,6 +1,5 @@
 import { defineConfig } from "vitepress";
 import { fetchSidebarItems, PostItem } from "../utilities/postMetaData";
-//import sidebarItems from "../postData.json";
 
 export default defineConfig({
     title: "Timmers Blog",
@@ -48,6 +47,12 @@ export default defineConfig({
                     text: "Alle Beiträge",
                     items: fetchSidebarItems().filter((item: PostItem) => {
                         return item.link.toUpperCase().startsWith("/POST/")
+                    }).sort((a: PostItem, b: PostItem) => {
+                        return (a.date == b.date) ? 0 : a.date < b.date ? 1 : -1;
+                    }).filter((element: PostItem) => {
+                        return !element.link.endsWith('index.md')
+                    }).filter((element: PostItem) => {
+                        return element.draft === false;
                     }),
                     //collapsible: true,
                     collapsed: true
@@ -56,6 +61,12 @@ export default defineConfig({
                     text: "OTRS",
                     items: fetchSidebarItems().filter((item: PostItem) => {
                         return item.text.toUpperCase().includes("OTRS");
+                    }).filter((item: PostItem) => {
+                        return item.link.toUpperCase().startsWith("/POST/")
+                    }).sort((a: PostItem, b: PostItem) => {
+                        return (a.date == b.date) ? 0 : a.date < b.date ? 1 : -1;
+                    }).filter((element: PostItem) => {
+                        return element.draft === false;
                     }),
                     //collapsible: true,
                     collapsed: false

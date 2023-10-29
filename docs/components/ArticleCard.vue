@@ -2,11 +2,10 @@
     <div class="card">
         <div class="flex">
             <div class="details">
-                <h2 class="title"><a :href="href">{{ title }}</a></h2>
+                <h2 class="title"><a :href="href.slice(0, -3)">{{ title }}</a></h2>
                 <p v-if="excerpt" class="excerpt">{{ excerpt }}</p>
                 <div class="author">
                     <div>
-                        <h3 v-if="author" class="name">{{ author || defaultAuthor }}</h3>
                         <p class="date">{{ formatDate(date) }}</p>
                     </div>
                 </div>
@@ -18,7 +17,6 @@
 export default {
     data() {
         return {
-            defaultAuthor: "Marius Timmer"
         };
     },
     methods: {
@@ -33,10 +31,6 @@ export default {
             required: true,
         },
         excerpt: {
-            type: String,
-            required: false,
-        },
-        author: {
             type: String,
             required: false,
         },

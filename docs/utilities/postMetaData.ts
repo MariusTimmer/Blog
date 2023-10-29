@@ -41,7 +41,7 @@ export const convertJSONToPostItem = (data: any): PostItem => {
     if (data.hasOwnProperty("priority")) {
         postMetaData.priority = data.priority;
     }
-    postMetaData.draft = (data.hasOwnProperty("draft") && data.draft);
+    postMetaData.draft = ((data.hasOwnProperty("draft")) && (data.draft == true));
     return postMetaData;
 }
 
@@ -67,12 +67,15 @@ export const findMarkdownFiles = (directories: string[]): void => {
                 promise.value.forEach((filePath: string) => {
                     const {data} = matter.read(filePath);
                     data.link = filePath.slice(4);
-                    postMetaData.push(convertJSONToPostItem(data));
+		            let postItem: PostItem = convertJSONToPostItem(data);
+                    if (postItem.draft) {
+                        return;
+                    }
+                    postMetaData.push(postItem);
                 });
             }
         });
-        postMetaData.filter(e => e.link !== '/post/index')
-            .filter(e => e.draft !== true)
+        postMetaData.filter(e => !e.link.endsWith('index.md'))
             .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
         writeFile(metadataFilename, JSON.stringify(postMetaData)).then(() => {
             console.log("Metadata of posts written to file");
@@ -90,9 +93,7 @@ export const fetchSidebarItems = (): PostItem[] => {
     let itemsAsJSON = JSON.parse(sidebarData);
     let sidebarItems: PostItem[] = [];
     itemsAsJSON.forEach((itemData: any) => {
-        if (!itemData.draft) {
-            sidebarItems.push(itemData);
-        }
+        sidebarItems.push(itemData);
     });
     return sidebarItems;
 }
