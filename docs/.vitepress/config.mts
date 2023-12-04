@@ -19,6 +19,10 @@ export default defineConfig({
             src: "/favicon.png",
             alt: "Kleines monochromes Bild von Marius Timmer im Profil"
         },
+	outline: {
+		level: [2,3],
+		label: "Auf dieser Seite"
+	},
         nav: [
             {
                 text: "Startseite",
