@@ -1,16 +1,12 @@
 ---
-title: "Gegendemonstration zum Neujahrsempfang der AfD"
-description: "Die AfD Münster hat zum Neujahrsempfang Björn Höcke eingeladen. Natürlich schreit das förmlich nach einer Demonstration. Dieses Mal entschied ich mich spontan auch dazu, teilzunehmen."
-date: "2023-01-21T15:00:00+01:00"
-tags: ["Politik"]
+title: Gegendemo zum Neujahrsempfang der AfD
+description: Die AfD Münster hat zum Neujahrsempfang Björn Höcke eingeladen. Natürlich schreit das förmlich nach einer Demonstration. Dieses Mal entschied ich mich spontan auch dazu, teilzunehmen.
+date: 2023-01-21T15:00:00+01:00
+tags:
+  - Politik
 draft: false
 image: ""
 ---
-
-
-{{ $frontmatter.title }}
-========================
-
 
 Anlass der Demo
 ---------------

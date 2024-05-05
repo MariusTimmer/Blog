@@ -9,8 +9,6 @@ draft: false
 keywords: ["Technik", "Mastodon", "Twitter", "Elon Musk"]
 ---
 
-{{ $frontmatter.title }}
-========================
 Es ist schon einige Wochen her, seitdem Elon Musk Twitter gekauft und damit
 völlig auf den Kopf gestellt hat. Seit jeher ändern sich die geltenden
 Spielregeln der Plattform nahezu täglich willkürlich. Diese Gelegenheit

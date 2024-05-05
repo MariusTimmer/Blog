@@ -8,9 +8,6 @@ description: "Meine bisherigen Erfahrungen mit meinem BitWala-Konto"
 image: "https://mariustimmer.de/img/nuri.webp"
 ---
 
-{{ $frontmatter.title }}
-========================
-
 TL;DR
 -----
 <summary>

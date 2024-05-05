@@ -8,9 +8,6 @@ keywords: ["Corona", "COVID-19", "Politik", "Maskenpflicht", "Schule", "Kinder"]
 draft: false
 ---
 
-{{ $frontmatter.title }}
-========================
-
 Die Welle ist da
 ----------------
 Wer hätte vor sechs Monaten nur vorausahnen können, dass die Ansteckungswerte
