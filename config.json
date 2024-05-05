@@ -1,0 +1,193 @@
+{
+  "baseURL": "https://mariustimmer.de/",
+  "theme": "binario",
+  "DefaultContentLanguage": "de",
+  "rssLimit": 10,
+  "enableRobotsTXT": false,
+  "taxonomies": {
+    "tag": "tags",
+    "category": "categories"
+  },
+  "sitemap": {
+    "changefreq": "daily",
+    "priority": "0.1"
+  },
+  "languages": {
+    "en": {
+      "title": "Timmers blog",
+      "languageName": "English",
+      "description": "Personal blog of Marius Timmer",
+      "weight": 1,
+      "menu": {
+        "main": [
+          {
+            "url": "/en/",
+            "name": "Homepage",
+            "weight": 1
+          },
+          {
+            "url": "/en/post/",
+            "name": "All posts",
+            "weight": 2
+          },
+          {
+            "url": "/en/photos/",
+            "name": "Photography",
+            "weight": 3
+          },
+          {
+            "url": "/en/references/",
+            "name": "References",
+            "weight": 4
+          },
+          {
+            "url": "/en/aboutme/",
+            "name": "About Me",
+            "weight": 5
+          }
+        ],
+        "icon": [
+          {
+            "url": "mailto:admin@mariustimmer.de",
+            "name": "envelope-o",
+            "weight": 1
+          },
+          {
+            "url": "https://twitter.com/marius_timmer?lang=en",
+            "name": "twitter",
+            "weight": 2
+          },
+          {
+            "url": "https://github.com/mariustimmer/",
+            "name": "github",
+            "weight": 3
+          },
+          {
+            "url": "https://twitch.tv/topster",
+            "name": "twitch",
+            "weight": 4
+          },
+          {
+            "url": "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA",
+            "name": "youtube",
+            "weight": 5
+          }
+        ]
+      }
+    },
+    "de": {
+      "title": "Timmers Blog",
+      "languageName": "Deutsch",
+      "description": "Persönlicher Blog von Marius Timmer",
+      "weight": 2,
+      "menu": {
+        "main": [
+          {
+            "url": "/",
+            "name": "Startseite",
+            "weight": 1
+          },
+          {
+            "url": "/post/",
+            "name": "Alle Beiträge",
+            "weight": 2
+          },
+          {
+            "priority": 4,
+            "url": "/photos/",
+            "name": "Fotografie",
+            "weight": 3
+          },
+          {
+            "url": "/references/",
+            "name": "Referenzen",
+            "weight": 4
+          },
+          {
+            "url": "/aboutme/",
+            "name": "Über Mich",
+            "weight": 5
+          }
+        ],
+        "icon": [
+          {
+            "url": "mailto:admin@mariustimmer.de",
+            "name": "envelope-o",
+            "weight": 1
+          },
+          {
+            "url": "https://twitter.com/marius_timmer?lang=de",
+            "name": "twitter",
+            "weight": 2
+          },
+          {
+            "url": "https://github.com/mariustimmer/",
+            "name": "github",
+            "weight": 3
+          },
+          {
+            "url": "https://twitch.tv/topster",
+            "name": "twitch",
+            "weight": 4
+          },
+          {
+            "url": "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA",
+            "name": "youtube",
+            "weight": 5
+          }
+        ]
+      }
+    }
+  },
+  "params": {
+    "author": "Marius Timmer",
+    "copyright": "Marius Timmer",
+    "accent": "red",
+    "showBorder": true,
+    "backgroundColor": "white",
+    "highlight": true,
+    "highlightStyle": "solarized-dark",
+    "highlightLanguages": [
+      "php",
+      "bash"
+    ],
+    "related": true,
+    "social": {
+      "twitter": "marius_timmer",
+      "github": "mariustimmer",
+      "email": "admin@mariustimmer.de",
+      "telegram": "mariustimmer",
+      "instagram": "timmer94"
+    },
+    "Manifest": {
+      "name": "Timmers persönlicher Blog",
+      "shortName": "Timmers Blog",
+      "display": "browser",
+      "startUrl": "/",
+      "backgroundColor": "#FFFFFF",
+      "themeColor": "#FFFFFF"
+    }
+  },
+  "markup": {
+    "goldmark": {
+      "renderer": {
+        "unsafe": true
+      }
+    }
+  },
+  "outputFormats": {
+    "MANIFEST": {
+      "mediaType": "application/json",
+      "baseName": "manifest",
+      "isPlainText": true,
+      "notAlternative": true
+    }
+  },
+  "outputs": {
+    "home": [
+      "HTML",
+      "RSS",
+      "MANIFEST"
+    ]
+  }
+}
