@@ -76,12 +76,10 @@ zu können, dass eine ganze WordPress Installation Overkill für meinen
 Anwendungsfall und vermutlich eher ein zu großes Sicherheitsloch ist.
 Darum wechselte ich zu [Hugo](https://gohugo.io/), einer Software,
 um statische Webseiten zu generieren. Das war für lange Zeit eine gute
-Lösung. Inzwischen bin ich aber zu [VitePress](https://vitepress.vuejs.org/)
-umgestiegen, was ebenfalls ein Generator für statische Seiten ist. Aber dank
-[Vue](https://vuejs.org/) gibt es mir noch mehr Möglichkeiten und benutzt
+Lösung. Zwischenzeitlich bin ich aber auch mal zu [VitePress](https://vitepress.vuejs.org/)
+umgestiegen. Dank [Vue](https://vuejs.org/) gab es mir noch mehr Möglichkeiten und benutzte
 Techniken, die ich auch auf der Arbeit einsetze und generell lernen sollte.
-Erwähnenswert ist vielleicht noch, dass VitePress sich noch im Alpha-Stadium
-befindet und eigentlich zum Erstellen von Dokumentationen gedacht ist.
+Inzwischen bin ich aber wieder [zu Hugo zurückgekehrt](/post/zurueckzuhugo/).
 
 
 Kontakt

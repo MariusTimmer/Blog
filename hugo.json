@@ -133,7 +133,8 @@
   },
   "author": {
     "name": "Marius Timmer",
-    "bio": "So ein Typ aus dem Internet"
+    "bio": "Über zehn Jahren in der Softwareentwicklung und genereller Vollzeit-Nerd. Beschäftigt sich mit Fotografie, Video-Produktion und gesellschaftlichen Themen.",
+    "avatar": "/img/timmer.jpg"
   },
   "params": {
     "copyright": "Marius Timmer",
@@ -148,7 +149,6 @@
       "single": "left",
       "widgets": ["recent", "categories", "taglist", "social", "languages"]
     },
-    "accent": "red",
     "showBorder": true,
     "backgroundColor": "white",
     "highlight": true,
