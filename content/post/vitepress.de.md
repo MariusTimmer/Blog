@@ -4,7 +4,7 @@ description: "Nach langer Zeit probiere ich einen Wechsel der Blog-Software hin 
 date: "2023-01-11"
 draft: false
 keywords: ["Hugo", "VitePress", "Blog", "statische Seite"]
-tags: ["Hugo", "Technik"]
+tags: ["Hugo", "Technik", "VitePress"]
 ---
 
 Hugo war gut

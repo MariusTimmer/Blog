@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE_DIRECTORY=./docs/public/img
+IMAGE_DIRECTORY=./static/img
 BASE_JPGS=$(find "${IMAGE_DIRECTORY}" -type f -name '*.jpg' | grep -v '_large.jpg\|_medium.jpg\|_small.jpg')
 BASE_PNGS=$(find "${IMAGE_DIRECTORY}" -type f -name '*.png' | grep -v '_large.png\|_medium.png\|_small.png')
 BASE_ALL="${BASE_JPGS} ${BASE_PNGS}"
@@ -10,7 +10,7 @@ WIDTH_LARGE=1920
 
 for BASEFILE in ${BASE_ALL}; do
     FILENAME=$(basename "${BASEFILE}")
-    USED=$(grep -rnw $(find ./docs/ -type f -name '*.md') -e "${FILENAME::-4}" | wc -l)
+    USED=$(grep -rnw $(find ./content/ -type f -name '*.md') -e "${FILENAME::-4}" | wc -l)
     if [ "${USED}" == "0" ]; then
         echo " - ${FILENAME::-4} wird nicht mehr benutzt"
         continue
