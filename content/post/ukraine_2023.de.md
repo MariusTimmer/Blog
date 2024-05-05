@@ -7,8 +7,6 @@ keywords: ["Ukraine", "Reise", "Krieg", "Russland", "Kiew"]
 description: "Trotz des anhaltenden Russischen Angriffskrieges auf die Ukraine sind mein Mitbewohner und ich vor zwei Wochen nach Kiew gefahren"
 ---
 
-{{ $frontmatter.title }}
-========================
 Vor 18 Monaten hat Russland begonnen, sein Nachbarland, die Ukraine, zu
 überfallen und militärisch zu erobern. Ursprünglich sollte das angebliche
 Nazi Regime in Kiew abgelöst und so die Ukraine befreit werden. nach dem

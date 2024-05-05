@@ -7,9 +7,6 @@ keywords: ["Hugo", "VitePress", "Blog", "statische Seite"]
 tags: ["Hugo", "Technik"]
 ---
 
-{{ $frontmatter.title }}
-========================
-
 Hugo war gut
 ------------
 Vor fast sechs Jahren hatte ich mich endgültig von WordPress verabschiedet

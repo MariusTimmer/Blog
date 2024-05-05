@@ -8,9 +8,6 @@ images: ["https://mariustimmer.de/img/audi80.webp"]
 draft: false
 ---
 
-{{ $frontmatter.title }}
-========================
-
 Der Winter kommt
 ----------------
 <figure class="right col2">

@@ -8,8 +8,6 @@ keywords: ["OTRS", "Znuny", "LTS-Release"]
 tags: ["Technik", "OTRS"]
 ---
 
-# {{ $frontmatter.title }}
-
 Wie ich in [vorherigen Beiträgen](/post/znunyotrslts2023) schon schrieb, ist die bisherige LTS-Version von OTRS (_6.0_) seit dem Jahreswechsel abgekündigt worden und der Nachfolger (_6.5_) angekündigt worden. Offiziell war die bisherige Version nocht unterstützt, bis zum Release von 6.5.
 
 Nach einigen Wochen des Wartens ist es nun endlich so weit: Znuny hat [OTRS 6.5.1 als LTS-Release](https://www.znuny.org/de/releases/znuny-lts-6-5-1) veröffentlicht. Schon vor zwei Wochen, wie ich gerade gesehen habe. Allerdings sehe ich mir die Releases-Seite von Znuny eher wöchentlich an. Um so erfreuter bin ich nun!

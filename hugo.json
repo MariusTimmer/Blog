@@ -1,13 +1,9 @@
 {
   "baseURL": "https://mariustimmer.de/",
-  "theme": "binario",
+  "theme": "mainroad",
   "DefaultContentLanguage": "de",
   "rssLimit": 10,
   "enableRobotsTXT": false,
-  "taxonomies": {
-    "tag": "tags",
-    "category": "categories"
-  },
   "sitemap": {
     "changefreq": "daily",
     "priority": "0.1"
@@ -16,7 +12,10 @@
     "en": {
       "title": "Timmers blog",
       "languageName": "English",
-      "description": "Personal blog of Marius Timmer",
+      "params": {
+        "description": "Personal blog of Marius Timmer",
+        "dateformat": "2006-01-02"
+      },
       "weight": 1,
       "menu": {
         "main": [
@@ -53,24 +52,19 @@
             "weight": 1
           },
           {
-            "url": "https://twitter.com/marius_timmer?lang=en",
-            "name": "twitter",
-            "weight": 2
-          },
-          {
             "url": "https://github.com/mariustimmer/",
             "name": "github",
-            "weight": 3
+            "weight": 2
           },
           {
             "url": "https://twitch.tv/topster",
             "name": "twitch",
-            "weight": 4
+            "weight": 3
           },
           {
             "url": "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA",
             "name": "youtube",
-            "weight": 5
+            "weight": 4
           }
         ]
       }
@@ -78,7 +72,10 @@
     "de": {
       "title": "Timmers Blog",
       "languageName": "Deutsch",
-      "description": "Persönlicher Blog von Marius Timmer",
+      "params": {
+        "description": "Persönlicher Blog von Marius Timmer",
+        "dateformat": "02.01.2006"
+      },
       "weight": 2,
       "menu": {
         "main": [
@@ -116,32 +113,41 @@
             "weight": 1
           },
           {
-            "url": "https://twitter.com/marius_timmer?lang=de",
-            "name": "twitter",
-            "weight": 2
-          },
-          {
             "url": "https://github.com/mariustimmer/",
             "name": "github",
-            "weight": 3
+            "weight": 2
           },
           {
             "url": "https://twitch.tv/topster",
             "name": "twitch",
-            "weight": 4
+            "weight": 3
           },
           {
             "url": "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA",
             "name": "youtube",
-            "weight": 5
+            "weight": 4
           }
         ]
       }
     }
   },
+  "author": {
+    "name": "Marius Timmer",
+    "bio": "So ein Typ aus dem Internet"
+  },
   "params": {
-    "author": "Marius Timmer",
     "copyright": "Marius Timmer",
+    "opengraph": true,
+    "schema": true,
+    "readmore": true,
+    "authorbox": true,
+    "toc": false,
+    "sidebar": {
+      "home": "right",
+      "list": "left",
+      "single": "left",
+      "widgets": ["recent", "categories", "taglist", "social", "languages"]
+    },
     "accent": "red",
     "showBorder": true,
     "backgroundColor": "white",
@@ -152,12 +158,12 @@
       "bash"
     ],
     "related": true,
-    "social": {
-      "twitter": "marius_timmer",
-      "github": "mariustimmer",
-      "email": "admin@mariustimmer.de",
-      "telegram": "mariustimmer",
-      "instagram": "timmer94"
+    "widgets": {
+      "social": {
+        "github": "mariustimmer",
+        "email": "admin@mariustimmer.de",
+        "instagram": "timmer94"
+      }
     },
     "Manifest": {
       "name": "Timmers persönlicher Blog",
@@ -175,19 +181,10 @@
       }
     }
   },
-  "outputFormats": {
-    "MANIFEST": {
-      "mediaType": "application/json",
-      "baseName": "manifest",
-      "isPlainText": true,
-      "notAlternative": true
-    }
-  },
   "outputs": {
     "home": [
       "HTML",
-      "RSS",
-      "MANIFEST"
+      "RSS"
     ]
   }
 }

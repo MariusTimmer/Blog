@@ -8,9 +8,6 @@ tags: ["Technik"]
 description: "as"
 ---
 
-{{ $frontmatter.title }}
-========================
-
 Hin und wieder helfe ich einigen Leuten in meinem Umfeld beim Aufsetzen
 und Warten ihrer Internetseiten. So gucke ich immer wieder mal über
 die WordPress-Installation meiner Mutter und stelle sicher, dass sie

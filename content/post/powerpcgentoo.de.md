@@ -7,9 +7,6 @@ tags: ["Technik", "Linux"]
 draft: false
 ---
 
-{{ $frontmatter.title }}
-========================
-
 Wieso ein Computer von 2005?
 ----------------------------
 Ältere Computer faszinierten mich schon immer. Dabei beschränke ich mich aber nicht auf eine bestimmte Ära. So kommt es auch, dass in meinem Keller noch ein Commodore 64 samt Datasetten aber auch mein erster Laptop (_IBM ThinkPad T23_) liegen. Mit einem Pentium III Prozessor und (_bereits aufgerüsteten_) 512 <abbr title="Megabyte">MB</abbr> Arbeitsspeicher ist letzterer sehr leistungsschwach, wenn man ihn mit heutigen Computern vergleicht. Gerade die eingeschränkte Hardware reizt mich dabei aber immer wieder, so viel Leistung raus zu holen wie möglich.

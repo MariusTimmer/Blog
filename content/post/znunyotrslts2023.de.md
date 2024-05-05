@@ -10,9 +10,6 @@ author: "Marius Timmer"
 image: "https://mariustimmer.de/img/znuny_otrs_favicon.webp"
 ---
 
-{{ $frontmatter.title }}
-========================
-
 Wieso wir Znunys OTRS nutzen
 ----------------------------
 Vor einem Jahr hat die OTRS AG spontan angekündigt, ihr Versprechen zu brechen

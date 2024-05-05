@@ -7,10 +7,6 @@ draft: false
 image: "/img/schreibmaschine.webp"
 ---
 
-
-{{ $frontmatter.title }}
-========================
-
 Vorgeschichte
 -------------
 Leider hat es bei uns Zuhause im Frühjahr diesen Jahres gebrannt. Dabei ist leider der gesamte Hausrat weg gekommen. Einer der Gegenstände, die leider auch weg gekommen sind, ist meine alte Desktop-Schreibmaschine von Adler gewesen. Ich hatte sie immer sehr gemocht, da sie sehr robust und vor allem voll mechanisch, ohne jegliche Elektrick aus kam.

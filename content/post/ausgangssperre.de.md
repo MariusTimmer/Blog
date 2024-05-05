@@ -8,9 +8,6 @@ tags: ["Technik"]
 description: "Mein kleines Projekt zu aktuellen Ausgangssperren in den Landkreisen"
 ---
 
-{{ $frontmatter.title }}
-========================
-
 Durch das neue Infektionsschutzgesetz des Bundes sind nun doch die nächtlichen Ausgangssperren auf Kreisebene gekommen. Da es zu meinen Hobbys gehört, am späten Abend oder auch in der Nacht eine Runde mit dem Auto zu drehen, ist es für mich also sehr interessant zu wissen, ob aktuell eine AUsgangssperre besteht oder nicht. Gerade auch weil ich in einer Gegend wohne, in der drei Landkreise mit völlig unterschiedlichen 7 Tages-Inzidenz-Werten aufeinander treffen. Münster hat am Wochenende beispielsweise schon wieder seine Außengastronomie öffnen können. Kreis Coesfeld ist eines der Modell-Regionen für die Öffnungen nach der Pandemie. In Kreis Steinfurt hingegen ist die Infektionszahl generell höher - einen wirklichen Grund dafür kenne ich nicht.
 
 <figure role="group" class="right col3">

@@ -8,9 +8,6 @@ tags: ["Auto"]
 description: "Bei mir ist jemand in mein Auto eingebrochen"
 ---
 
-{{ $frontmatter.title }}
-========================
-
 Die Story
 ---------
 Die folgende Story ist Inzwischen schon fünf Wochen her. Dennoch regt es mich nach wie vor genau so sehr auf wie "_damals_": Ende April ging ich morgens zu meinem Auto um eben Brötchen zu holen. Direkt bemerkte ich, dass die Fahrertür gar nicht richtig im Schloss war. "Komisch", dachte ich mir noch, da ich mein Auto doch immer abschließe: "Wie konnte ich mein Auto abschließen, wobei die Tür gar nicht richtig zu war?". Außerdem war meine Scheibe runter gekurbelt. Ich muss am Vorabend wohl sehr hastig aus dem Auto gestürmt sein, ohne die Tür oder das Fenster zu zu machen. Das Interessante dabei ist nur: Ich konnte mich nicht daran erinnern, das Auto so hinterlassen zu haben. Schnell machte ich Licht und Radio an um zu prüfen, ob die Batterie durch das Licht, welches bei offener Tür leuchtet, leer gezogen war. Das Licht ging ganz normal an. Aber dort, wo eigentlich mein Radio hing, war nur noch ein großes Loch. Jemand hatte mir mein Radio gestohlen.

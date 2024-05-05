@@ -10,8 +10,6 @@ image: "/img/longinusturm.webp"
 video: "aPHaoQx7m68"
 ---
 
-{{ $frontmatter.title }}
-========================
 Am 18. Januar 1979 gab es eine Sprengung am Longinusturm um die Ausstrahlung der US Amerikanischen Fernsehserie "Holocaust" zu verhindern. Im Gegensatz zur zeitgleichen Sprengung des SWR-Sendemastes bei Koblenz verhinderte die Sprengung in den Baumbergen nicht die Ausstrahlung. Bereits in den darauf folgenden Tagen wurde Peter Naumann, der später Landespolitiker für die NPD wurde, für schuldig gesprochen.
 
 Da ich bisher noch nie etwas von dieser Tat gehört hatte und auch in meinem Umfeld niemand davon wusste, machte ich mich auf die Spurensuche im Internet. Schließlich kann es doch nicht sein, dass man noch nie etwas davon gehört hat, obwohl es hier bei uns geschah, und das zu Lebzeiten meiner Eltern.

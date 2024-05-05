@@ -7,10 +7,6 @@ tags: ["Auto"]
 draft: false
 ---
 
-{{ $frontmatter.title }}
-========================
-
-
 Der Winter hält mich auf Trab
 -----------------------------
 Bekanntlich ist der Winter die kalte Jahreszeit. Oftmals muss ich dann

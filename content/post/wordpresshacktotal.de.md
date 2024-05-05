@@ -8,9 +8,6 @@ tags: ["Technik"]
 description: "Mal wieder wurde die WordPress-Instanz meiner Mutter angegriffen"
 ---
 
-{{ $frontmatter.title }}
-========================
-
 Wie Ihr ja sicher schon gelesen habt, ist meine Mutter selbstständig und hat
 daher auch eine [Webseite](https://tanjakoester.de/). Der Einfachkeit halber
 wurde das damals mit WordPress realisiert und auch in der Vergangenheit
