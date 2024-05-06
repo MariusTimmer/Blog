@@ -1,6 +1,7 @@
 ---
 title: "Hallo Welt"
 date: "2017-12-01T12:00:00+01:00"
+lastmod: "2024-05-05T17:00:00+01:00"
 author: "Marius Timmer"
 tags: [ "Hugo", "Markdown" ]
 draft: false
