@@ -147,7 +147,12 @@
       "home": "right",
       "list": "left",
       "single": "left",
-      "widgets": ["recent", "categories", "taglist", "social", "languages"]
+      "widgets": [
+        "recent",
+        "categories",
+        "social",
+        "languages"
+      ]
     },
     "showBorder": true,
     "backgroundColor": "white",

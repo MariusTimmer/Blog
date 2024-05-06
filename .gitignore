@@ -9,3 +9,4 @@ docs/scripts/metaCollector.js
 docs/utilities/postMetaData.js
 docs/utilities/tagHelper.js
 .hugo_build.lock
+public
