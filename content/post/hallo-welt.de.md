@@ -20,3 +20,9 @@ Aber das ändert nichts daran, dass es mir schon jetzt sehr gefällt!
 
 *Auf bald - Bis wiedersehen!*
 
+---
+
+### Mai 2024 update
+All diese Beschränkungen gelten nicht mehr. Hugo und ich sind nun weiter
+und ich habe alles optimiert. Ich bin noch immer (_und wieder_) super
+froh mit meiner Lösung.
