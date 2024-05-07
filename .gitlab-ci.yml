@@ -1,16 +1,20 @@
-image: node:latest
+image: hugomods/hugo
 
 before_script:
-  - ./updatePostList.sh > ./postdata.json
+  - apk add imagemagick libwebp libjpeg bash git
+  - git submodule update --init --remote --recursive themes/mainroad
   - ./process_images.sh
-  - patch -p0 ./docs/.vitepress/config.ts < ./docs/.vitepress/config_ci_pages.patch
-  - find ./docs/public/img -type f -name '*.jpg' -exec rm {} \;
-  - npm install
+
+build:
+  script:
+    - hugo --cleanDestinationDir --gc --ignoreCache --minify
+  artifacts:
+    paths:
+      - public/
 
 pages:
   script:
-  - npm run docs:build
-  - mv docs/.vitepress/dist public
+    - hugo --baseURL "https://mtimm_01.zivgitlabpages.uni-muenster.de/blog/" --cleanDestinationDir --gc --ignoreCache --minify
   artifacts:
     paths:
-    - public
+      - public/
