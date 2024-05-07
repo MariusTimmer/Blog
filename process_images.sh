@@ -24,7 +24,6 @@ for BASEFILE in ${BASE_ALL}; do
     echo " - Verarbeite \"${BASEFILE}\" (${WIDTH} px Breite)"
     if [ ! -f "${FILENAME_NORMAL}" ]; then
         convert "${BASEFILE}" "${FILENAME_NORMAL}"
-        cp "${FILENAME_NORMAL}" "${FILENAME_NORMAL/static/public}"
     fi
     if [ "${WIDTH}" -gt "${WIDTH_SMALL}" ]; then
         if [ ! -f "${FILENAME_SMALL}" ]; then
@@ -32,7 +31,6 @@ for BASEFILE in ${BASE_ALL}; do
                 -geometry "${WIDTH_SMALL}x" \
                 "${BASEFILE}" \
                 "${FILENAME_SMALL}"
-            cp "${FILENAME_SMALL}" "${FILENAME_SMALL/static/public}"
             echo "    - Small Version erzeugt"
         fi
     fi
@@ -42,7 +40,6 @@ for BASEFILE in ${BASE_ALL}; do
                 -geometry "${WIDTH_MEDIUM}x" \
                 "${BASEFILE}" \
                 "${FILENAME_MEDIUM}"
-            cp "${FILENAME_MEDIUM}" "${FILENAME_MEDIUM/static/public}"
             echo "    - Medium Version erzeugt"
         fi
     fi
@@ -52,7 +49,6 @@ for BASEFILE in ${BASE_ALL}; do
                 -geometry "${WIDTH_LARGE}x" \
                 "${BASEFILE}" \
                 "${FILENAME_LARGE}"
-            cp "${FILENAME_LARGE}" "${FILENAME_LARGE/static/public}"
             echo "    - Large Version erzeugt"
         fi
     fi
