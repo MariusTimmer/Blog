@@ -141,7 +141,7 @@
     "opengraph": true,
     "schema": true,
     "readmore": true,
-    "authorbox": true,
+    "authorbox": false,
     "toc": false,
     "sidebar": {
       "home": "right",
@@ -169,14 +169,6 @@
         "email": "admin@mariustimmer.de",
         "instagram": "timmer94"
       }
-    },
-    "Manifest": {
-      "name": "Timmers persönlicher Blog",
-      "shortName": "Timmers Blog",
-      "display": "browser",
-      "startUrl": "/",
-      "backgroundColor": "#FFFFFF",
-      "themeColor": "#FFFFFF"
     }
   },
   "markup": {
