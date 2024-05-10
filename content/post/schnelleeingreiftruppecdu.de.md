@@ -6,7 +6,8 @@ date: "2019-10-01T12:16:00+01:00"
 tags: ["Politik"]
 keywords: ["Politik", "Rezo", "Jugend", "CDU", "CSU", "CSYou", "SPD", "NPD", "AfD", "Paul Ziemiak", "Ziemiak", "Philipp Amthor", "Tiemo Wölken", "Amthor", "YouTube", "Video", "Social Media", "Soziale Medien", "Trolle"]
 draft: false
-image: "https://mariustimmer.de/img/ziemiak_rezo_small.webp"
+images:
+  - "https://mariustimmer.de/img/ziemiak_rezo_small.webp"
 ---
 
 Nachdem wenige Tage vor der vergangenen Europawahl (_ende Mai diesen Jahres_) der YouTuber Rezo ein Video veröffentlichte, welches rasenschnell groß verbreitet wurde und kein gutes Haar an der großen Koalition lässt, gibt es nun - _nur_ knapp fünf Monate später eine Reaktion der CDU. Die SPD hatte ja bereits relativ schnell ein [Antwort-Video](https://www.youtube.com/watch?v=79d9X16w8zc) von [Tiemo Wölken](https://twitter.com/woelken) veröffentlicht. Angeblich existierte auch ein Video der CDU mit [Philipp Amthor](https://de.wikipedia.org/wiki/Philipp_Amthor), welches wohl aber nicht den Qualitätsansprüchen genügte bzw. nicht als angemessen angesehen wurde (_wie er selber bei Markus Lanz sagte_) und daher [nie veröffentlicht](https://www.youtube.com/watch?v=KGuKAHX5-_k) wurde.

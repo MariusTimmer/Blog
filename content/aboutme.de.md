@@ -3,7 +3,8 @@ title: "Über Mich"
 date: "2018-03-09T14:06:36+01:00"
 draft: false
 author: "Marius Timmer"
-image: "https://mariustimmer.de/img/timmer_small.webp"
+images:
+  - "https://mariustimmer.de/img/timmer_small.webp"
 description: "Eine kleine Übersicht"
 priority: "0.9"
 ---

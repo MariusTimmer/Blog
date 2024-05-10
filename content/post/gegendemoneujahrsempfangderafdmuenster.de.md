@@ -5,7 +5,6 @@ date: 2023-01-21T15:00:00+01:00
 tags:
   - Politik
 draft: false
-image: ""
 ---
 
 Anlass der Demo

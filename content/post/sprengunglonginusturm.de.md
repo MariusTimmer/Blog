@@ -6,7 +6,8 @@ date: "2022-08-15T12:30:00+01:00"
 tags: ["Regional"]
 keywords: ["Longinusturm", "Baumberge", "Sprengstoffanschlag", "Peter Naumann", "Holocaust"]
 draft: false
-image: "/img/longinusturm.webp"
+images:
+  - "/img/longinusturm.webp"
 video: "aPHaoQx7m68"
 ---
 

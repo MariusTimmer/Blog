@@ -3,7 +3,8 @@ title: "About me"
 date: "2018-03-09T14:06:36+01:00"
 lastmod: "2024-05-06T12:00:00+02:00"
 draft: false
-image: "https://mariustimmer.de/img/timmer_small.webp"
+images:
+  - "https://mariustimmer.de/img/timmer_small.webp"
 description: "All you need to know about me"
 priority: "0.9"
 ---

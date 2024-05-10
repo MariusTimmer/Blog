@@ -4,7 +4,8 @@ description: "Mastodon ist quelloffen und zudem dezentral aufgebaut. Daher habe 
 lastmod: "2022-10-18T09:00:00+02:00"
 date: "2022-10-17T20:30:00+02:00"
 tags: ["Technik"]
-image: "/img/mastodon_maskottchen.webp"
+images:
+  - "/img/mastodon_maskottchen.webp"
 draft: false
 keywords: ["Technik", "Mastodon", "Twitter", "Elon Musk"]
 ---

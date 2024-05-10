@@ -4,7 +4,8 @@ description: "Auf einem Antikmarkt in Polen habe ich mir eine neue Schreibmaschi
 date: "2023-10-21T15:00:00+01:00"
 tags: ["Technik"]
 draft: false
-image: "/img/schreibmaschine.webp"
+images:
+  - "/img/schreibmaschine.webp"
 ---
 
 Vorgeschichte

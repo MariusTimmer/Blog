@@ -12,7 +12,8 @@ keywords:
   - "Atari"
 tags:
   - "Technik"
-image: "/img/heinz-nixdorf-museum.jpg"
+images:
+  - "/img/heinz-nixdorf-museum.webp"
 ---
 
 ## Eine spontane Idee

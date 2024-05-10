@@ -5,7 +5,8 @@ draft: false
 author: "Marius Timmer"
 keywords: ["Bitcoin", "Ethereum", "Kryptowährungen", "BitWala", "Nuri", "Girokonto", "Minen", "Handel", "Trading"]
 description: "Meine bisherigen Erfahrungen mit meinem BitWala-Konto"
-image: "https://mariustimmer.de/img/nuri.webp"
+images:
+  - "https://mariustimmer.de/img/nuri.webp"
 ---
 
 TL;DR
