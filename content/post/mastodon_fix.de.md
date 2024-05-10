@@ -1,6 +1,6 @@
 ---
-title: Mastodon-Reparatur
-description: Nachdem mein Mastodon seit Langem nicht mehr funktioniert, wurde es nun Zeit, dass ich mir die Sache mal ansehe
+title: "Reparatur meiner Mastodon Instanz"
+description: "Nachdem mein Mastodon seit Langem nicht mehr funktioniert, wurde es nun Zeit, dass ich mir die Sache mal ansehe"
 date: 2024-02-02T11:00:00+01:00
 tags:
   - Technik

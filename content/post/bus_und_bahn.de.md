@@ -1,5 +1,6 @@
 ---
 title: "Bus und Bahn fahren macht Spaß"
+description: "Aktuell fahre ich wieder mit dem Bus und der Bahn und es nicht so schlimm, man es sich vorstellen würde."
 date: "2018-09-20T22:44:26+02:00"
 draft: false
 tags: ["Auto"]

@@ -1,15 +1,12 @@
 ---
-title: "Ubuntu Debian Migration"
-description: "Wie ich von Ubuntu zu Debian gewechselt bin"
+title: "Meine Migration von Ubuntu zu Debian"
+description: "Wie ich von Ubuntu zu Debian gewechselt bin und über welche Probleme ich dabei gestolpert bin"
 icon: "linux"
 date: "2019-07-12T09:26:00+01:00"
 tags: ["Technik", "Linux"]
 keywords: ["Linux", "Ubuntu", "Debian", "Migration", "APT", "Mirror" ,"Keys", "GPG", "Komfort", "Freiheit", "ThinkPad", "Mac Mini", "PowerPC", "Netzwerkinstallation", "XFCE", "KDE", "SafeNet", "eToken", "SAC", "Thunderbird"]
 draft: false
 ---
-
-Von [Ubuntu](https://ubuntu.com/) zu [Debian](https://debian.org/)
-====================
 
 TL;DR
 -----

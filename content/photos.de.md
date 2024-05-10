@@ -10,15 +10,39 @@ images: ["https://mariustimmer.de/img/photos/disko_zoo_large.webp"]
 priority: "1.0"
 ---
 
-Fotografie
-==========
-Seit einiger Zeit komme ich immer wieder an eine kleine Auswahl an Kameras. Da ich das noch gar nicht so lange mache, entdecke ich den Bereich der Fotografie immer mehr für mich. Als ich erfuhr, dass meine Mutter vor über zwanzig Jahren ein eigenes Fotolabor hatte um ihre Filme zu entwickeln, beeindruckte mich das schon ziemlich. Trotz meiner Liebe für alte bzw. klassische Vorgehensweisen muss ich zugeben, dass ein eigenes Fotolabor für mich uninteressant ist, da ich nur noch eine Film-Kamera besitze. Außerdem glaube ich, dass es hilfreich ist, die Ergebnisse beim Ausprobieren direkt zu sehen und nicht erst nach einigen Minuten/Stunden, wenn der Film fertig entwickelt wurde.
+## Fotografie
+Seit einiger Zeit komme ich immer wieder an eine kleine Auswahl an Kameras.
+Da ich das noch gar nicht so lange mache, entdecke ich den Bereich
+der Fotografie immer mehr für mich. Als ich erfuhr, dass meine Mutter vor
+über zwanzig Jahren ein eigenes Fotolabor hatte um ihre Filme zu entwickeln,
+beeindruckte mich das schon ziemlich. Trotz meiner Liebe für alte bzw.
+klassische Vorgehensweisen muss ich zugeben, dass ein eigenes Fotolabor
+für mich uninteressant ist, da ich nur noch eine Film-Kamera besitze.
+Außerdem glaube ich, dass es hilfreich ist, die Ergebnisse beim Ausprobieren
+direkt zu sehen und nicht erst nach einigen Minuten/Stunden, wenn der Film
+fertig entwickelt wurde.
 
-Digitale Nachtfotografie
-------------------------
-Also mache ich mir (_logischerweise_) eher Gedanken um digitale Fotografie. Die anschließende Bildbearbeitung ist natürlich sehr attraktiv, allerdings habe ich in dem Bereich bisher noch nicht so viel gemacht, wie ich vielleicht sollte. Am liebsten gehe ich zum Fotografieren Nachts vor die Tür. Denn erst wenn die Sonne nicht mehr am Himmel steht, gibt es (_meiner Meinung nach_) so viel mehr interessante Motive. Natürlich probiere ich mich immer wieder am Sternenhimmel, weil das gar nicht mal so einfach ist. Wenn der ISO-Wert nicht so hoch gedreht werden kann, bleibt einem fast nichts anderes übrig, als die Belichtungszeit zu erhöhen. Die Blende ist bei mir natürlich fast immer maximal offen. Bei Belichtungszeiten von über 30 Sekungen erkennt man allerdings die Erdrotation, da die Sternenbahnen plötzlich sichtbar werden, was man eigentlich vermeiden will. Dagegen kann man zwar mit entsprechenden "_Stativen_" vorgehen, die sich mitbewegen, allerdings sind diese einfach viel zu teuer und das ist es mir einfach nicht wert.
+## Digitale Nachtfotografie
+Also mache ich mir (_logischerweise_) eher Gedanken um digitale Fotografie.
+Die anschließende Bildbearbeitung ist natürlich sehr attraktiv, allerdings
+habe ich in dem Bereich bisher noch nicht so viel gemacht, wie ich vielleicht
+sollte. Am liebsten gehe ich zum Fotografieren Nachts vor die Tür. Denn erst,
+wenn die Sonne nicht mehr am Himmel steht, gibt es (_meiner Meinung nach_)
+so viel mehr interessante Motive. Natürlich probiere ich mich immer wieder
+am Sternenhimmel, weil das gar nicht mal so einfach ist. Wenn der ISO-Wert
+nicht so hoch gedreht werden kann, bleibt einem fast nichts anderes übrig,
+als die Belichtungszeit zu erhöhen. Die Blende ist bei mir natürlich fast
+immer maximal offen. Bei Belichtungszeiten von über 30 Sekungen erkennt man
+allerdings die Erdrotation, da die Sternenbahnen plötzlich sichtbar werden,
+was man eigentlich vermeiden will. Dagegen kann man zwar mit entsprechenden
+"_Stativen_" vorgehen, die sich mitbewegen, allerdings sind diese einfach
+viel zu teuer und das ist es mir einfach nicht wert.
 
-Aber nicht nur die Sterne ergeben ein gutes Motiv. Vor einigen Tagen war ich in Münster. Dort herrscht zwar eine relative Lichtverschmutzung (_wie in jeder Stadt_), aber von einem mir bekannten Parkhaus hat man eine super Übersicht über die Stadt und auch der Straßenverkehr ergbit schöne Bilder, wenn man beispielsweise nur noch die verschwommenen Lichtspuren erkennen kann.
+Aber nicht nur die Sterne ergeben ein gutes Motiv. Vor einigen Tagen war ich
+in Münster. Dort herrscht zwar eine relative Lichtverschmutzung (_wie in
+jeder Stadt_), aber von einem mir bekannten Parkhaus hat man eine super
+Übersicht über die Stadt und auch der Straßenverkehr ergbit schöne Bilder,
+wenn man beispielsweise nur noch die verschwommenen Lichtspuren erkennen kann.
 
 <figure vocab="https://schema.org/" typeof="Photograph">
     <img
@@ -41,8 +65,7 @@ Aber nicht nur die Sterne ergeben ein gutes Motiv. Vor einigen Tagen war ich in 
 </figure>
 
 
-Bisherige Kameras
------------------
+## Bisherige Kameras
 Mit den folgenden Kameras habe ich bisher meine Erfahrungen sammeln können:
 
  - [Olympus OMD em5 mark ii](https://www.olympus.de/site/de/c/cameras/om_d_system_cameras/om_d/e_m5_mark_ii/index.html)
@@ -56,9 +79,13 @@ Mit den folgenden Kameras habe ich bisher meine Erfahrungen sammeln können:
     - Höhere ISO-Werte und Video-Funktion
 
 
-Schleuse mit alter Kamera
--------------------------
-Entgegen meiner früheren Erwartungen kann man mit einer knapp 15 Jahre alten Kamera noch immer zeitgemäße Fotos schießen. Es ist alles eine Frage der korrekten Einstellung, des benutzten Objektives und der Nachbearbeitung (_die ich ja noch immer nicht kann_). Beispielsweise finde ich dieses Bild der Schleuse in Münster gar nicht mal so schlecht. Man merkt auch hier, dass ich gerne mit langen Belichtungszeiten spiele
+## Schleuse mit alter Kamera
+Entgegen meiner früheren Erwartungen kann man mit einer knapp 15 Jahre
+alten Kamera noch immer zeitgemäße Fotos schießen. Es ist alles eine Frage
+der korrekten Einstellung, des benutzten Objektives und der Nachbearbeitung
+(_die ich ja noch immer nicht kann_). Beispielsweise finde ich dieses Bild
+der Schleuse in Münster gar nicht mal so schlecht. Man merkt auch hier,
+dass ich gerne mit langen Belichtungszeiten spiele
 
 <figure vocab="https://schema.org/" typeof="Photograph">
     <img
@@ -81,9 +108,19 @@ Entgegen meiner früheren Erwartungen kann man mit einer knapp 15 Jahre alten Ka
 </figure>
 
 
-Lichterausstellung im Zoo
--------------------------
-Normalerweise schließt der [Allwetterzoo in Münster](https://www.allwetterzoo.de/#) über den Winter relativ früh. Im Winter 2019/20 konnte man allerdings fast jeden Abend bis 22 Uhr durch den Zoo laufen. Allerdings waren zu der Zeit keine Tiere zu sehen, sondern aufwändig eingerichtete [Lichtinstallationen](https://www.allwetterzoo.de/de/zoo/besucherinfos/termine/gast_va_christmas_garden/). Davon musste ich natürlich auch das ein oder andere Foto schießen. Noch immer ist der Anteil an guten Fotos verschwindend gering, gemessen an der Gesamtanzahl jeweils geschossener Fotos. Dieses Bild sticht allerdings hervor, weil es taghell wirkt und durch das helle Licht und die lange Belichtungszeit aus einer normalen Diskokugel eine Art Stern wird. Die Reflektionen ergeben dabei kreisförmige Lichtspuren, so wie es auch mit den Sternen am Nachthimmel passiert, wenn man sie zu lange ablichtet.
+## Lichterausstellung im Zoo
+Normalerweise schließt der [Allwetterzoo in Münster](https://www.allwetterzoo.de/#) über den Winter
+relativ früh. Im Winter 2019/20 konnte man allerdings fast jeden Abend
+bis 22 Uhr durch den Zoo laufen. Allerdings waren zu der Zeit keine Tiere
+zu sehen, sondern aufwändig eingerichtete [Lichtinstallationen](https://www.allwetterzoo.de/de/zoo/besucherinfos/termine/gast_va_christmas_garden/).
+Davon musste ich natürlich auch das ein oder andere Foto schießen.
+Noch immer ist der Anteil an guten Fotos verschwindend gering, gemessen
+an der Gesamtanzahl jeweils geschossener Fotos. Dieses Bild sticht
+allerdings hervor, weil es taghell wirkt und durch das helle Licht
+und die lange Belichtungszeit aus einer normalen Diskokugel eine Art
+Stern wird. Die Reflektionen ergeben dabei kreisförmige Lichtspuren,
+so wie es auch mit den Sternen am Nachthimmel passiert,
+wenn man sie zu lange ablichtet.
 
 <figure vocab="https://schema.org/" typeof="Photograph">
     <img

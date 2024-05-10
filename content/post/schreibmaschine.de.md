@@ -1,5 +1,5 @@
 ---
-title: "Meine neue Schreibmaschine"
+title: "Meine neue alte Schreibmaschine"
 description: "Auf einem Antikmarkt in Polen habe ich mir eine neue Schreibmaschine gekauft. Nun kann ich endlich richtig schön altmodisch und stromfrei schreiben."
 date: "2023-10-21T15:00:00+01:00"
 tags: ["Technik"]

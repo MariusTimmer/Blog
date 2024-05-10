@@ -1,5 +1,5 @@
 ---
-title: "Wo ist Ausgangssperre?"
+title: "Wo ist aktuell Ausgangssperre?"
 date: "2021-05-17T10:00:00+02:00"
 draft: false
 author: "Marius Timmer"

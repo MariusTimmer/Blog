@@ -1,6 +1,6 @@
 ---
-title: "Corona wird uns alle töten"
-description: "Menschen sind schlimm"
+title: "Corona kommt. Was nun?"
+description: "Corona kommt und keiner weiß, wie mit der Situation umzugehen ist."
 author: "Marius Timmer"
 keywords: ["Corona", "Kollaps der Gesellschaft", "Medien", "Panik", "BILD", "Hamsterkäufe", "Klopapier", "Desinfektionsmittel", "Börse"]
 date: "2020-03-09T19:00:00+01:00"

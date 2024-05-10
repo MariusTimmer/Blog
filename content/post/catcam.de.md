@@ -1,11 +1,10 @@
 ---
-title: "Katzenbabys"
+title: "Eine Kamera für Katzenbabys"
 date: "2020-10-05T19:00:00+02:00"
 draft: false
 author: "Marius Timmer"
 keywords: ["Webcam", "Katze", "Katzenbabys", "Kitten", "Tierarzt", "Tot", "Einschläfern"]
-description: "Live-Schalte zu den Katzenbabys"
-image: "http://go.mariustimmer.de:8081/"
+description: "Ich habe eine Webcam eingerichtet, um die Katzenbabys Zuhause beobachten zu können."
 ---
 
 Nachdem unsere Katze Babys bekommen hat, habe ich eine Webcam und einen PC ans Internet angeschlossen, damit ich jeder Zeit sehen kann, was zuhause bei den Kleinen abgeht, wenn ich selber mal kurz zum Beispiel einkaufen oder einfach im Büro am Arbeiten bin. Außerdem habe ich den Link im Laufe der Zeit einigen Leuten geschickt, so dass ich diesen Service eigentlich erst einmal aufrecht erhalten muss. Ich nenne es: Die Truman show.

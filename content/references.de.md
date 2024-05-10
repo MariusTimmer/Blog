@@ -6,8 +6,6 @@ author: "Marius Timmer"
 priority: "0.9"
 ---
 
-# Referenzen
-
 ## Webseiten
 Hin und wieder wenden sich Freunde, Familie und so weiter an mich, mit der Bitte einen Internetauftritt aka. Webseite für sie einzurichten. Um euch einen Überblick zu geben und auch um diese Seiten auf jeden Fall an einer Stelle verlinkt zu haben um anschließend von Suchmaschinen gefunden zu werden, könnt ihr euch hier ja einmal durch die Liste klicken. Erwähnen möchte ich, dass ich nicht immer versuche, die Administration möglichst schnell an die jeweils verantwortlichen zu übergeben.
 

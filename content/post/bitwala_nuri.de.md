@@ -1,5 +1,5 @@
 ---
-title: "Krypto-Bitcoin-Konto"
+title: "Mein neues Krypto-Bitcoin-Konto bei Bitwala"
 date: "2021-05-20T10:00:00+02:00"
 draft: false
 author: "Marius Timmer"

@@ -1,13 +1,13 @@
 ---
-title: Endlich wieder Solarstrom
-date: 2024-05-01T12:00:00+02:00
+title: "Der Frühling bringt endlich wieder Solarstrom"
+description: "Der Winter ist endlich vorbei und die Sonne lässt sich wieder blicken. Für mich bedeutet das, dass es auch wieder genug Strom durch meine Solarmodule gibt."
+date: "2024-05-01T12:00:00+02:00"
 draft: false
 author: Marius Timmer
 keywords:
   - Solarstrom
   - Photovoltaik
   - Sonne
-description: Der Winter ist endlich vorbei und die Sonne lässt sich wieder blicken. Für mich bedeutet das, dass es auch wieder genug Strom durch meine Solarpanele gibt.
 ---
 
 ## Was bisher geschah

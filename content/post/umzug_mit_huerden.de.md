@@ -1,16 +1,12 @@
 ---
-title: "Umzug mit Hürden"
-description: "Renovieren und Sanieren macht Spaß"
+title: "Mein Umzug und seine Hürden"
+description: "Mein Umzug nach Laer ist mit einigen Renovierungsarbeiten verbunden, die nicht ohne sind."
 icon: "home"
 date: "2019-05-09T18:38:00+01:00"
 tags: ["Umzug"]
 draft: false
 keywords: ["Umzug", "Renovieren", "Sanieren", "Laer"]
 ---
-
-
-Aktueller Stand
-===============
 
 
 Die letzten Wochen

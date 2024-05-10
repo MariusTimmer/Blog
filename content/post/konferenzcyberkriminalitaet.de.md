@@ -1,5 +1,5 @@
 ---
-title: "Kongresszur Cybersicherheit der IHK Nord-Westfalen und der Polizei NRW"
+title: "Kongress zur Cybersicherheit der IHK und Polizei"
 description: "Um mir ein Bild davon machen zu können, wie Unternehmen in unserer Region mit IT-Kriminalität umgehen, bin ich zum Kongress zur Cybersicherheit der IHK Nord-Westfalen und der Polizei NRW gegangen."
 keywords: ["Cybersicherheit", "IHK Nord-Westfalen", "Polizei NRW", "Herbert Reul", "Randomware"]
 date: "2023-03-03"

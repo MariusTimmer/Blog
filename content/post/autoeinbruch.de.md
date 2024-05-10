@@ -1,11 +1,11 @@
 ---
-title: "Einbruch ins Auto"
+title: "Jemand ist in mein Auto eingebrochen"
 date: "2021-06-14T10:00:00+02:00"
 draft: false
 author: "Marius Timmer"
 keywords: ["Einbruch", "Diebstahl", "Auto", "Audi 80"]
 tags: ["Auto"]
-description: "Bei mir ist jemand in mein Auto eingebrochen"
+description: "Jemand ist in mein Auto eingebrochen und hat mich bestohlen. Sogar das 10 Euro Radio von Ebay wurde ausgebaut."
 ---
 
 Die Story

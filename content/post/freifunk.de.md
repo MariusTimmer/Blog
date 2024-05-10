@@ -1,5 +1,6 @@
 ---
-title: "Freifunk"
+title: "Internet per Freifunk"
+description: "Ich bin unter die Freifunker gegangen und nun gibt es bei mir Zuhause und vor der Tür kostenloses Internet für alle."
 date: "2018-12-03T23:00:00+01:00"
 tags: ["Technik"]
 draft: false
