@@ -8,12 +8,13 @@
     "changefreq": "daily",
     "priority": "0.1"
   },
+  "canonifyURLs": true,
   "languages": {
     "en": {
       "title": "Timmers blog",
       "languageName": "English",
       "params": {
-        "description": "Personal blog of Marius Timmer",
+        "description": "Blog by Marius Timmer with reports on events and posts about technical and political topics.",
         "dateformat": "2006-01-02"
       },
       "weight": 1,
@@ -73,7 +74,7 @@
       "title": "Timmers Blog",
       "languageName": "Deutsch",
       "params": {
-        "description": "Persönlicher Blog von Marius Timmer",
+        "description": "Blog von Marius Timmer mit Berichten über Veranstaltungen oder Beiträgen zu technischen und politischen Themen.",
         "dateformat": "02.01.2006"
       },
       "weight": 2,
