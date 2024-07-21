@@ -1,10 +1,11 @@
 ---
 title: "Reparatur meiner Mastodon Instanz"
 description: "Nachdem mein Mastodon seit Langem nicht mehr funktioniert, wurde es nun Zeit, dass ich mir die Sache mal ansehe"
-date: 2024-02-02T11:00:00+01:00
+summary: "Nicht zum ersten Mal habe ich meine Mastodon-Instanz bei einem Debian Update zerschossen und musste es mal wieder retten. Diesesmal allerdings mit mehr Erfolg als beim letzten mal. Meine Daten (_den Account und meine Toots_) konnte ich sogar retten."
+date: "2024-02-02T11:00:00+01:00"
 tags:
-  - Technik
-  - Mastodon
+  - "Technik"
+  - "Mastodon"
 draft: false
 ---
 
