@@ -15,7 +15,7 @@ for BASEFILE in ${BASE_ALL}; do
         echo " - ${FILENAME::-4} wird nicht mehr benutzt"
         continue
     fi
-    WIDTH=$(convert ${BASEFILE} -print "%w\n" /dev/null)
+    WIDTH=$(magick ${BASEFILE} -print "%w\n" /dev/null)
     SHORTEN_BASEFILE=${BASEFILE::-4}
     FILENAME_NORMAL=${SHORTEN_BASEFILE}.webp
     FILENAME_SMALL=${SHORTEN_BASEFILE}_small.webp
@@ -23,11 +23,11 @@ for BASEFILE in ${BASE_ALL}; do
     FILENAME_LARGE=${SHORTEN_BASEFILE}_large.webp
     echo " - Verarbeite \"${BASEFILE}\" (${WIDTH} px Breite)"
     if [ ! -f "${FILENAME_NORMAL}" ]; then
-        convert "${BASEFILE}" "${FILENAME_NORMAL}"
+        magick "${BASEFILE}" "${FILENAME_NORMAL}"
     fi
     if [ "${WIDTH}" -gt "${WIDTH_SMALL}" ]; then
         if [ ! -f "${FILENAME_SMALL}" ]; then
-            convert \
+            magick \
                 -geometry "${WIDTH_SMALL}x" \
                 "${BASEFILE}" \
                 "${FILENAME_SMALL}"
@@ -36,7 +36,7 @@ for BASEFILE in ${BASE_ALL}; do
     fi
     if [ "${WIDTH}" -gt "${WIDTH_MEDIUM}" ]; then
         if [ ! -f "${FILENAME_MEDIUM}" ]; then
-            convert \
+            magick \
                 -geometry "${WIDTH_MEDIUM}x" \
                 "${BASEFILE}" \
                 "${FILENAME_MEDIUM}"
@@ -45,7 +45,7 @@ for BASEFILE in ${BASE_ALL}; do
     fi
     if [ "${WIDTH}" -gt "${WIDTH_LARGE}" ]; then
         if [ ! -f "${FILENAME_LARGE}" ]; then
-            convert \
+            magick \
                 -geometry "${WIDTH_LARGE}x" \
                 "${BASEFILE}" \
                 "${FILENAME_LARGE}"
