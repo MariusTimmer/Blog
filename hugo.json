@@ -143,6 +143,7 @@
     "schema": true,
     "readmore": true,
     "authorbox": false,
+    "googleFontsLink": false,
     "toc": false,
     "sidebar": {
       "home": "right",
