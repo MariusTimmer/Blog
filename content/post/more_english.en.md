@@ -1,6 +1,6 @@
 ---
-title: "More English please"
-description: "I noticed that I provide in the English language but never post any content. I will change that in the future."
+title: "More English please!"
+description: "I noticed that my blog is provided in English but never post any content in that language. I will change that in the future - I think."
 summary: "I always wanted my blog to be bilangual which it is. But there are only a hand full of English posts. That needs to change which is why I will try to post more, or even exclusive only, in English."
 date: "2024-08-05T18:00:00"
 draft: false
@@ -21,6 +21,6 @@ Since I started this blog over ten years ago I wanted to support the English lan
 ## It is not just about different languages
 My trick to avoid that situation back in the day was just to put my texts into [DeepL](https://deepl.com/) and take the output into my blog. But that was anoying and didn't helped any further since everyone nowerdays owns a browser which offers to automatic translate whole websites. I started to translate some posts by hand and sometimes wrote whole new phrases. The best thing I guess was to add special information. That kind of information which I believe are obvious to a German but might not be known to everyone around the world.
 
-As an example we can take a look at the German post about my [analoge film Camera](/post/analoge_fotografie). It tells you how long Rossman and DM needed to develop my films. But the English Version even tells you what a Rossman or a DM is. Of course that will make it harder to provide English posts as well but it is important to me to be accessable for everyone on the planet. Or lets say the biggest part of it.
+As an example we can take a look at the German post about my [analoge film Camera](/post/analoge_fotografie). It tells you how long Rossman and DM needed to develop my films. But the English Version even tells you what a Rossman or a DM is. Of course that will make it harder to provide English posts as well but it is important to me to be accessible for everyone on the planet. Or lets say the biggest part of it.
 
 I doubt that there will be visitors who are not capable of German but English but at least I know that wont be a problem.
