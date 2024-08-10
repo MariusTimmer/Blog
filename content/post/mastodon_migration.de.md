@@ -1,6 +1,7 @@
 ---
 title: "Debian-Update zerschießt mein Mastodon"
 description: "Ich halte meine Systeme gerne auf dem neusten Stand. Nun war es an der Zeit, mein Debian von Bullseye auf Bookworm zu aktualisieren. Mastodon gefiel das nicht."
+summary: "Bei dem Versuch, meinen Mastodon-Server zu aktualisieren habe ich mir schon einmal das gesamte System zerschossen, so dass ich alles neu aufsetzen musste und meinen Account verloren hatte. Nun stand das nächste große Update an. Welche Probleme ich dabei hatte und wie ich sie umgangen bin, erkläre ich hier."
 date: "2024-07-14T16:00:00+02:00"
 draft: false
 keywords:
