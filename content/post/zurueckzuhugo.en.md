@@ -1,6 +1,8 @@
 ---
 title: "Back to Hugo"
 description: "After almost two years of using VitePress to build this blog I returned to Hugo. The important question is: Why?"
+summary: "For over a year I've tried to use VidePress to build this blog which mostly worked well. But now I am returning to Hugo. Why did I decide to leave the new technology and use the _old_ Hugo again?"
+summary: "Ein Jahr lang habe ich versucht, VitePress für meinen Blog zu benutzen, was mehr oder weniger auch gut geklappt hat. Allerdings hat es mich nun doch zu Hugo zurück gezogen. Aber wieso sollte ich einer neuen Technologie vie VueJS den Rücken kehren und zu (_in den Augen einiger_) Bloatware zurück wechseln?"
 date: "2024-05-05T18:00:00+01:00"
 tags:
   - "Hugo"
