@@ -1,6 +1,6 @@
 ---
-title: "Mein Internetradiosender Powerplay"
-description: "Ich spiele mit dem Medium Radio herum und habe meinen eigenen Radio-Sender gestartet"
+title: "Mein Internet-Radio-Sender Powerplay"
+description: "Ich spiele mit dem Medium Radio herum und habe meinen eigenen Radio-Sender gestartet, etwas, das ich schon als Kind machen wollte"
 summary: "Als Kind wollte ich immer einen eigenen Radiosender haben, wusste aber, dass das verboten ist. Darum faszinierten mich Filme wie Radiosender Powerplay oder Pogo 1104 schon immer. In Zeiten des Internets ist es aber noch einfacher geworden, seinen eigenen Sender aufzusetzen. Vielleicht gehts ja eines Tages noch ins richtige Radio."
 author: "Marius Timmer"
 keywords: ["Internet radio", "Piratensender", "Powerplay", "Thomas Gottschalk", "Mike Krüger", "GEMA", "Deep web", "Icecast2", "Mixxx"]
