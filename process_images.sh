@@ -28,8 +28,9 @@ for BASEFILE in ${BASE_ALL}; do
     if [ "${WIDTH}" -gt "${WIDTH_SMALL}" ]; then
         if [ ! -f "${FILENAME_SMALL}" ]; then
             magick \
-                -geometry "${WIDTH_SMALL}x" \
                 "${BASEFILE}" \
+                -geometry "${WIDTH_SMALL}x" \
+		-quality "50%" \
                 "${FILENAME_SMALL}"
             echo "    - Small Version erzeugt"
         fi
@@ -37,8 +38,9 @@ for BASEFILE in ${BASE_ALL}; do
     if [ "${WIDTH}" -gt "${WIDTH_MEDIUM}" ]; then
         if [ ! -f "${FILENAME_MEDIUM}" ]; then
             magick \
-                -geometry "${WIDTH_MEDIUM}x" \
                 "${BASEFILE}" \
+                -geometry "${WIDTH_MEDIUM}x" \
+		-quality "80%" \
                 "${FILENAME_MEDIUM}"
             echo "    - Medium Version erzeugt"
         fi
@@ -46,8 +48,9 @@ for BASEFILE in ${BASE_ALL}; do
     if [ "${WIDTH}" -gt "${WIDTH_LARGE}" ]; then
         if [ ! -f "${FILENAME_LARGE}" ]; then
             magick \
-                -geometry "${WIDTH_LARGE}x" \
                 "${BASEFILE}" \
+                -geometry "${WIDTH_LARGE}x" \
+		-quality "90%" \
                 "${FILENAME_LARGE}"
             echo "    - Large Version erzeugt"
         fi
