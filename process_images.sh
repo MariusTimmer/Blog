@@ -30,7 +30,7 @@ for BASEFILE in ${BASE_ALL}; do
             magick \
                 "${BASEFILE}" \
                 -geometry "${WIDTH_SMALL}x" \
-		-quality "50%" \
+                -quality "30%" \
                 "${FILENAME_SMALL}"
             echo "    - Small Version erzeugt"
         fi
@@ -40,7 +40,7 @@ for BASEFILE in ${BASE_ALL}; do
             magick \
                 "${BASEFILE}" \
                 -geometry "${WIDTH_MEDIUM}x" \
-		-quality "80%" \
+                -quality "40%" \
                 "${FILENAME_MEDIUM}"
             echo "    - Medium Version erzeugt"
         fi
@@ -50,7 +50,7 @@ for BASEFILE in ${BASE_ALL}; do
             magick \
                 "${BASEFILE}" \
                 -geometry "${WIDTH_LARGE}x" \
-		-quality "90%" \
+                -quality "60%" \
                 "${FILENAME_LARGE}"
             echo "    - Large Version erzeugt"
         fi
