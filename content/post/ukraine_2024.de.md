@@ -24,6 +24,7 @@ Wieso um alles in der Welt kommt man auf die Idee, in die Ukraine zu reisen? Sch
               /img/ukraine_wohnhaus_medium.webp 960w,
               /img/ukraine_wohnhaus_large.webp  1920w"
       src="/img/ukraine_wohnhaus.webp"
+      sizes="(min-width: 1220px) 678px, (min-width: 920px) calc(48.57vw + 95px), (min-width: 780px) calc(65.83vw - 27px), calc(100vw - 40px)"
       copyright="cc-by Marius Timmer"
       />
   <figcaption>
@@ -57,6 +58,7 @@ Auf der anderen Seite gibt es natürlich auch eine Menge gefallender Soldaten od
                 /img/ukraine_friedhof_medium.webp 960w,
                 /img/ukraine_friedhof_large.webp  1920w"
         src="/img/ukraine_friedhof.webp"
+        sizes="(min-width: 1220px) 678px, (min-width: 920px) calc(48.57vw + 95px), (min-width: 780px) calc(65.83vw - 27px), calc(100vw - 40px)"
         copyright="cc-by Marius Timmer"
         />
     <figcaption>
@@ -80,6 +82,7 @@ Die Straße, welche durch den Wald führte war (_wie alle Straßen in dem Land_)
                 /img/ukraine_bushaltestelle_marius_medium.webp 960w,
                 /img/ukraine_bushaltestelle_marius_large.webp  1920w"
         src="/img/ukraine_bushaltestelle_marius.webp"
+        sizes="(min-width: 1220px) 678px, (min-width: 920px) calc(48.57vw + 95px), (min-width: 780px) calc(65.83vw - 27px), calc(100vw - 40px)"
         copyright="cc-by Alexander M."
         />
     <figcaption>
@@ -101,6 +104,7 @@ Gegenüber der Bushaltestelle befand sich ein großer Fußweg, der noch tiefer i
                 /img/ukraine_marius_unter_baeumen_medium.webp 960w,
                 /img/ukraine_marius_unter_baeumen_large.webp  1920w"
         src="/img/ukraine_marius_unter_baeumen.webp"
+        sizes="(min-width: 1220px) 678px, (min-width: 920px) calc(48.57vw + 95px), (min-width: 780px) calc(65.83vw - 27px), calc(100vw - 40px)"
         copyright="cc-by Alexander M."
         />
     <figcaption>
