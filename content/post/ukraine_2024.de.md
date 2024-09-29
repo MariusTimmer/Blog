@@ -4,6 +4,7 @@ description: "Genau wie letztes Jahr, sind wie mal wieder für einige Tage in di
 summary: "Zu zweit sind wir für eine Woche in die Ukraine gereist und haben uns das Land angesehen. Kleine Dörfer im Westen sowie im Osten des Landes, aber auch größere Städte wie Charkiv an der Front oder die Hauptstadt Kyiv zum Unabhängigkeitstag."
 date: "2024-08-28T10:00:00"
 draft: false
+image: "/img/ukraine_wohnhaus.webp"
 keywords:
   - "Ukraine"
   - "Kyiv"
@@ -14,6 +15,26 @@ keywords:
 ---
 
 Wieso um alles in der Welt kommt man auf die Idee, in die Ukraine zu reisen? Schließlich befindet sie sich gerade im Krieg und wird von Russland angegriffen. Aktuell bekomme ich diese Frage häufiger gestellt. Die Antwort ist dabei aber fast so vielschichtig, wie der Krieg selbst: Verkürzend sage ich immer wieder gerne, dass wir (_mein Freund Alex und ich_) den Sohn eines befreundeten Flüchtlingspärchens in der Frontstadt Charkiv besuchen wollten. Gerne sage ich aber aber auch, dass wir die Ukraine regelmäßig besuchen, es faszinierend finden und den Leuten vor Ort auch zeigen wollen, dass wir (_die Menschen z.B. in der <abbr title="Europäische Union">EU</abbr>_) sie nicht vergessen oder gar aufgegeben haben. Um ehrlich zu sein, ist es aber eine Mischung aus allem und noch mehr. Eine Freundin warf mir einst vor, wir würden Kriegstourismus betreiben und uns an dem Leid der Menschen erfreuen, was ich entschieden zurück weisen möchte, wie es Politiker formulieren. Tatsächlich haben wir schon seit vielen Jahren ein großes Interesse an den Ländern im Osten Europas, weswegen wir eigentlich schon fast jedes Land dort einmal besucht oder zumindest kurz durchquert haben. Zum ersten mal fuhren wir 2016 in die Ukraine, als wir drei Wochen unterwegs waren und Freunde in Kyiv besuchten. Inzwischen leben diese Freunde in Wien, wo sie aber schon lange vor dem offiziellen Kriegsbeginn hingezogen sind. [Letztes Jahr](/post/ukraine_2023) fuhren wir für einige Tage das erste mal nach Ausbruch des Krieges nach Kyiv hin. In der kurzen Zeit prasselten viel zu viele Eindrücke auf uns hinein. Und wer mich kennt weiß, dass ich noch immer von den Erfahrungen dieser Reisen zehre, wenn ich von unseren _Abenteuern_ erzähle.
+
+<figure vocab="https://schema.org/" typeof="Photograph">
+  <img
+      alt="Foto eines mehrstöckigen Wohnhauses mit dreckiger Fassade und vielen kleinen Balkons"
+      srcset="/img/ukraine_wohnhaus_small.webp  480w,
+              /img/ukraine_wohnhaus_medium.webp 960w,
+              /img/ukraine_wohnhaus_large.webp  1920w"
+      src="/img/ukraine_wohnhaus.webp"
+      copyright="cc-by Marius Timmer"
+      />
+  <figcaption>
+      <small>
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
+          &nbsp;
+          <span property="copyrightHolder">Marius Timmer</span>
+      </small>
+      &minus;
+      <span property="abstract">Mehrstöckiges, für die Ukraine typisches, Wohnhaus</span>
+  </figcaption>
+</figure>
 
 Entgegen meiner Pläne, hatte ich es im letzten Jahr leider verpasst, vernünftig davon zu berichten und ein neues YouTube-Video oder Bilder zu veröffentlichen. Daher habe ich in diesem Jahr meine analoge Kamera mit genommen und einige Fotos geschossen und auch einige Videos gemacht, in der Hoffnung, wenigstens dieses Jahr ein zusammenfassendes Video zu machen. Die Besonderheit dieses mal war, dass wir den Unabhängigkeitstag der Ukraine in ihrer Hauptstadt verbrachten und uns auch wieder die ländlichen Regionen aber auch z.B. Charkiv ansahen.
 
@@ -92,23 +113,7 @@ Gegenüber der Bushaltestelle befand sich ein großer Fußweg, der noch tiefer i
     </figcaption>
   </figure>
 
+Sollte dieser Beitrag ein wenig chaotisch und zusammen gewürfelt wirken, mag das daran liegen, dass er über mehrere Tage entstanden ist. Es fällt mir schwer, alle Erlebnisse an einem Stück in ein Strukturiertes Etwas zu gießen. Darum habe ich auch nach der Reise im vergangenen Jahr nach Kyiv nicht viel geschrieben, obschon ich genug Material für eine ganze Reihe an Videos gehabt hätte. Vielleicht (_hoffentlich_) kann ich mich noch dazu überwinden. Denn immer, wenn ich jemandem von diesen Reisen erzähle, merke ich, dass es eine Menge Redebedarf und ein riesiges Interesse an der Ukraine und der aktuellen Situation dort gibt, da man ansonsten ja alles immer nur "_aus den Medien_" hört und dies mal eine ganz andere Art des Einblicks ist.
 
-  <figure vocab="https://schema.org/" typeof="Photograph">
-    <img
-        alt="Foto eines mehrstöckigen Wohnhauses mit dreckiger Fassade und vielen kleinen Balkons"
-        srcset="/img/ukraine_wohnhaus_small.webp  480w,
-                /img/ukraine_wohnhaus_medium.webp 960w,
-                /img/ukraine_wohnhaus_large.webp  1920w"
-        src="/img/ukraine_wohnhaus.webp"
-        copyright="cc-by Marius Timmer"
-        />
-    <figcaption>
-        <small>
-            <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
-            &nbsp;
-            <span property="copyrightHolder">Marius Timmer</span>
-        </small>
-        &minus;
-        <span property="abstract">Mehrstöckiges, für die Ukraine typisches, Wohnhaus</span>
-    </figcaption>
-</figure>
+## Schlusswort
+Die Reisen haben uns nur noch mehr mit der Ukraine verbunden. Daher werden wir im nächsten Jahr auch wieder dort hin fahren. Die Unterschiede und Entwicklungen zwischen unseren Besuchen zu beobachten ist auch sehr spannend und wird in Zukunft spannend bleiben. Wenn jemand irgendwelche Fragen bezüglich der Ukraine hat, schreibt mich gerne an. Ich freue mich, weiter aufklären zu können und hätte direkt wieder etwas, über das ich hier schreiben könnte.
