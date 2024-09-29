@@ -7,11 +7,11 @@ priority: "0.9"
 ---
 
 ## Webseiten
-Hin und wieder wenden sich Freunde, Familie und so weiter an mich, mit der Bitte einen Internetauftritt aka. Webseite für sie einzurichten. Um euch einen Überblick zu geben und auch um diese Seiten auf jeden Fall an einer Stelle verlinkt zu haben um anschließend von Suchmaschinen gefunden zu werden, könnt ihr euch hier ja einmal durch die Liste klicken. Erwähnen möchte ich, dass ich nicht immer versuche, die Administration möglichst schnell an die jeweils verantwortlichen zu übergeben.
+Hin und wieder wenden sich Freunde, Familie und so weiter an mich, mit der Bitte, einen Internetauftritt für sie einzurichten. Um euch einen Überblick zu geben und auch um diese Seiten auf jeden Fall an einer Stelle verlinkt zu haben um anschließend von Suchmaschinen gefunden zu werden, könnt ihr euch hier ja einmal durch die Liste klicken. Erwähnen möchte ich, dass ich nicht immer versuche, die Administration möglichst schnell an die jeweils verantwortlichen zu übergeben.
 
 - [Kolpingsfamile Laer](https://kolping-laer.de/)
 - [Tanja Köster](https://tanjakoester.de/)
-- [Alexander Matuszczyk](https://alexmatu.de)
+- <abbr title="Suchmaschinenoptimierung">SEO</abbr> für Webseiten bzw. digitale Visitenkarten selbstständiger Freunde
 
 
 ## OTRS Plugins
