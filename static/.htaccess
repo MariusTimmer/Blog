@@ -30,7 +30,7 @@ RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 <IfModule mod_headers.c>
     # Cache media for one day
     <FilesMatch "\.(ico|jpg|jpeg|gif|png|pdf|mp3|mp4|webp)$">
-        Header set Cache-Control "public, max-age=86400"
+        Header set Cache-Control "public, max-age=604800"
     </FilesMatch>
 
     # Cache text for two hours
