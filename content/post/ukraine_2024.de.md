@@ -2,7 +2,8 @@
 title: "Eine weitere Reise in die Ukraine"
 description: "Genau wie letztes Jahr, sind wie mal wieder für einige Tage in die Ukraine gefahren. Dieses mal waren wir aber auch im Osten des Landes."
 summary: "Zu zweit sind wir für eine Woche in die Ukraine gereist und haben uns das Land angesehen. Kleine Dörfer im Westen sowie im Osten des Landes, aber auch größere Städte wie Charkiv an der Front oder die Hauptstadt Kyiv zum Unabhängigkeitstag."
-date: "2024-08-28T10:00:00"
+date: "2024-08-28T10:00:00+02:00"
+lastmod: "2024-10-02T19:38:00+02:00"
 draft: false
 images:
   - "/img/ukraine_wohnhaus.webp"
@@ -73,7 +74,30 @@ Auf der anderen Seite gibt es natürlich auch eine Menge gefallender Soldaten od
 </figure>
 
 ## Gedenkstätten
-Auch wenn die großen Richtungsschilder auf den Autobahnen entfernt wurden, um die Russischen Soldaten zu desorientieren, fanden sich hin und wieder kleine Hinweisschilder. Häufig eine Information über das nächste Restaurant oder eine Tankstelle auf dem Weg oder Ähnliches. Wir sahen aber auch Schilder, die Gedenkstätten an die unterschiedlichsten Ereignesse beworben, sogar teilübersetzt auf Englisch. Während wir durch einen riesigen Wald fuhren, fanden wir ein solches Schild und fuhren in die Grobe Richtung. Es war die Rede von Widerstandskämpfern zur Zeit des Endes vom zweiten Weltkrieg und der Zeit danach.
+Auch wenn die großen Richtungsschilder auf den Autobahnen entfernt wurden, um die Russischen Soldaten zu desorientieren, fanden sich hin und wieder kleine Hinweisschilder. Häufig eine Information über das nächste Restaurant oder eine Tankstelle auf dem Weg oder Ähnliches. Um sich also über große Entfernungen durch das Land zu navigieren brauchten wir eine Karte. Aus dem Grund hatte ich mir vor der Reise eine App mit Offline-Kartenmaterial heruntergeladen. Von der Reise im Letzten jahr wusste ich ja noch, dass mich jedes Megabyte Roaming-Daten einen Euro kosten würde. Auch wenn Navis eigentlich nur navigieren, wäre da ein nettes Sümmchen zusammen gekommen, wenn ich die Reise über online geblieben wäre.
+
+<figure vocab="https://schema.org/" typeof="Photograph">
+    <img
+        alt="Foto eines mit Sprühfarben unkenntlich gemachten Straßenschildes"
+        srcset="/img/ukraine_strassenschild_small.webp  480w,
+                /img/ukraine_strassenschild_medium.webp 960w,
+                /img/ukraine_strassenschild_large.webp  1920w"
+        src="/img/ukraine_strassenschild.webp"
+        sizes="(min-width: 1220px) 678px, (min-width: 920px) calc(48.57vw + 95px), (min-width: 780px) calc(65.83vw - 27px), calc(100vw - 40px)"
+        copyright="cc-by Alexander M."
+        />
+    <figcaption>
+        <small>
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
+            &nbsp;
+            <span property="copyrightHolder">Alexander M.</span>
+        </small>
+        &minus;
+        <span property="abstract">Die wenigen Straßenschilder, die noch stehen, wurden dafür mit Sprühfarben unleserlich gemacht</span>
+    </figcaption>
+</figure>
+
+Wir sahen aber auch Schilder am Straßenrand, die Gedenkstätten an die unterschiedlichsten Ereignesse beworben, sogar teilübersetzt auf Englisch. Während wir durch einen riesigen Wald fuhren, fanden wir ein solches Schild und fuhren in die Grobe Richtung. Es war die Rede von Widerstandskämpfern zur Zeit des Endes vom zweiten Weltkrieg und der Zeit danach.
 Die Straße, welche durch den Wald führte war (_wie alle Straßen in dem Land_) extrem breit. Vermutlich könnte man problemlos eine vierspurige Autobahn auf der selben Fläche realisieren. Mitten im Wald sahen wir eine größere Bushaltestelle, wie sie typisch für das Land ist: Recht groß und offen und mit Mosaiken verziert. Die Bushaltestelle hatte die beste Zeit ihres Lebens wohl schon hinter sich, aber dennoch fand ich sie echt schick.
 <figure vocab="https://schema.org/" typeof="Photograph">
     <img
