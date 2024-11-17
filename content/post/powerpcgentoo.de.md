@@ -4,6 +4,7 @@ description: "Wie ich einen Apple Mac Mini von 2005 mit PowerPC Architektur mit 
 date: "2022-03-10T09:00:00+01:00"
 keywords: ["Linux", "PowerPC", "PPC", "Mac Mini G4", "Kernel"]
 tags: ["Technik", "Linux"]
+image: "/img/mac.webp"
 draft: false
 ---
 
