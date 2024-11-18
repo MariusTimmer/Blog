@@ -12,7 +12,8 @@ date: "2024-06-05T19:00:00+02:00"
 mastmod: "2024-08-08T08:00:00+02:00"
 draft: false
 summary: "I've started a new adventure and switched from digital to analog photography on film. Now I can buy loads of new film again and have it developed. Just like in the old days."
-image: "/img/nikon.png"
+images:
+ - "/img/nikon.png"
 ---
 
 ## The camera model

@@ -1,6 +1,7 @@
 ---
 title: Gegendemo zum Neujahrsempfang der AfD
 description: Die AfD Münster hat zum Neujahrsempfang Björn Höcke eingeladen. Natürlich schreit das förmlich nach einer Demonstration. Dieses Mal entschied ich mich spontan auch dazu, teilzunehmen.
+summary: "Beim Neujahrsempfang der AfD in Münster mit Björn Höcke als Gast demonstrierten über 5.000 Menschen gegen Rechtsextremismus - ich war einer davon. Ich schreibe über den groben Ablauf vor Ort sowie über die fragwürdigen \"Berichterstatter\"."
 date: 2023-01-21T15:00:00+01:00
 tags:
   - Politik

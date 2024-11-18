@@ -1,6 +1,7 @@
 ---
 title: "Kongress zur Cybersicherheit der IHK und Polizei"
 description: "Um mir ein Bild davon machen zu können, wie Unternehmen in unserer Region mit IT-Kriminalität umgehen, bin ich zum Kongress zur Cybersicherheit der IHK Nord-Westfalen und der Polizei NRW gegangen."
+summary: "Der Kongress zur Cybersicherheit, veranstaltet von der IHK Nord-Westfalen und der Polizei NRW, bot Einblicke in den Umgang von Unternehmen mit IT-Kriminalität. Redner wie Innenminister Herbert Reul beleuchteten aktuelle Herausforderungen durch Cybercrime und präsentierten Zahlen zu Angriffen und Schäden."
 keywords: ["Cybersicherheit", "IHK Nord-Westfalen", "Polizei NRW", "Herbert Reul", "Randomware"]
 date: "2023-03-03"
 draft: false

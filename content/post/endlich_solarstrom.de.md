@@ -1,6 +1,7 @@
 ---
 title: "Der Frühling bringt endlich wieder Solarstrom"
 description: "Der Winter ist endlich vorbei und die Sonne lässt sich wieder blicken. Für mich bedeutet das, dass es auch wieder genug Strom durch meine Solarmodule gibt."
+summary: "Mit einer kleinen Photovoltaik-Anlage und einem neuen LiFePo4-Akku wird der Frühling zur perfekten Jahreszeit, um nachhaltig Strom für mobile Geräte zu erzeugen. Der Artikel beleuchtet die Herausforderungen und Vorteile einer autarken Energieversorgung auf kleinem Raum."
 date: "2024-05-01T12:00:00+02:00"
 draft: false
 author: Marius Timmer

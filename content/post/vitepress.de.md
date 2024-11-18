@@ -1,6 +1,7 @@
 ---
 title: "Umstieg von Hugo auf VitePress"
 description: "Nach langer Zeit probiere ich einen Wechsel der Blog-Software hin zu VitePress."
+summary: "Der Wechsel von Hugo zu VitePress ist ein persönliches Experiment, um neue Technologien wie VueJS und Vite zu erlernen. Der Beitrag beleuchtet die Unterschiede zwischen den Systemen, die Anpassungen für den Blog und die Vorteile wiederverwendbarer Komponenten."
 date: "2023-01-11T12:00:00+01:00"
 lastmod: "2024-05-05T17:00:00+02:00"
 draft: false

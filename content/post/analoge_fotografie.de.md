@@ -12,7 +12,8 @@ date: "2024-06-05T19:00:00+02:00"
 mastmod: "2024-07-21T14:00:00+02:00"
 draft: false
 summary: "Ich habe mich auf ein neues Abenteuer eingelassen und bin von digitaler zu analoger Fotografie auf Film gewechselt. Nun kann ich mir wieder haufenweise neue Filme kaufen und sie entwickeln lassen. Wie in den alten Zeiten."
-image: "/img/nikon.png"
+images:
+ - "/img/nikon.png"
 ---
 
 ## Das Model
