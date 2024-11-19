@@ -138,6 +138,7 @@
     "avatar": "/img/timmer.jpg"
   },
   "params": {
+    "show_credits": false,
     "copyright": "Marius Timmer",
     "opengraph": true,
     "schema": true,
