@@ -45,28 +45,6 @@
             "name": "About Me",
             "weight": 5
           }
-        ],
-        "icon": [
-          {
-            "url": "mailto:admin@mariustimmer.de",
-            "name": "envelope-o",
-            "weight": 1
-          },
-          {
-            "url": "https://github.com/mariustimmer/",
-            "name": "github",
-            "weight": 2
-          },
-          {
-            "url": "https://twitch.tv/topster",
-            "name": "twitch",
-            "weight": 3
-          },
-          {
-            "url": "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA",
-            "name": "youtube",
-            "weight": 4
-          }
         ]
       }
     },
@@ -105,28 +83,6 @@
             "url": "/aboutme/",
             "name": "Über Mich",
             "weight": 5
-          }
-        ],
-        "icon": [
-          {
-            "url": "mailto:admin@mariustimmer.de",
-            "name": "envelope-o",
-            "weight": 1
-          },
-          {
-            "url": "https://github.com/mariustimmer/",
-            "name": "github",
-            "weight": 2
-          },
-          {
-            "url": "https://twitch.tv/topster",
-            "name": "twitch",
-            "weight": 3
-          },
-          {
-            "url": "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA",
-            "name": "youtube",
-            "weight": 4
           }
         ]
       }
@@ -170,7 +126,24 @@
       "social": {
         "github": "mariustimmer",
         "email": "admin@mariustimmer.de",
-        "instagram": "timmer94"
+        "instagram": "timmer94",
+        "custom": [
+          {
+            "title": "RSS",
+            "url": "/index.xml",
+            "icon": "svg/rss.svg"
+          },
+            {
+              "title": "YouTube",
+              "url": "https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA",
+              "icon": "svg/youtube.svg"
+            },
+          {
+            "title": "Twitch",
+            "url": "https://www.twitch.tv/topster",
+            "icon": "svg/twitch.svg"
+          }
+        ]
       }
     }
   },
