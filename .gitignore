@@ -11,3 +11,4 @@ docs/utilities/tagHelper.js
 .hugo_build.lock
 .obsidian
 public
+logs
