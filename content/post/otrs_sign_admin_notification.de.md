@@ -1,5 +1,5 @@
 ---
-title: "Nicht signierte Admin-Benachrichtigungen"
+title: "OTRS signiert Admin-Benachrichtigungen nicht"
 description: "OTRS signiert Admin-Benachrichtigungen an die Agenten nicht. Das sorgt für Irritation und einen guten Grund gibt es auch nicht."
 summary: "Obschon OTRS durchaus in der Lage ist, E-Mails zu signieren, und ver-/entschlüsseln, werden ausgehende Admin-Benachrichtigungen an die Agenten nicht signiert. Das irritiert einige meiner Agenten und verwundert mich selber."
 draft: false
