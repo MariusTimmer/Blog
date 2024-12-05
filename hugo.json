@@ -3,7 +3,7 @@
   "theme": "mainroad",
   "DefaultContentLanguage": "de",
   "rssLimit": 10,
-  "enableRobotsTXT": false,
+  "enableRobotsTXT": true,
   "sitemap": {
     "changefreq": "daily",
     "priority": "0.1"
