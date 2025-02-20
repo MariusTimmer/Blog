@@ -1,7 +1,9 @@
 ---
 title: "Gentoo auf einem Mac Mini (G4 PowerPC) installieren"
 description: "Wie ich einen Apple Mac Mini von 2005 mit PowerPC Architektur mit einem aktuellen Linux wieder belebe"
+summary: "Ein Arbeitskollege hat mir mal einen alten Mac Mini von 2005 geschenkt. Er ist einer der letzten Computer mit einem 32 bit PowerPC Prozessor, für die es leider keine wirkliche Auswahl an aktuellen Betriebssystemen mehr gibt. Also kompiliere ich ein eigenes Gentoo-System."
 date: "2022-03-10T09:00:00+01:00"
+lastmod: "2025-02-07T16:00:00+01:00"
 keywords: ["Linux", "PowerPC", "PPC", "Mac Mini G4", "Kernel"]
 tags: ["Technik", "Linux"]
 images:
@@ -33,6 +35,7 @@ Im Nachhinein kann ich nun sagen, dass das der Richtige Weg war, denn es läuft 
 
 | Link                                             | Linux-Version | Hinweise |
 |--------------------------------------------------|---------------|----------|
+| [0.4](/attachments/config-6.6.62-ppc.txt)        | 6.6.62        | <ul><li>Auf vorherige Version aufbauend</li><li>Kommt mit mehr Modulen als nötig</li></ul> |
 | [0.3](/attachments/config-5.15.23-ppc-3.txt)     | 5.15.23       | <ul><li>WIFI-Fehler `kernel reports: key addition failed` behoben</li><li>Framebuffer nutzt nun 100x40 statt 80x25 Zeichen, füllt somit den Bildschirm komplett aus</li><li>Einige nicht benötigte Treiber wurden entfernt</li></ul> |
 | [~~0.2~~](/attachments/config-5.15.23-ppc-2.txt) | 5.15.23       | <ul><li>Wird von OpenFirmware mittels Grub gebootet.</li><li>WIFI funktioniert prinzipiell, aber bei PSK-Netzwerken meldet der Kernel noch "`key addition failed`"</li><li>Der Framebuffer nutzt nicht den gesamten Bildschirm (_nur den oberen linken Bereich_)</li></ul> |
 
