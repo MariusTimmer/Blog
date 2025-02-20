@@ -2,7 +2,7 @@
 title: "Mein OTRS Repository"
 description: "Um meine OTRS-Plugins besser verteilen zu können, habe ich ein neues Paket Repository angelegt und die jeweils stabilen Versionen dort publiziert"
 summary: "Um die von mir bisher entwickelten OTRS-Pakete besser zu bündeln, habe ich ein Paket-Repository angelegt, welches in der OTRS-Konfiguration hinerlegt werden kann, so dass alle meiner Pakete vorgeschlagen und mit möglichst wenig Aufwand aktualisiert werden können."
-draft: false
+draft: true
 date: "2024-12-20T16:00:00+01:00"
 tags:
  - "otrs"
