@@ -1,6 +1,7 @@
 ---
 title: "Meine Mastodon-Instanz"
 description: "Mastodon ist quelloffen und zudem dezentral aufgebaut. Daher habe ich mir meine eigene Instanz eingerichtet. Twitter zerlegt sich gerade sowieso selber."
+summary: "Die vielen Nachrichten um Twitter haben mich aufhorchen lassen. Ich habe mir eine eigene Mastodon-Instanz eingerichtet und meine ersten Schritte in dieser neuen Welt gemacht. Auf Twitter bin ich auch nicht mehr."
 lastmod: "2022-10-18T09:00:00+02:00"
 date: "2022-10-17T20:30:00+02:00"
 tags: ["Technik"]

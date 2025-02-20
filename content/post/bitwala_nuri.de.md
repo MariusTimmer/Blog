@@ -1,10 +1,12 @@
 ---
 title: "Mein neues Krypto-Bitcoin-Konto bei Bitwala"
 date: "2021-05-20T10:00:00+02:00"
+lastMod: "2025-02-20T07:00:00+01:00"
 draft: false
 author: "Marius Timmer"
 keywords: ["Bitcoin", "Ethereum", "Kryptowährungen", "BitWala", "Nuri", "Girokonto", "Minen", "Handel", "Trading"]
 description: "Meine bisherigen Erfahrungen mit meinem BitWala-Konto"
+summary: "Da mich Bitcoins schon seit Jahren immer wieder reizen, habe ich mir einen Account bei einem Neobroker geholt um nun endlich Bitcoins handeln zu können."
 images:
   - "https://mariustimmer.de/img/nuri.webp"
 ---
@@ -58,4 +60,8 @@ SELBER AUSPROBIEREN
 -------------------
 Wenn ihr es auch mal ausprobieren und euch ein Konto anlegen wollt, könnt ihr das <a href="https://app.nuri.com/r/D9MM-UK9B" target="_blank" title="Konto anlegen">hier</a> machen. Da es sich um ein echtes Bank-Konto handelt, müsst ihr dann aber sogar [Video-Ident](https://de.wikipedia.org/wiki/Videoident) machen - lasst euch dadurch aber nicht abschrecken. Wenn ihr meinen Link benutzt, bekomme ich sogar noch 30 Euro dadurch. Das können wir dann auch gerne unter uns beiden aufteilen. :P
 
-<a href="https://app.nuri.com/r/D9MM-UK9B" target="_blank">Nuri ausprobieren</a>
+---
+
+Nachtrag
+--------
+All meiner Euphorie zum Trotze ist die Bitwala-Bank inzwischen schon einige Zeit nicht mehr existend. Vor zwei Jahren mussten die Tore geschlossen werden. Seit dem bin ich ganz klassisch auf <abbr title="Trade Republic">Handels Republik</abbr> unterwegs um mein Geld zu verbrennen.

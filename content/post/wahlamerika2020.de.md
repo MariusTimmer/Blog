@@ -4,7 +4,8 @@ date: "2020-11-04T10:00:00+02:00"
 draft: false
 author: "Marius Timmer"
 keywords: ["Amerika", "USA", "Wahl", "Trump", "Biden", "Demokraten", "Republikaner", "Merkel", "Macron", "Trudeau", "Deutschland", "Europa", "EU", "Frankreich", "Kanada", "Russland", "Nordkorea", "China", "G7"]
-description: "Was passiert "
+description: "Die Vereinigten Staaten von Amerika wählen ihren nächsten Präsidenten und es gibt fast kein anderes Thema mehr."
+summary: "Die Nachrichten werden mal wieder von der Präsidentschaftswahl in Amerika dominiert. Aber was ist nun anders als vor vier Jahren?"
 ---
 
 Neben Corona gibt es in den Nachrichten zur Zeit fast kein anderes Thema mehr als die Wahl des Präsidenten (_und des Senates_) der <abbr title="Vereinigte Staaten von Amerika">USA</abbr>. Alleine [die Tagesschau](https://de.wikipedia.org/wiki/Tagesschau_(ARD)) hat heute Morgen zum Beispiel zwölf Artikel auf ihrer [Startseite](https://www.tagesschau.de/) zu dem Thema. Und das, obwohl (_aktueller Stand_) noch gar kein Sieger fest steht, auch wenn Trump sich schon vor Stunden selber [zum Sieger erklärt](https://www.spiegel.de/politik/ausland/donald-trump-offen-gesagt-wie-haben-diese-wahl-gewonnen-a-453d6204-e878-4bd2-a491-153f16ff6fe3) hat und damit drohte, die weitere Stimmauszählung gerichtlich stoppen zu lassen.

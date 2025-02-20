@@ -1,6 +1,7 @@
 ---
 title: "Das neue OTRS 6.5 LTS-Release ist da"
 description: "Nach einiger Zeit des Wartens ist die neue LTS-Version 6.5 von OTRS von Znuny veröffentlicht worden."
+summary: "Ich freue mich, dass nach einer Zeit des Wartens endlich die neue LTS Version 6.5 von (Znuny) OTRS veröffentlicht wurde. Gerade nach dem abrupten Ende des Supports der Community Edition durch die OTRS AG ist das ein gutes Zeichen."
 draft: false
 date: "2023-09-27T12:00:00+01:00"
 keywords: ["OTRS", "Znuny", "LTS-Release"]

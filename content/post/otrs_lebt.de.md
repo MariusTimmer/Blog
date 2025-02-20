@@ -6,6 +6,7 @@ author: "Marius Timmer"
 keywords: ["OTRS", "Community Edition", "OTRS AG", "OTTER Allianz", "Znuny", "maxence", "becon", "Efflux", "it-novum", "perl service", "sector nord ag", "Hochschulen"]
 tags: ["Technik", "OTRS"]
 description: "Die OTRS Community Edition lebt weiter und wird nun von der OTTER Allianz weiter geführt"
+summary: "Vor einigen Monaten hat die OTRS AG angekündigt, dass die Community Edition von OTRS nicht mehr weiter geführt wird. Das war für alle Nutzer ein Tritt in den Hintern. Doch nun hat sich eine Allianz von Firmen gefunden, die eine offene Community Edition weiter betreiben wollen."
 ---
 
 Vor einigen Monaten schrieb ich, dass die [OTRS AG den Support für die Community Edition nicht mehr weiter führt](/post/otrs_ce). Um genau zu sein: Die OTRS AG wollte die CE-Versionen immer mit zwei Jahren Verzug veröffentlichen. Laut diesem Vorhaben, hätte im Dezember die erste 7er Version kommen müssen. Stattdessen gab es ein sehr kurzfristiges Statement, dass das Ende verkündet. Mehr Details findet ihr im entsprechenden Blog-Eintrag.

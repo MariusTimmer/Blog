@@ -1,6 +1,7 @@
 ---
 title: "Sprengstoff am Longinusturm"
 description: "Wer verübte am 18. Januar 1979 einen Sprengstoffanschlag auf den Longinusturm?"
+summary: "In unserer Region ist der Longinus-Turm sehr bekannt. Er steht an der höchsten Stelle in den Baumbergen und ist ein Touristenmagnet. Gerade im Frühjahr und Sommer, wenn die Sonne raus kommt. Die meisten wissen aber nichts von dem Sprengstoff-Anschlag, der dort vor mehr als vierzig Jahren verübt wurde."
 icon: "hand-comments"
 date: "2022-08-15T12:30:00+01:00"
 tags: ["Regional"]

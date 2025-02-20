@@ -5,7 +5,8 @@ draft: false
 author: "Marius Timmer"
 keywords: ["Wordpress", "Hack", "Angriff", "Fakeshop", "Hetzner", "PHP"]
 tags: ["Technik"]
-description: "as"
+description: "Die WordPress-Seite meiner Mutter wurde gehackt und ich mache mich auf die Spurensuche"
+summary: "Da meine Mutter selbstständig ist, hat sie natürlich auch eine eigene Webseite, die im Mittelpunkt ihrer Arbeit steht. Nun hat sich aber irgendwer, oder irgendetwas darauf eingenistet und geht nicht mehr so einfach weg."
 ---
 
 Hin und wieder helfe ich einigen Leuten in meinem Umfeld beim Aufsetzen

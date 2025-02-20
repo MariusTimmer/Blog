@@ -2,6 +2,7 @@
 title: "Die Vierte Welle"
 date: "2021-11-15T12:00:00+01:00"
 description: "Was dieses mal anders ist"
+summary: "Die vierte Infektionswelle mit Corona nährt sich. Leider ist noch immer keine Routine rein gekommen und dieses mal ist auch noch einiges anders wie bisher."
 icon: "hand-comments"
 tags: ["Politik"]
 keywords: ["Corona", "COVID-19", "Politik", "Maskenpflicht", "Schule", "Kinder"]

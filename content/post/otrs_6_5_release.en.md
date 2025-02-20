@@ -1,6 +1,7 @@
 ---
 title: "The new OTRS 6.5 LTS-Release arrived"
 description: "After some time of waiting, the new LTS version 6.5 of OTRS by Znuny has been released."
+summary: "I am happy to see the release of the LTS version 6.5 of (Znuny) OTRS. Especially after the support end of the community edition of the OTRS AG."
 draft: false
 date: "2023-09-27T12:00:00+01:00"
 mastmod: "2024-08-08T08:00:00+02:00"

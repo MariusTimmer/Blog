@@ -1,6 +1,7 @@
 ---
 title: "Reparatur meines Scheibenwischers"
 description: "Dass der Schlauch für das Wasser des Scheibenwischers nicht mehr dicht ist, merkt man natürlich erst in der kalten Jahreszeit"
+summary: "Ich liebe meinen alten Audi 80. Man kann da echt noch einiges selber reparieren, ohne in die Werkstatt zu gehen. Jetzt musste ich den Schlauch meines Scheibenwischers reparieren."
 date: "2021-12-12T16:00:00+01:00"
 keywords: ["Auto", "Audi 80", "Winter", "Scheibenwischer", "Wischwasser", "Schlauch", "Frostschutz"]
 tags: ["Auto"]
