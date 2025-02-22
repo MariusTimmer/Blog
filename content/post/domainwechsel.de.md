@@ -1,13 +1,13 @@
 ---
-title: "Der Umzug meiner Domaine"
-description: "Ich habe meinen Hosting-Anbieter gewechselt und bin daher auch mit meiner Domaine umgezogen"
+title: "Der Umzug meiner Domain"
+description: "Ich habe meinen Hosting-Anbieter gewechselt und bin daher auch mit meiner Domain umgezogen"
 summary: "Nach vielen Jahren habe ich meinen Domain-Provider gewechselt und mich getraut, den Schritt zu wagen. Auch wenn es nach außen keine wirklichen Auswirkungen haben wird, gab es doch einiges zu ändern."
 date: "2024-12-08T21:35:24+01:00"
 lastMod: "2025-02-19T19:42:23+01:00"
 draft: false
 keywords:
  - "Hosting"
- - "Domaine"
+ - "Domain"
  - "Blog"
  - "DNS"
  - "Hetzner"
