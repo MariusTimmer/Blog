@@ -55,18 +55,7 @@ possibilities and used techniques that I also applied at work and should general
 learn. However, I have now returned to Hugo.
 
 ## Contact
-If you want to contact me, the best way to do so is by email. I'm likely to respond
-there quicker and more reliably than through my phone. Simply because I often set
-my phone aside for long periods and then don't feel like responding to everything
-right away. Interestingly, not being constantly available via mobile doesn't go
-over well with others.
-
-Although I am able to open HTML emails, I would ask you to send them as plain text.
-Or just use both formats, which is the standard in most email programs anyway.
-I highly recommend using GnuPG signatures for email communications. You find my
-mail address at the bottom of this page
-(_Fingerprint: [`8180 A515 BAA9 285C 91FC ECBC 0CD8 0EC9 E66F 69BF`](/8180A515BAA9285C91FCECBC0CD80EC9E66F69BF.asc)_).
-
+ - [E-Mail](/gnupg)
  - [Mastodon](https://mastodon.mariustimmer.de/@timmer)
  - [YouTube](https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA)
  - [Instagram](https://instagram.com/@timmer94)

@@ -63,23 +63,8 @@ Techniken, die ich auch auf der Arbeit einsetze und generell lernen sollte.
 Inzwischen bin ich aber wieder [zu Hugo zurückgekehrt](/post/zurueckzuhugo/).
 
 ## Kontakt
-Wenn du Kontakt zu mir aufnehmen möchtest (_Und ich meine nicht diesen Kontakt,
-von dem ich in meinen Spam-Emails immer so viel lese_), kannst du das am Besten
-per E-Mail machen. Im Zweifel bin ich dort schneller und besser erreichbar als
-beispielsweise über mein Handy. Ganz einfach, weil ich mein Handy auch gerne
-lange Zeit bei Seite lege und anschließend keine Lust habe, direkt auf alles
-zu antworten. Interessanterweise kommt es bei Anderen gar nicht so gut an,
-nicht permanent per Handy erreichbar zu sein.
-
-Ich bin zwar in der Lage HTML-Mails zu öffnen, aber dennoch bitte ich dich beim
-Anschreiben darum, sie mir als `PlainText` zu schicken. Oder einfach beide
-Formate (_sowieso der Standard bei den meisten E-Mail Programmen_) zu nutzen.
-Ich empfehle übrigens sehr, bei E-Mail-Kontakt
-auf [GnuPG](https://gnupg.com/index.de.html) Signaturen zu setzen. Meine
-E-Mail-Adresse findet ihr im Fuß dieser Seite (
-_Fingerabdruck: [`8180 A515 BAA9 285C 91FC ECBC 0CD8 0EC9 E66F 69BF`](/8180A515BAA9285C91FCECBC0CD80EC9E66F69BF.asc)_).
-
-- [Mastodon](https://mastodon.mariustimmer.de/@timmer)
-- [YouTube](https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA)
-- [Instagram](https://instagram.com/@timmer94)
-- [gitHub](https://github.com/mariustimmer)
+ - [E-Mail](/gnupg)
+ - [Mastodon](https://mastodon.mariustimmer.de/@timmer)
+ - [YouTube](https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA)
+ - [Instagram](https://instagram.com/@timmer94)
+ - [gitHub](https://github.com/mariustimmer)
