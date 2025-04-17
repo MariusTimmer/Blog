@@ -1,12 +1,21 @@
 ---
-title: "GnuPG"
-draft: true
+title: "Sichere E-Mails dank GnuPG"
+description: "Um die Kommunikation per E-Mail so sicher wie möglich zu machen, nutze ich die GnuPG Implementierung von PGP."
+draft: false
 date: "2025-04-14T23:00:00+02:00"
+lastmod: "2025-04-16T20:24:45+02:00"
 layout: "single"
 ---
 
-Für viele Leute sind E-Mails altbacken. Ich würde aber immer lieber eine E-Mail schreiben, als eine Nachricht in irgendeinem Messenger. Außerdem habe ich so viel mehr Kontrolle darüber, wie ich meine Kommunikation schütze. Zum Signieren und Verschlüsseln nutze ich schon seit Jahren [GnuPG](https://de.wikipedia.org/wiki/GNU_Privacy_Guard).
+## Wieso ich E-Mails mag
+Sehr häufig wird erzählt, dass E-Mail tot sei und die Zukunft in moderneren Messengern läge. Und trotzdem ist die gute alte E-Mail nicht weg zu denken. Fast ein wenig wie das Fax-Gerät - nur eben in cool. Denn ich liebe es Mails zu schreiben. Nachrichten in irgendwelchen Messengern kann man sehr gut zwischen Tür und Angel tippen und senden, aber gerade das sehe ich als den großen Vorteil von klassischen E-Mails: Ich schreibe sie nicht "_mal eben_", sondern nehme mir Zeit dafür und mache mir viel mehr Gedanken dazu, was ich eigentlich schreiben will. Ob einem das gelingt, steht auf einem ganz anderen Blatt.
 
+Außerdem habe ich beim Verfassen meiner E-Mails mehr Kontrolle darüber, ob ich sie einfach so abschicke, mindestens signiere, oder sogar verschlüssel. Messenger sagen häufig, sie seien End-zu-End verschlüsselt, aber garantieren kann mir das keiner. Wenn ich <abbr title="GNU Privacy Guard">GnuPG</abbr> (_nach Möglichkeit korrekt_) nutze, bleibt dies für mich immer der sicherste Kommunikationskanal.
+
+Netter aber irrelevanter Sidefact: Die Implementierung GnuPG kommt sogar aus Deutschland. 🎉
+
+
+## Meine Schlüssel
 Weil auf Schlüsselservern ja gerne einige Irrläufer unterwegs sind, möchte ich den korrekten Schlüssel an dieser Stelle verbreiten. Wenn ihr mal eine E-Mail bekommt, die mit einem anderen Schlüssel signiert ist, kommt die Mail nicht von mir.
 
 <table>
