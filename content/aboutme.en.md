@@ -53,10 +53,3 @@ a software for generating static websites. This was a good solution for a long t
 In between, I also switched to VitePress. Thanks to Vue, it offered me even more
 possibilities and used techniques that I also applied at work and should generally
 learn. However, I have now returned to Hugo.
-
-## Contact
- - [E-Mail](/gnupg)
- - [Mastodon](https://mastodon.mariustimmer.de/@timmer)
- - [YouTube](https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA)
- - [Instagram](https://instagram.com/@timmer94)
- - [gitHub](https://github.com/mariustimmer)

@@ -61,10 +61,3 @@ Lösung. Zwischenzeitlich bin ich aber auch mal zu [VitePress](https://vitepress
 umgestiegen. Dank [Vue](https://vuejs.org/) gab es mir noch mehr Möglichkeiten und benutzte
 Techniken, die ich auch auf der Arbeit einsetze und generell lernen sollte.
 Inzwischen bin ich aber wieder [zu Hugo zurückgekehrt](/post/zurueckzuhugo/).
-
-## Kontakt
- - [E-Mail](/gnupg)
- - [Mastodon](https://mastodon.mariustimmer.de/@timmer)
- - [YouTube](https://www.youtube.com/channel/UCKllWK67NhLhk6QAwLelVyA)
- - [Instagram](https://instagram.com/@timmer94)
- - [gitHub](https://github.com/mariustimmer)

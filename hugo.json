@@ -44,6 +44,11 @@
             "url": "/en/aboutme/",
             "name": "About Me",
             "weight": 5
+          },
+          {
+            "url": "/en/contact/",
+            "name": "Contact",
+            "weight": 6
           }
         ]
       }
@@ -83,6 +88,11 @@
             "url": "/aboutme/",
             "name": "Über Mich",
             "weight": 5
+          },
+          {
+            "url": "/contact/",
+            "name": "Kontakt",
+            "weight": 6
           }
         ]
       }
