@@ -15,7 +15,11 @@
       "languageName": "English",
       "params": {
         "description": "Blog by Marius Timmer with reports on events and posts about technical and political topics.",
-        "dateformat": "2006-01-02"
+        "dateformat": "2006-01-02",
+        "author": {
+          "email": "admin@mariustimmer.de",
+          "name": "Marius Timmer"
+        }
       },
       "weight": 1,
       "menu": {
@@ -58,7 +62,11 @@
       "languageName": "Deutsch",
       "params": {
         "description": "Blog von Marius Timmer mit Berichten über Veranstaltungen oder Beiträgen zu technischen und politischen Themen.",
-        "dateformat": "02.01.2006"
+        "dateformat": "02.01.2006",
+        "author": {
+          "email": "admin@mariustimmer.de",
+          "name": "Marius Timmer"
+        }
       },
       "weight": 2,
       "menu": {
@@ -169,5 +177,10 @@
       "HTML",
       "RSS"
     ]
+  },
+  "services": {
+    "rss": {
+      "limit": -1
+    }
   }
 }
