@@ -44,4 +44,4 @@ Für meinen Teil kann ich versprechen, dass ich meinem Blog auch in den kommende
 
 
 ---
-Diesen Beitrag habe ich im Rahmen des Projektes [#BlogWochen2025](https://nureinblog.at/54063-im-mai-beginnen-die-blogwochen/) geschrieben, worübr ich [neulich schon schrieb](/post/blogwochen2025).
+Diesen Beitrag habe ich im Rahmen des Projektes [#BlogWochen2025](/tags/blogwochen2025) geschrieben, worübr ich [neulich schon schrieb](/post/blogwochen2025). Mehr Informationen dazu könnt ihr auch in [Roberts Blog](https://nureinblog.at/54063-im-mai-beginnen-die-blogwochen/) finden.
