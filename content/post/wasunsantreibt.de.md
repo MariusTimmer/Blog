@@ -15,6 +15,8 @@ Diesen Beitrag schreibe ich wieder im Rahmen der [BlogWochen2025](/tags/blogwoch
 
 Als ich mir das [letzte Mal](/post/warumbloggenwireigentlichnoch/) Gedanken dazu gemacht habe, wieso ich eigentlich noch immer blogge, habe ich auch schon einen Großteil meiner Motivation dargelegt. Aber sicherlich schadet es nicht, noch einmal darauf einzugehen.
 
+Eine ganz irrationale Freude habe ich daran, immer wieder neue Beiträge zu schreiben. Mein Output ist längst nicht so groß, wie es mir lieb wäre. Manchmal veröffentliche ich sogar einige Monate gar nichts. Aber dann kommen wieder die Phasen, wo ich versuche mehrmals die Woche etwas zu schreiben. Es gibt mir ein gutes Gefühl, wenn ich beim Blick auf meine Startseite keine Beiträge sehe, die Monate alt sind - ich habs ja gesagt: irrational.
+
 Obwohl ich auf diversen Plattformen unterwegs bin (_eigentlich überall außer TikTok_) ist mein Blog schon immer die beständigste Konstante gewesen. Abgesehen von einer meiner E-Mail Adressen, die ich im Jahr 2004 angelegt habe, habe ich ansonsten nirgends einen Account gehabt, den ich länger gepflegt habe wie meinen Blog. Ein wichtiger Grund dafür ist, dass ich frei über meine Gedanken schreiben kann, ohne dass irgendwer mir in den Kommentaren sagt, dass ich doch blöd bin. Die Hürde, dafür extra eine E-Mail aufzusetzen, ist wohl für die meisten einfach zu hoch.
 
 ## Bewusster "_Konsum_" von Inhalten
