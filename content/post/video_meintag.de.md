@@ -3,6 +3,8 @@ title: "Neues Video: Mein Tag"
 date: "2018-04-28T22:24:59+02:00"
 draft: false
 tags: ["YouTube"]
+author:
+ - "marius"
 ---
 
 Nachdem ich neulich ein kurzes Video über unseren Trip nach Polen geschnitten habe und versuchte das Beste daraus zu machen, hatte ich Lust, noch mehr Videos zu machen. Darum habe ich damit begonnen aktiv mit meiner GoPro herum zu laufen und Videos daraus zu machen, sobald ich meine, dass es sich lohnt.

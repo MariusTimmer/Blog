@@ -11,6 +11,8 @@ keywords:
  - "OTRS"
  - "Paketverwaltung"
  - "Paket Repository"
+author:
+ - "marius"
 ---
 
 ## Vorgeschichte

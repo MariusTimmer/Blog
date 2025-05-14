@@ -2,10 +2,11 @@
 title: "Radioaktiver Fund"
 date: "2020-11-20T12:00:00+02:00"
 draft: false
-author: "Marius Timmer"
 keywords: ["Radioaktivität", "Strahlung", "Laer", "Feuerwehr", "Horstmar"]
 description: "Eine Tüte mit radioaktivem Inhalt"
 summary: "In der Nähe unseres Dorfes wurde eine Tüte mit radioaktivem Inhalt gefunden. Irgendwie irritierte mich diese Schlagzeile nachhaltig."
+author:
+ - "marius"
 ---
 
 Gestern erzählte mit mein jüngerer Bruder, dass sein Schulbus auf dem Weg aus Schöppingen nach Laer (_eigentlich über die [L579](https://goo.gl/maps/87HfxYtpaVHpKot7A)_) einen Umweg fahren musste. Die eigentliche Straße sei gesperrt gewesen. Bis dahin vermutlich nichts ungewöhnliches. Aber er erzählte mir auch, dass sehr viele Einsatzwagen der Polizei und Feuerwehr dort zu sehen gewesen waren. Das war wohl merkwürdig, weil gar keine verunglückten Autos zu sehen waren. Im Radio und Internet war leider nocht nichts dazu bekannt.

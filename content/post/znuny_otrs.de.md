@@ -14,6 +14,8 @@ keywords:
  - "OTRS AG"
 images:
  - "/img/znuny_otrs_favicon.webp"
+author:
+ - "marius"
 ---
 
 ## Vorgeschichte

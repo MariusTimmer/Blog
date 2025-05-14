@@ -1,10 +1,11 @@
 ---
 title: "Life in a day (2020)"
 description: "Ein weltweites Video-Projekt von YouTube mit Ridley Scott"
-author: "Marius Timmer"
 keywords: ["YouTube", "Topster", "Life in a day", "Ridley Scott", "Wettbewerb"]
 date: "2020-07-22T16:00:00+02:00"
 draft: false
+author:
+ - "marius"
 ---
 
 Heute morgen stieß ich beim alltäglichen Googlen im Homeoffice auf einen Hinweis der [Startseite von Google](https://google.de/):

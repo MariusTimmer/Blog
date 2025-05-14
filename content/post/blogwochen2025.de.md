@@ -6,6 +6,8 @@ date: "2025-05-05T18:15:21+02:00"
 draft: false
 tags:
  - "BlogWochen2025"
+author:
+ - "marius"
 ---
 
 ## Wie ich bisher gebloggt habe

@@ -15,11 +15,7 @@
       "languageName": "English",
       "params": {
         "description": "Blog by Marius Timmer with reports on events and posts about technical and political topics.",
-        "dateformat": "2006-01-02",
-        "author": {
-          "email": "admin@mariustimmer.de",
-          "name": "Marius Timmer"
-        }
+        "dateformat": "2006-01-02"
       },
       "weight": 1,
       "menu": {
@@ -62,11 +58,7 @@
       "languageName": "Deutsch",
       "params": {
         "description": "Blog von Marius Timmer mit Berichten über Veranstaltungen oder Beiträgen zu technischen und politischen Themen.",
-        "dateformat": "02.01.2006",
-        "author": {
-          "email": "admin@mariustimmer.de",
-          "name": "Marius Timmer"
-        }
+        "dateformat": "02.01.2006"
       },
       "weight": 2,
       "menu": {
@@ -106,18 +98,13 @@
       }
     }
   },
-  "author": {
-    "name": "Marius Timmer",
-    "bio": "Über zehn Jahren in der Softwareentwicklung und genereller Vollzeit-Nerd. Beschäftigt sich mit Fotografie, Video-Produktion und gesellschaftlichen Themen.",
-    "avatar": "/img/timmer.jpg"
-  },
   "params": {
     "show_credits": false,
     "copyright": "Marius Timmer",
     "opengraph": true,
     "schema": true,
     "readmore": true,
-    "authorbox": false,
+    "authorbox": true,
     "googleFontsLink": false,
     "toc": false,
     "sidebar": {
@@ -182,5 +169,10 @@
     "rss": {
       "limit": -1
     }
+  },
+  "taxonomies": {
+    "author": "authors",
+    "category": "categories",
+    "tag": "tags"
   }
 }

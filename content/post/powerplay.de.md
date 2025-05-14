@@ -2,11 +2,12 @@
 title: "Mein Internet-Radio-Sender Powerplay"
 description: "Ich spiele mit dem Medium Radio herum und habe meinen eigenen Radio-Sender gestartet, etwas, das ich schon als Kind machen wollte"
 summary: "Als Kind wollte ich immer einen eigenen Radiosender haben, wusste aber, dass das verboten ist. Darum faszinierten mich Filme wie Radiosender Powerplay oder Pogo 1104 schon immer. In Zeiten des Internets ist es aber noch einfacher geworden, seinen eigenen Sender aufzusetzen. Vielleicht gehts ja eines Tages noch ins richtige Radio."
-author: "Marius Timmer"
 keywords: ["Internet radio", "Piratensender", "Powerplay", "Thomas Gottschalk", "Mike Krüger", "GEMA", "Deep web", "Icecast2", "Mixxx"]
 date: "2020-04-30T17:00:00+02:00"
 lastmod: "2024-09-04T20:00:00+02:00"
 draft: false
+author:
+ - "marius"
 ---
 
 Als Kind habe ich bei meinem Vater immer viele Filme gesehen. Einer davon ist mir besonders in Erinnerung geblieben: [Piratensender Powerplay](https://de.wikipedia.org/wiki/Piratensender_Powerplay) ([_Trailer_](https://www.youtube.com/watch?v=_sbr2iduTyQ)). Es mag vielleicht daran liegen, dass ich sowieso eine Schwäche für schlimme Filme (_z.B. ["Tremors"](https://de.wikipedia.org/wiki/Tremors_%E2%80%93_Im_Land_der_Raketenw%C3%BCrmer)_) habe, aber die mit [Thomas Gottschalk](https://de.wikipedia.org/wiki/Thomas_Gottschalk) und [Mike Krüger](https://de.wikipedia.org/wiki/Mike_Kr%C3%BCger) gedrehten Filme haben mir schon immer Spaß gemacht. Darum war ich auch schon immer von dem Piratensender Powerplay fasziniert. Da das Funken ohne Lizenz ja verboten ist, haben die beiden in dem Film ihre Sendeanlage einfach in einen VW Bulli gebracht und fahren durch die Stadt, um vor den Postautos in Sicherheit senden zu können.

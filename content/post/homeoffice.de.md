@@ -1,10 +1,11 @@
 ---
 title: "Homeoffice"
 description: "Eine komplett neue Sache für mich"
-author: "Marius Timmer"
 keywords: ["Corona", "Home Office", "Telearbeit", "Arbeiten", "Büro", "Erfahrungen"]
 date: "2020-03-23T12:00:00+01:00"
 draft: false
+author:
+ - "marius"
 ---
 
 In der vergangenen Woche wurde eine E-Mail vom Rektor der Universität an alle Mitarbeiter geschickt, in der darum gebeten wird, (_wenn möglich_) auf Homeoffice umzusteigen. Inzwischen sind auch alle Einrichtungen der Universität für nicht-Mitarbeiter geschlossen und große Warnschilder wurden ausgehangen. So kam es, dass ich also (_wie auch viele andere_) das erste mal in meinem Leben Home office mache.

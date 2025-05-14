@@ -6,6 +6,8 @@ date: "2021-12-12T16:00:00+01:00"
 keywords: ["Auto", "Audi 80", "Winter", "Scheibenwischer", "Wischwasser", "Schlauch", "Frostschutz"]
 tags: ["Auto"]
 draft: false
+author:
+ - "marius"
 ---
 
 Der Winter hält mich auf Trab

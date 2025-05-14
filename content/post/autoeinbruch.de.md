@@ -2,11 +2,12 @@
 title: "Jemand ist in mein Auto eingebrochen"
 date: "2021-06-14T10:00:00+02:00"
 draft: false
-author: "Marius Timmer"
 keywords: ["Einbruch", "Diebstahl", "Auto", "Audi 80"]
 tags: ["Auto"]
 description: "Jemand ist in mein Auto eingebrochen und hat mich bestohlen. Sogar das 10 Euro Radio von Ebay wurde ausgebaut."
 summary: "Das erste mal in meinem Leben ist jemand in mein Auto eingebrochen, während es Zuhause stand. Die Einbrecher haben wirklich alles mit genommen, was nicht niet und nagelfest ist."
+author:
+ - "marius"
 ---
 
 Die Story

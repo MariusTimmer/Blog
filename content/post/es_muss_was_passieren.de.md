@@ -12,6 +12,8 @@ keywords:
  - "FDP"
  - "SPD"
  - "Union"
+author:
+ - "marius"
 ---
 
 ## Landtagswahlen in Thüringen, Sachsen und Brandenburg

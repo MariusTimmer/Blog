@@ -6,6 +6,8 @@ tags: ["Reisen", "Abenteuer"]
 draft: false
 keywords: ["Urlaub", "Silvester", "Reisen", "Polen", "Tschechien", "Breslau"]
 video: "tCumZrHPHq0"
+author:
+ - "marius"
 ---
 
 # Frohes Neues

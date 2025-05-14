@@ -2,11 +2,12 @@
 title: "Wordpress Hack total"
 date: "2021-11-01T18:00:00+02:00"
 draft: false
-author: "Marius Timmer"
 keywords: ["Wordpress", "Hack", "Skript", "Angriff", "Fakeshop", "Hetzner", "PHP"]
 tags: ["Technik"]
 description: "Mal wieder wurde die WordPress-Instanz meiner Mutter angegriffen"
 summary: "Erneut wurde die WordPress-Instanz meiner Mutter angegriffen. Dieses mal gehe ich der Sache weiter auf den Grund und versuche herauszufinden, wie das passiert ist, was es macht und vor allem, wo es her kommt."
+author:
+ - "marius"
 ---
 
 Wie Ihr ja sicher schon gelesen habt, ist meine Mutter selbstständig und hat

@@ -6,6 +6,8 @@ date: 2023-01-21T15:00:00+01:00
 tags:
   - Politik
 draft: false
+author:
+ - "marius"
 ---
 
 Anlass der Demo

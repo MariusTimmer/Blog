@@ -7,6 +7,8 @@ keywords: ["Auto", "Audi 80", "Winter", "Türschloss", "ABS", "Bremsen"]
 tags: ["Auto"]
 images: ["https://mariustimmer.de/img/audi80.webp"]
 draft: false
+author:
+ - "marius"
 ---
 
 Der Winter kommt

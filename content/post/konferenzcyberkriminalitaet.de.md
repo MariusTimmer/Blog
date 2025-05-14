@@ -5,6 +5,8 @@ summary: "Der Kongress zur Cybersicherheit, veranstaltet von der IHK Nord-Westfa
 keywords: ["Cybersicherheit", "IHK Nord-Westfalen", "Polizei NRW", "Herbert Reul", "Randomware"]
 date: "2023-03-03"
 draft: false
+author:
+ - "marius"
 ---
 
 ## Wieso ich dort war

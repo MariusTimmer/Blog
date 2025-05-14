@@ -2,11 +2,12 @@
 title: "Wo ist aktuell Ausgangssperre?"
 date: "2021-05-17T10:00:00+02:00"
 draft: false
-author: "Marius Timmer"
 keywords: ["Corona", "Ausgangssperre", "Ausgangsbeschränkungen", "Robert Koch-Institut", "Landkreise"]
 tags: ["Technik"]
 description: "Mein kleines Projekt zu aktuellen Ausgangssperren in den Landkreisen"
 summary: "In einem kleinen Projekt habe ich eine Übersicht aller Landkreise der Bundesrepublik bereit gestellt, die regelmäßig die Daten vom RKI auswertet, um anzuzeigen, wo überall AUsgangssperre herrscht und wo nicht."
+author:
+ - "marius"
 ---
 
 Durch das neue Infektionsschutzgesetz des Bundes sind nun doch die nächtlichen Ausgangssperren auf Kreisebene gekommen. Da es zu meinen Hobbys gehört, am späten Abend oder auch in der Nacht eine Runde mit dem Auto zu drehen, ist es für mich also sehr interessant zu wissen, ob aktuell eine AUsgangssperre besteht oder nicht. Gerade auch weil ich in einer Gegend wohne, in der drei Landkreise mit völlig unterschiedlichen 7 Tages-Inzidenz-Werten aufeinander treffen. Münster hat am Wochenende beispielsweise schon wieder seine Außengastronomie öffnen können. Kreis Coesfeld ist eines der Modell-Regionen für die Öffnungen nach der Pandemie. In Kreis Steinfurt hingegen ist die Infektionszahl generell höher - einen wirklichen Grund dafür kenne ich nicht.

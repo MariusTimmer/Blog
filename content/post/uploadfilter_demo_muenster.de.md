@@ -6,6 +6,8 @@ date: "2019-03-21T13:26:00+01:00"
 tags: ["Uploadfilter", "Politik"]
 draft: false
 keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Münster", "SaveYourInternet", "CopyrightDirective"]
+author:
+ - "marius"
 ---
 
 # Der große Showdown

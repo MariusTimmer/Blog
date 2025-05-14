@@ -6,6 +6,8 @@ summary: Die achtziger Jahre müssen eine spannende Zeit gewesen sein. Klar, der
 tags: ["Kino"]
 keywords: ["Ghostbusters", "Legacy", "Film", "Kino", "Review", "Geister"]
 draft: false
+author:
+ - "marius"
 ---
 
 Das Original

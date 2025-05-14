@@ -6,6 +6,8 @@ tags: ["Technik"]
 draft: false
 keywords: ["Freifunk", "YouTube", "Mesh-Netzwerk"]
 video: "Yacy8TDXmH4"
+author:
+ - "marius"
 ---
 
 # Freifunk

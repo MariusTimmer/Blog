@@ -7,6 +7,8 @@ tags: ["Technik", "Politik", "Uploadfilter"]
 draft: false
 keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Terror"]
 video: "DrpBkcX55oo"
+author:
+ - "marius"
 ---
 
 ## Stand der Dinge

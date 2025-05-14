@@ -8,6 +8,8 @@ keywords:
  - "SPD"
 draft: false
 date: "2024-10-06T20:15:07+02:00"
+author:
+ - "marius"
 ---
 
 ## Meine Vorgeschichte

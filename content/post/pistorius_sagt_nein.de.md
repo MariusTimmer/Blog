@@ -15,6 +15,8 @@ tags:
  - "SPD"
 images:
  - "/img/pistorius_scholz.webp"
+author:
+ - "marius"
 ---
 
 Auf der Webseite der Tagesschau sah ich gerade die Eilmeldung, dass Boris Pistorius sich nicht als Kanzlerkandidaten der SPD aufstellen wird. Wenige Minuten später sah ich in meinem Instagram-Feed ein Video von unserem Verteidigungsminister, in dem er erklärt, wieso er nicht für eine Kanzlerkandidatur bereit steht. Mein erster Gedanke war: "_Das hat er doch schon vor vier Tagen gesagt_" gefolgt von: "_Damit ist die müßige Diskussion nun hoffentlich vorbei_".

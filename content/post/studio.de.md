@@ -6,6 +6,8 @@ tags: ["YouTube"]
 draft: false
 keywords: ["Studio", "Video", "YouTube", "Keller"]
 Video: "oFTRDPY87cM"
+author:
+ - "marius"
 ---
 
 Als ich vor einigen Monaten damit angefangen hatte, einige Videos aufzunehmen, sie zu schneiden und anschließend auf YouTube hoch zu laden, hatte ich zuerst nur eine kleine GoPro, die so klein ist, dass sie nicht mal einen eigenen Display besitzt. Allerdings sind im Laufe der Zeit einige Dinge dazu gekommen. Inzwischen ist es so viel, dass ich es nicht mehr in meinem Zimmer unter kriegen kann, ohne irgendwo gegen zu stoßen. Da wir sowieso gerade einen Container vor der Tür stehen haben, hatte ich beschlossen, einen Kellerraum auszuräumen. Dadurch wurde unten ein Platz frei, den ich inzwischen auch schon wieder _sinnvoll_ vergeben konnte. Denn nachdem ich unten ausgeräumt und ausgefegt hatte, konnte ich direkt meinen gar nicht ganz so kleinen Green screen, die zwei neuen Soft boxen und das Stativ dort unter bringen.

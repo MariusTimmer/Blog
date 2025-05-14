@@ -6,6 +6,8 @@ date: "2019-07-12T23:37:33+02:00"
 tags: ["Technik"]
 draft: false
 keywords: ["Technik", "UNIX", "UNIXSystems", "Linux", "Instagram", "Influencer", "Tagebuch", "Experiment"]
+author:
+ - "marius"
 ---
 
 Intention

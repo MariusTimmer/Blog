@@ -10,6 +10,8 @@ tags:
   - "Markdown"
   - "Technology"
 draft: false
+author:
+ - "marius"
 ---
 
 ## Current Situation

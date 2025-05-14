@@ -2,8 +2,9 @@
 draft: false
 title: "Der Bot bekommt einen Namen"
 date: "2017-12-13T19:46:02+01:00"
-author: "Marius Timmer"
 tags: ["Telegram", "Entwicklung", "Technik"]
+author:
+ - "marius"
 ---
 
 <figure class="left col3">

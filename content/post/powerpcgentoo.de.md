@@ -9,6 +9,8 @@ tags: ["Technik", "Linux"]
 images:
  - "/img/mac.webp"
 draft: false
+author:
+ - "marius"
 ---
 
 Wieso ein Computer von 2005?

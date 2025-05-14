@@ -9,6 +9,8 @@ images:
   - "/img/mastodon_maskottchen.webp"
 draft: false
 keywords: ["Technik", "Mastodon", "Twitter", "Elon Musk"]
+author:
+ - "marius"
 ---
 
 Es ist schon einige Wochen her, seitdem Elon Musk Twitter gekauft und damit

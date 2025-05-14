@@ -7,6 +7,8 @@ tags: ["Uploadfilter", "Politik"]
 draft: false
 keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Julia Reda", "Manfred Weber"]
 video: "6q9_QR8JUJo"
+author:
+ - "marius"
 ---
 
 # Demonstration in Berlin

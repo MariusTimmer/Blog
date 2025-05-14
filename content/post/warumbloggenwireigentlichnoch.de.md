@@ -9,6 +9,8 @@ tags:
 keywords:
  - "Blog"
  - "Community"
+author:
+ - "marius"
 ---
 
 Die Frage, wieso **ich** eigentlich noch blogge stelle ich mir selbst tatsächlich häufiger. Schließlich monatarisiere ich meinen Blog nicht und habe durch die Abwesenheit einer Kommentarfunktion auch nicht so einen Austausch, wie es anderswo üblich ist. Und dennoch setze ich mich seit fast fünfzehn Jahren immer wieder an den Laptop und schreibe drauf los. Häufig auch ohne zu wissen, ob es überhaupt jemanden gibt, der meine Texte liest. Am Ende ist das für mich aber gar nicht so wichtig - oder ich rede es mir zumindest ein.

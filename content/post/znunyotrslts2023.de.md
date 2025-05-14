@@ -6,9 +6,10 @@ draft: false
 date: "2023-01-06T17:45:00+01:00"
 keywords: ["OTRS", "Znuny", "LTS", "Ticketsystem", "Update"]
 tags: ["OTRS", "Technik"]
-author: "Marius Timmer"
 images:
   - "https://mariustimmer.de/img/znuny_otrs_favicon.webp"
+author:
+ - "marius"
 ---
 
 Wieso wir Znunys OTRS nutzen

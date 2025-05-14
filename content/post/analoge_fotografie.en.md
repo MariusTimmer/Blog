@@ -14,6 +14,8 @@ draft: false
 summary: "I've started a new adventure and switched from digital to analog photography on film. Now I can buy loads of new film again and have it developed. Just like in the old days."
 images:
  - "/img/nikon.png"
+author:
+ - "marius"
 ---
 
 ## The camera model

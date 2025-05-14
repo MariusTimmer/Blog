@@ -3,6 +3,8 @@ title: "Die Polenreise kommt näher"
 date: "2018-03-28T23:57:42+02:00"
 draft: false
 tags: ["Abenteuer"]
+author:
+ - "marius"
 ---
 
 # Die Polenreise kommt näher

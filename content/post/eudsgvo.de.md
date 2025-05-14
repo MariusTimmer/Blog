@@ -4,6 +4,8 @@ description: "Alle haben Angst vor der EU DSGVO"
 date: "2018-03-13T19:30:00+01:00"
 tags: ["DSGVO", "Entwicklung"]
 draft: false
+author:
+ - "marius"
 ---
 
 # Panik vor der europäischen Datenschutz Grundverordnung (_EU DSGVO_)

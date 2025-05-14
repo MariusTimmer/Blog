@@ -3,6 +3,8 @@ title: "Interpals"
 description: "Bekanntschaften im Ausland"
 date: "2018-04-16T20:53:26+02:00"
 draft: false
+author:
+ - "marius"
 ---
 
 # Meine Erfahrungen mit Interpals

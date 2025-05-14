@@ -6,6 +6,8 @@ date: "2019-04-02T19:26:00+01:00"
 tags: ["Uploadfilter", "Politik", "EU"]
 draft: false
 keywords: ["Politik", "Uploadfilter", "Artikel 13", "EU", "SaveYourInternet", "CopyrightDirective", "Leistungsschutzrecht", "FAZ", "Nord Stream 2"]
+author:
+ - "marius"
 ---
 
 # Leistungsschutzrecht angenommen

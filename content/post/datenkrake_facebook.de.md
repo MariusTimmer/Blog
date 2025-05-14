@@ -6,6 +6,8 @@ date: "2019-02-02T12:00:00+01:00"
 tags: ["Technik"]
 draft: false
 keywords: ["Facebook", "WhatsApp", "Instagram", "Werbung"]
+author:
+ - "marius"
 ---
 
 ## Werbung in WhatsApp

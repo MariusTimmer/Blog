@@ -7,6 +7,8 @@ tags: ["Politik"]
 draft: false
 keywords: ["Politik", "EU", "Von der Leyen", "KommissionschefIn"]
 video: "3z25xDBorSI"
+author:
+ - "marius"
 ---
 
 Irgendetwas scheint in der EU doch falsch zu laufen. Wer mir hier schon etwas länger folgt, sollte wissen, dass ich nicht viel von [Manfred Weber](https://de.wikipedia.org/wiki/Manfred_Weber_(Politiker)) halte (siehe [hier](/post/uploadfilter_demo_koeln)). Daher war ich gar nicht sehr böse, als es neulich hieß, dass das Parlament ihn nicht für das Amt des Kommissionschefs vorschlagen wird. Dass dann aber auch [Frans Timmermanns](https://de.wikipedia.org/wiki/Frans_Timmermans) abgelehnt wurde, war ich schon sehr überrascht. Ich dachte mir zuerst, es ist ja mal ganz erfrischend, dass nicht nur die Vorschläge der großen Fraktionen durchgewunken werden sondern nun vielleicht auch mal jemand aus den kleinen Fraktionen kommen könnte.

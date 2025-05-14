@@ -6,6 +6,8 @@ date: "2019-07-12T09:26:00+01:00"
 tags: ["Technik", "Linux"]
 keywords: ["Linux", "Ubuntu", "Debian", "Migration", "APT", "Mirror" ,"Keys", "GPG", "Komfort", "Freiheit", "ThinkPad", "Mac Mini", "PowerPC", "Netzwerkinstallation", "XFCE", "KDE", "SafeNet", "eToken", "SAC", "Thunderbird"]
 draft: false
+author:
+ - "marius"
 ---
 
 TL;DR

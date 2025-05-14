@@ -9,6 +9,8 @@ keywords:
  - "RSS"
  - "Algorithm"
  - "Feeds"
+author:
+ - "marius"
 ---
 
 ## I've Watched a Video

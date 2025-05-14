@@ -5,6 +5,8 @@ tags: ["Auto"]
 draft: false
 keywords: ["Auto", "YouTube", "KIA", "Passat"]
 video: "0qAiSsmOeZc"
+author:
+ - "marius"
 ---
 
 # Mein neues Auto der KIA

@@ -7,6 +7,8 @@ date: "2023-09-27T12:00:00+01:00"
 mastmod: "2024-08-08T08:00:00+02:00"
 keywords: ["OTRS", "Znuny", "LTS-Release"]
 tags: ["Technology", "OTRS"]
+author:
+ - "marius"
 ---
 
 As I mentioned in [previous posts](/post/znunyotrslts2023) (_only available in German_), the current LTS version of OTRS (_6.0_) was officially deprecated at the turn of the year, and it's successor (_6.5_) was announced. The previous version was still officially supported until the release of 6.5.

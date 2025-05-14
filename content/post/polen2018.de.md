@@ -6,6 +6,8 @@ tags: ["Reisen", "Abenteuer"]
 draft: false
 keywords: ["Urlaub", "Silvester", "Reisen", "Polen", "Tschechien", "Breslau"]
 video: "6w69hDWTkPM"
+author:
+ - "marius"
 ---
 
 # Polenreise im Frühjahr 2018

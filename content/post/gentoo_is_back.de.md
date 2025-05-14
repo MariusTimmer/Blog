@@ -12,6 +12,8 @@ keywords:
  - "distcc"
 custom_css:
  - "/css/images.css"
+author:
+ - "marius"
 ---
 
 ## Das Besondere an Gentoo

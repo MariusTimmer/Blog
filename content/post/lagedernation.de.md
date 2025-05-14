@@ -1,10 +1,11 @@
 ---
 title: "Lage der Nation"
 description: "Wo steht unsere Nation?"
-author: "Marius Timmer"
 keywords: ["Deutschland", "Nationalsozialismus", "National", "AfD", "PEGIDA", "Wiedervereinigung"]
 date: "2020-10-01T18:00:00+02:00"
 draft: false
+author:
+ - "marius"
 ---
 
 Vorwort

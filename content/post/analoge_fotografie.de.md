@@ -14,6 +14,8 @@ draft: false
 summary: "Ich habe mich auf ein neues Abenteuer eingelassen und bin von digitaler zu analoger Fotografie auf Film gewechselt. Nun kann ich mir wieder haufenweise neue Filme kaufen und sie entwickeln lassen. Wie in den alten Zeiten."
 images:
  - "/img/nikon.png"
+author:
+ - "marius"
 ---
 
 ## Das Model

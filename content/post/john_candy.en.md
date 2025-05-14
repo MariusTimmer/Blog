@@ -8,6 +8,8 @@ tags:
   - "Movies"
   - "Actors"
 date: "2024-09-20T19:14:53+02:00"
+author:
+ - "marius"
 ---
 
 This might be a bit random for you but I love <a href="https://en.wikipedia.org/wiki/John_Candy" title="Wikipedia article about Candy" rel="external">John Candy</a>. He has passed away before I was born. But when my dad raised me we have spend a lot of time watching comedy or family friendly action movies from the 80s. Sometimes we watched three or even four movies a day when my sister and I visited my dad during the weekend. This did something to us and I guess the taste of music and even more movies I like today is based on this time together.

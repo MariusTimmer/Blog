@@ -12,6 +12,8 @@ keywords:
   - NodeJS
   - Ruby
   - PostgreSQL
+author:
+ - "marius"
 ---
 
 ## Eine Debian Aktualisierung ging schon mal schief

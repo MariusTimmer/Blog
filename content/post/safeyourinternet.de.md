@@ -7,6 +7,8 @@ date: "2019-02-28T18:00:00+01:00"
 tags: ["Technik", "Politik", "Uploadfilter"]
 draft: false
 keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Leistungsschutzrecht"]
+author:
+ - "marius"
 ---
 
 Demonstrationen

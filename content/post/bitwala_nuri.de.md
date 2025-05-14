@@ -3,12 +3,13 @@ title: "Mein neues Krypto-Bitcoin-Konto bei Bitwala"
 date: "2021-05-20T10:00:00+02:00"
 lastMod: "2025-02-20T07:00:00+01:00"
 draft: false
-author: "Marius Timmer"
 keywords: ["Bitcoin", "Ethereum", "Kryptowährungen", "BitWala", "Nuri", "Girokonto", "Minen", "Handel", "Trading"]
 description: "Meine bisherigen Erfahrungen mit meinem BitWala-Konto"
 summary: "Da mich Bitcoins schon seit Jahren immer wieder reizen, habe ich mir einen Account bei einem Neobroker geholt um nun endlich Bitcoins handeln zu können."
 images:
   - "https://mariustimmer.de/img/nuri.webp"
+author:
+ - "marius"
 ---
 
 TL;DR

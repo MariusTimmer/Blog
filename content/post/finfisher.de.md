@@ -6,6 +6,8 @@ date: "2019-10-08T11:00:00+02:00"
 tags: ["Technik", "Überwachung"]
 draft: false
 keywords: ["Technik", "Überwachung", "Netzpolitik", "FinFisher", "Staatstrojaner"]
+author:
+ - "marius"
 ---
 
 Was ist ein FinFisher?

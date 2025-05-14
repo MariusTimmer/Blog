@@ -12,6 +12,8 @@ keywords:
  - "Spam Blocklisten"
 images:
  - "/img/postfix_logo.webp"
+author:
+ - "marius"
 ---
 
 Als ich 2004, in der fünften Klasse, bei der Schülerzeitung anfing, brauchte jeder von uns eine eigene E-Mail Adresse. Damals war das Internet noch ganz anders und die meisten Anbieter für E-Mail Postfächer wollten Geld sehen. Zusammen mit unserem Lehrer holten wir uns eine "_FreeMail_" bei web.de und machten unsere ersten Schritte im Internet. Auch wenn ich das Passwort natürlich mehrmals geändert habe (_und teilweise auch musste_), benutze ich nach wie vor, auch nach 21 Jahren, immer noch diese E-Mail Adresse.

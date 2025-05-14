@@ -3,6 +3,8 @@ title: "Rally"
 date: "2018-03-22T19:47:10+01:00"
 tags: ["Abenteuer"]
 draft: false
+author:
+ - "marius"
 ---
 
 # Mongol Rally

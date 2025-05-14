@@ -10,6 +10,8 @@ keywords:
  - "Datenschutz"
 images:
  - "/img/sad_firefox.webp"
+author:
+ - "marius"
 ---
 
 ## Das Problem mit Chrome

@@ -6,6 +6,8 @@ date: "2019-02-20T19:25:26+01:00"
 tags: ["Technik"]
 draft: false
 keywords: ["Technik", "Google", "Analytics", "Besucher", "USA", "Amerika", "Niederlande", "Deutschland"]
+author:
+ - "marius"
 ---
 
 ## Analyse der Besucherdaten

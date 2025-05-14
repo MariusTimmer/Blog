@@ -14,6 +14,8 @@ tags:
   - "Technik"
 images:
   - "/img/heinz-nixdorf-museum.webp"
+author:
+ - "marius"
 ---
 
 ## Eine spontane Idee

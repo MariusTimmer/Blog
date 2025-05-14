@@ -7,6 +7,8 @@ lastmod: "2024-05-05T17:00:00+02:00"
 draft: false
 keywords: ["Hugo", "VitePress", "Blog", "statische Seite"]
 tags: ["Hugo", "Technik", "VitePress"]
+author:
+ - "marius"
 ---
 
 Hugo war gut

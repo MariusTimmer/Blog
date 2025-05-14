@@ -7,6 +7,8 @@ tags: ["Uploadfilter", "Politik"]
 draft: false
 keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Julia Reda", "Manfred Weber", "Köln", "SaveYourInternet", "CopyrightDirective"]
 video: "42hIZZS9PLo"
+author:
+ - "marius"
 ---
 
 # Die Ursache

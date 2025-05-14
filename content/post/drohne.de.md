@@ -2,12 +2,13 @@
 title: "Meine neue DJI Mini 2 Drohne"
 date: "2021-01-07T20:00:00+02:00"
 draft: false
-author: "Marius Timmer"
 keywords: ["Drohne", "DJI Mini 2", "Fliegen", "Videos", "Weihnachten", "Luftfahrt-Bundesamt", "Haftpflicht"]
 tags: ["Technik"]
 description: "Meine erste Mini 2 Drohne von DJI erfordert eine Menge Bürokratie mit Versicherung und LBA. Eine Menge Flugstunden muss man dann auch noch sammeln."
 summary: "Zu Weihnachten habe ich meine erste Drohne geschenkt bekommen. Nun übe ich mich als Drohnenpilot und versuche mich an den ersten Flügen und Clips."
 video: "ZMimjM1-ocE"
+author:
+ - "marius"
 ---
 
 <Image :imagedata="drone_image" />

@@ -6,6 +6,8 @@ date: "2019-04-15T18:38:00+01:00"
 tags: ["Umzug"]
 draft: false
 keywords: ["Umzug", "Coesfeld", "Laer"]
+author:
+ - "marius"
 ---
 
 # Es geht zurück nach Laer

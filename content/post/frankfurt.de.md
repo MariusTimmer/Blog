@@ -6,6 +6,8 @@ date: "2019-07-09T13:08:00+01:00"
 tags: []
 keywords: ["Reise", "Frankfurt am Main", "KIA", "Autolos"]
 draft: false
+author:
+ - "marius"
 ---
 
 ## Wieso und was?

@@ -13,6 +13,8 @@ keywords:
  - "Funkgerät"
  - "Antenne"
  - "Münsterland-Runde"
+author:
+ - "marius"
 ---
 
 ## Ein neues Hobby

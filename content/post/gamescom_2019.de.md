@@ -9,6 +9,8 @@ keywords: ["Reisen", "Gamescom", "Köln", "Twitch", "YouTube", "SaftigesGnu", "D
 images:
   - "https://mariustimmer.de/img/saftigesgnu_small.webp"
 video: "Mok0Gyoz-5k"
+author:
+ - "marius"
 ---
 
 Wer mich kennt, weiß eigentlich, dass ich nicht der große Zocker bin. Die Sonic-Reihe auf dem Sega Mega Drive gehört für mich noch immer zu meinen Lieblingsspielen. Wenn es zeitlich etwas in die Gegenwart geht, landet man tatsächlich bei Minecraft, was auch ein wenig lustig ist - Also nicht das Spiel, sondern die Tatsache, dass ich es spiele. Trotzdem war ich in diesem Jahr das erste mal auf der [Gamescom](https://de.wikipedia.org/wiki/Gamescom), was eigentlich schon viel früher hätte passieren müssen. Aber sein wir mal ehrlich: Alleine dort hin zu gehen ist irgendwie nicht so toll und meine Freunde haben einfach kein Interesse daran. Da mein Bruder aber ach Spaß daran hat, sind wir zusammen dort hin gefahren.

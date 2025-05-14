@@ -13,6 +13,8 @@ tags:
   - "Markdown"
   - "Technology"
   - "VitePress"
+author:
+ - "marius"
 ---
 
 ## Hugo was good

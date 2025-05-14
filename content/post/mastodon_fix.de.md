@@ -7,6 +7,8 @@ tags:
   - "Technik"
   - "Mastodon"
 draft: false
+author:
+ - "marius"
 ---
 
 Updates sind mir wichtig

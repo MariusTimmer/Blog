@@ -6,6 +6,8 @@ date: "2019-01-28T23:00:00+01:00"
 tags: ["Technik", "OTRS"]
 draft: false
 keywords: ["OTRS", "Bug"]
+author:
+ - "marius"
 ---
 
 # OTRS ignoriert fehlende Datenbank-Berechtigungen im System-Protokoll

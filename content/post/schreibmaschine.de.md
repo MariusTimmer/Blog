@@ -7,6 +7,8 @@ tags: ["Technik"]
 draft: false
 images:
   - "/img/schreibmaschine.webp"
+author:
+ - "marius"
 ---
 
 Vorgeschichte

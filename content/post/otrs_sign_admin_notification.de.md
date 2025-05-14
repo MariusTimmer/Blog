@@ -10,6 +10,8 @@ keywords:
  - "S/MIME"
 images:
  - "/img/logo_envelope.webp"
+author:
+ - "marius"
 ---
 
 ## Was genau ist eigentlich mein Problem?

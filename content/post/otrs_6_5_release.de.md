@@ -6,6 +6,8 @@ draft: false
 date: "2023-09-27T12:00:00+01:00"
 keywords: ["OTRS", "Znuny", "LTS-Release"]
 tags: ["Technik", "OTRS"]
+author:
+ - "marius"
 ---
 
 Wie ich in [vorherigen Beiträgen](/post/znunyotrslts2023) schon schrieb, ist die bisherige LTS-Version von OTRS (_6.0_) seit dem Jahreswechsel abgekündigt worden und der Nachfolger (_6.5_) angekündigt worden. Offiziell war die bisherige Version nocht unterstützt, bis zum Release von 6.5.

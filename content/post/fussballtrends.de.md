@@ -1,10 +1,11 @@
 ---
 title: "Fußball Trends"
 description: "Fußball ist größer als gedacht"
-author: "Marius Timmer"
 keywords: ["Fussball", "Fußball", "BVB", "Borussia Dortmund", "S04", "Schalke", "Vereine", "Trends"]
 date: "2019-11-27T12:53:42+01:00"
 draft: false
+author:
+ - "marius"
 ---
 
 Wer mich kennt, der weiß, dass sich mein Interesse für Fußball sehr zurück hält. Wenn ich neue Leute treffe, wird gerne mal gefragt, welchem Verein ich denn Angehören würde. Hier in der Region sind typischerweise die am weitesten verbreitetsten: [Borussia Dortmund (_BVB_)](https://www.bvb.de/) und [Schalke 04 (_S04_)](https://schalke04.de/). Wenn ich dann antworte, dass ich absolut nichts mit Fußball am Hut habe, wird meinem Gegenüber schnell klar, dass man sich auf diesem Feld wohl nicht näher kennen lernen kann - Schade aber auch.

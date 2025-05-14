@@ -7,6 +7,8 @@ tags: ["Uploadfilter", "Politik"]
 draft: false
 keywords: ["Technik", "Politik", "Uploadfilter", "Artikel 13", "EU", "Julia Reda", "Manfred Weber", "Köln"]
 video: "k_X_xHKULoM"
+author:
+ - "marius"
 ---
 
 # Mal wieder Köln

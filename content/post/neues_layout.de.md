@@ -3,6 +3,8 @@ title: "Neues Layout"
 date: "2019-11-23T14:08:21+01:00"
 tags: ["Technik"]
 keywords: ["Technik", "Blog", "Hugo", "Theme", "Bootstrap", "FontAwesome"]
+author:
+ - "marius"
 ---
 
 Nach einiger Zeit (_wobei ich gar nicht genau weiß wie lange_) war es meiner Meinung nach mal wieder an der Zeit für einen neuen Look meines Blogs. Als erstes sollte auffallen, dass nun alles dunkel ist. Somit sind nun nicht mehr nur die IDEs und Terminals in denen ich arbeite dunkel, sondern auch endlich mein Blog.

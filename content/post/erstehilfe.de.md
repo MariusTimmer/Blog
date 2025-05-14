@@ -1,10 +1,11 @@
 ---
 title: "Erste Hilfe"
 description: "Wie schnell man erste Hilfe anwenden können muss und dann doch absolut nichts weiß"
-author: "Marius Timmer"
 keywords: ["Erste Hilfe", "Krankenwagen", "Ohnmacht", "Notruf", "Notarzt", "Krankenwagen"]
 date: "2020-03-25T19:00:00+01:00"
 draft: false
+author:
+ - "marius"
 ---
 
 In Deutschland muss jeder Mann und jede Frau den Erste Hilfe Kurs besuchen um einen Führerschein zu bekommen. Dementsprechend habe auch ich diesen Kurs absolviert. Da ich den Führerschein aber schon seit neun Jahren habe und den Kurs damals in der zehnten Schulklasse bekommen habe, könnte man sagen, dass das ein oder andere etwas eingerostet ist. Das wurde mir letzte Woche noch einmal auf dramatische Art und Weise bewusst.

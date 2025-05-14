@@ -7,6 +7,8 @@ icon: "hand-comments"
 tags: ["Politik"]
 keywords: ["Corona", "COVID-19", "Politik", "Maskenpflicht", "Schule", "Kinder"]
 draft: false
+author:
+ - "marius"
 ---
 
 Die Welle ist da

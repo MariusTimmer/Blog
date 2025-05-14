@@ -6,6 +6,8 @@ date: "2019-09-10T20:00:00+02:00"
 tags: ["Politik"]
 keywords: ["Politik", "Laer", "WN", "Westfälische Nachrichten", "Leserbrief", "Uwe Veltrup", "Facebook", "Maier"]
 draft: false
+author:
+ - "marius"
 ---
 
 Mein Leserbrief

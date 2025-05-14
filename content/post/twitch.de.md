@@ -2,8 +2,9 @@
 date: "2018-02-04T04:32:35+01:00"
 draft: false
 title: "Jetzt twitche ich auch"
-author: "Marius Timmer"
 tags: ["Twitch", "Stream"]
+author:
+ - "marius"
 ---
 
 Wie so oft hänge ich den Trends hinter her. In den meisten Fällen ist das auch gut so, weil ich gar nicht so scharf darauf bin mit dem Trend zu gehen. Ich mache es eher abhängig davon, wie gut es mir gefällt. Unter Anderem habe ich in den letzten Wochen viel Zeit damit verbracht/vergeudet, diversen Streamern hauptsächlich beim Spielen zuzusehen.
