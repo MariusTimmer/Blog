@@ -4,6 +4,8 @@ description: "Im Rahmen der Blog Wochen 2025 habe ich mir die Frage gestellt, wo
 summary: "Leider dominieren soziale Netzwerke wie TikTok, YouTube, Instagram und co. heutzutage das Internet. Eigentlich hat jeder, der online ist oder war, irgendwo einen Account. Da stellt sich die Frage, welche Rolle Blogs heutzutage eigentlich noch haben. Schließlich stammen sie im Kontext des Internets aus der Steinzeit, oder?"
 draft: false
 date: "2025-06-17T22:52:22+02:00"
+tags:
+  - "BlogWochen2025"
 keywords:
  - "BlogWochen2025"
  - "Blogging"
