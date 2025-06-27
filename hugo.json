@@ -98,7 +98,12 @@
       }
     }
   },
+  "copyright": "Marius Timmer",
   "params": {
+    "author": {
+      "email": "admin@mariustimmer.de",
+      "name": "Marius Timmer"
+    },
     "show_credits": false,
     "copyright": "Marius Timmer",
     "opengraph": true,
