@@ -33,10 +33,15 @@
     <webMaster>{{ with $authorName }}{{ . }}{{ end }}</webMaster>{{ with .Site.Copyright }}
     <copyright>{{ . }}</copyright>{{ end }}{{ if not .Date.IsZero }}
     <lastBuildDate>{{ (index $pages.ByLastmod.Reverse 0).Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    <image>
+        <url>/favicon.png</url>
+	<title>{{ .Title }}</title>
+	<link>{{ .Permalink }}</link>
+    </image>
     {{- with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end }}
-    {{- range (where .Site.Pages ".Section" "post" ) }}
+    {{- range (where $pages ".Section" "post" ) }}
     {{- if ne .Title "Posts" }}
     <item>
       <title>{{ .Title }}</title>
@@ -44,7 +49,7 @@
       <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <author>{{ with $authorName }}{{ . }}{{ end }}</author>
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
+      <description>{{ .Content | transform.XMLEscape | safeHTML }}<hr />Ich find's cool, dass du RSS benutzt ;-)</description>
     </item>
     {{- end }}
     {{- end }}
