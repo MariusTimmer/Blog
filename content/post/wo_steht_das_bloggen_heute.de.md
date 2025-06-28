@@ -14,6 +14,8 @@ keywords:
  - "TikTok"
  - "YouTube Shorts"
  - "Microblogging"
+information:
+ - "blogwochen2025"
 ---
 
 ## Ein Wandel

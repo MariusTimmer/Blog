@@ -9,11 +9,11 @@ tags:
 keywords:
  - "Blog"
  - "Community"
-author:
- - "marius"
+information:
+ - "blogwochen2025"
 ---
 
-Die Frage, wieso **ich** eigentlich noch blogge stelle ich mir selbst tatsächlich häufiger. Schließlich monatarisiere ich meinen Blog nicht und habe durch die Abwesenheit einer Kommentarfunktion auch nicht so einen Austausch, wie es anderswo üblich ist. Und dennoch setze ich mich seit fast fünfzehn Jahren immer wieder an den Laptop und schreibe drauf los. Häufig auch ohne zu wissen, ob es überhaupt jemanden gibt, der meine Texte liest. Am Ende ist das für mich aber gar nicht so wichtig - oder ich rede es mir zumindest ein.
+Die Frage, wieso **ich** eigentlich noch blogge stelle ich mir selbst tatsächlich häufiger. Schließlich monetarisiere ich meinen Blog nicht und habe durch die Abwesenheit einer Kommentarfunktion auch nicht so einen Austausch, wie es anderswo üblich ist. Und dennoch setze ich mich seit fast fünfzehn Jahren immer wieder an den Laptop und schreibe drauf los. Häufig auch ohne zu wissen, ob es überhaupt jemanden gibt, der meine Texte liest. Am Ende ist das für mich aber gar nicht so wichtig - oder ich rede es mir zumindest ein.
 
 Dass die Überschrift **wir** anstatt **ich** sagt, zeigt aber auch schon mal, dass es trotzdem eine Art Gemeinschaft gibt. In diesem Beitrag spreche ich nur von mir, da ich nur für mich selbst sprechen kann. Das **wir** steht dort aber, weil dies eine Frage ist, die in diesen Tagen von einer Reihe von Bloggern beantwortet wird.
 
@@ -43,7 +43,3 @@ Und aller Erwartungen zum Trotze stelle ich doch mehr und mehr fest, dass Leute 
 
 ## Der Blick in die Zukunft
 Für meinen Teil kann ich versprechen, dass ich meinem Blog auch in den kommenden Jahren treu bleiben werde. Welche Änderungen es geben wird, steht auf einem anderen Blatt. Vermutlich haben sämtliche Leser meines Blogs sowieso auch einen Eigenen, solltest ausgerechnet du, lieber Leser, aber noch keinen eigenen Blog haben, kann ich nur dazu raten, es auszuprobieren. Und wenn du die ersten Gehversuche mit Blogspot oder sonst etwas machst. Mit der Zeit lernt man einiges dazu und man stellt fest, dass so ein eigener Blog niemals "_abgeschlossen_" ist.
-
-
----
-Diesen Beitrag habe ich im Rahmen des Projektes [#BlogWochen2025](/tags/blogwochen2025) geschrieben, worübr ich [neulich schon schrieb](/post/blogwochen2025). Mehr Informationen dazu könnt ihr auch in [Roberts Blog](https://nureinblog.at/54063-im-mai-beginnen-die-blogwochen/) finden.

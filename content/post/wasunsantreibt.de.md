@@ -9,11 +9,9 @@ tags:
 keywords:
  - "Motivation zu bloggen"
  - "Toxische Soziale Medien"
-author:
- - "marius"
+information:
+ - "blogwochen2025"
 ---
-
-Diesen Beitrag schreibe ich wieder im Rahmen der [BlogWochen2025](/tags/blogwochen2025), weswegen die Überschrift im Plural gehalten ist. Mehr zu dem Projekt findet ihr [hier](https://nureinblog.at/54063-im-mai-beginnen-die-blogwochen/).
 
 Als ich mir das [letzte Mal](/post/warumbloggenwireigentlichnoch/) Gedanken dazu gemacht habe, wieso ich eigentlich noch immer blogge, habe ich auch schon einen Großteil meiner Motivation dargelegt. Aber sicherlich schadet es nicht, noch einmal darauf einzugehen.
 

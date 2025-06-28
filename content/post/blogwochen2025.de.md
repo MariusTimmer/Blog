@@ -6,8 +6,8 @@ date: "2025-05-05T18:15:21+02:00"
 draft: false
 tags:
  - "BlogWochen2025"
-author:
- - "marius"
+information:
+ - "blogwochen2025"
 ---
 
 ## Wie ich bisher gebloggt habe
@@ -23,7 +23,7 @@ sich dafür interessieren, wie ich vielleicht mal ein Problem in der Software
 angegangen bin.
 
 Auch wenn mir einige von euch also Input gegeben haben, ging die Kommunikation
-bisher, mit einigen Ausnahmen, trotzdem meistens in eine Richtung. 
+bisher, mit einigen Ausnahmen, trotzdem meistens in eine Richtung.
 
 ## Auf der Suche nach neuen Blogs
 Vor einigen Tagen habe ich mich dann mal im Internet nach deutschsprachigen

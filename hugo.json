@@ -104,6 +104,9 @@
       "email": "admin@mariustimmer.de",
       "name": "Marius Timmer"
     },
+    "post_meta": [
+      "date"
+    ],
     "show_credits": false,
     "copyright": "Marius Timmer",
     "opengraph": true,
