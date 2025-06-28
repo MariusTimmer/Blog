@@ -175,7 +175,7 @@
   },
   "services": {
     "rss": {
-      "limit": -1
+      "limit": 10
     }
   },
   "taxonomies": {
