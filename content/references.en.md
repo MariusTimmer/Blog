@@ -3,7 +3,6 @@ date: "2019-01-29T20:26:17+01:00"
 draft: false
 title: "My references"
 description: "A summary about all relevant thing I've done in the past"
-author: "Marius Timmer"
 priority: "0.9"
 ---
 
@@ -29,7 +28,7 @@ start writing those packages.
 
 In addition, I participate at a few meetings of German universities and other
 high schools in the whole country to exchange our knowledge regarding out own
-plugins or the way I administrate our system (_like updating the source, etc._). 
+plugins or the way I administrate our system (_like updating the source, etc._).
 
 This is a short list of the plugins I've written:
 

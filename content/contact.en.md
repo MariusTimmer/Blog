@@ -2,7 +2,6 @@
 title: "Contact"
 date: "2025-05-05T22:37:24+02:00"
 draft: false
-author: "Marius Timmer"
 images:
   - "https://mariustimmer.de/img/timmer_small.webp"
 description: "The easiest way to get in touch with me it so send me a oldschool mail."

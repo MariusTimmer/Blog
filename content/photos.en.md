@@ -4,7 +4,6 @@ description: "I started taking photos with my camera some time ago. I could spen
 date: "2019-11-23T12:00:00+01:00"
 lastmod: "2024-05-07T14:05:00+01:00"
 draft: false
-author: "Marius Timmer"
 keywords: ["Photography", "Canon", "Olympus", "Exposure time", "Münster"]
 images: ["https://mariustimmer.de/img/photos/disko_zoo_large.webp"]
 priority: "1.0"

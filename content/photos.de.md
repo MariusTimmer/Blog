@@ -4,7 +4,6 @@ description: "Vor einiger Zeit habe ich mit dem Fotografieren angefangen. Das da
 date: "2019-11-23T12:00:00+01:00"
 lastmod: "2021-12-07T14:05:00+01:00"
 draft: false
-author: "Marius Timmer"
 keywords: ["Fotografie", "Canon", "Olympus", "Belichtung", "Nacht Fotografie", "Zoo", "Lichter", "Münster"]
 images: ["https://mariustimmer.de/img/photos/disko_zoo_large.webp"]
 priority: "1.0"

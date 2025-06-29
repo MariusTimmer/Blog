@@ -2,7 +2,6 @@
 title: "Kontakt"
 date: "2025-05-05T22:37:24+02:00"
 draft: false
-author: "Marius Timmer"
 images:
   - "https://mariustimmer.de/img/timmer_small.webp"
 description: "Um am einfachsten Kontakt mit mir aufzunehmen, kannst du mir eine klassische E-Mail schreiben."
