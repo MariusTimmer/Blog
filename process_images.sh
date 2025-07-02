@@ -7,6 +7,10 @@ BASE_ALL="${BASE_JPGS} ${BASE_PNGS}"
 WIDTH_SMALL=480
 WIDTH_MEDIUM=960
 WIDTH_LARGE=1920
+CONVERT=magick
+if [ -z "$(which ${CONVERT})" ]; then
+  CONVERT=/usr/bin/convert
+fi
 
 for BASEFILE in ${BASE_ALL}; do
     FILENAME=$(basename "${BASEFILE}")
@@ -15,7 +19,7 @@ for BASEFILE in ${BASE_ALL}; do
         echo " - ${FILENAME::-4} wird nicht mehr benutzt"
         continue
     fi
-    WIDTH=$(magick ${BASEFILE} -print "%w\n" /dev/null)
+    WIDTH=$(${CONVERT} ${BASEFILE} -print "%w\n" /dev/null)
     SHORTEN_BASEFILE=${BASEFILE::-4}
     FILENAME_NORMAL=${SHORTEN_BASEFILE}.webp
     FILENAME_SMALL=${SHORTEN_BASEFILE}_small.webp
@@ -23,21 +27,21 @@ for BASEFILE in ${BASE_ALL}; do
     FILENAME_LARGE=${SHORTEN_BASEFILE}_large.webp
     echo " - Verarbeite \"${BASEFILE}\" (${WIDTH} px Breite)"
     if [ ! -f "${FILENAME_NORMAL}" ]; then
-        magick "${BASEFILE}" "${FILENAME_NORMAL}"
+        ${CONVERT} "${BASEFILE}" "${FILENAME_NORMAL}"
     fi
     if [ "${WIDTH}" -gt "${WIDTH_SMALL}" ]; then
         if [ ! -f "${FILENAME_SMALL}" ]; then
-            magick \
+            ${CONVERT} \
                 "${BASEFILE}" \
                 -geometry "${WIDTH_SMALL}x" \
-                -quality "30%" \
+                -quality 30 \
                 "${FILENAME_SMALL}"
             echo "    - Small Version erzeugt"
         fi
     fi
     if [ "${WIDTH}" -gt "${WIDTH_MEDIUM}" ]; then
         if [ ! -f "${FILENAME_MEDIUM}" ]; then
-            magick \
+            ${CONVERT} \
                 "${BASEFILE}" \
                 -geometry "${WIDTH_MEDIUM}x" \
                 -quality "40%" \
@@ -47,7 +51,7 @@ for BASEFILE in ${BASE_ALL}; do
     fi
     if [ "${WIDTH}" -gt "${WIDTH_LARGE}" ]; then
         if [ ! -f "${FILENAME_LARGE}" ]; then
-            magick \
+            ${CONVERT} \
                 "${BASEFILE}" \
                 -geometry "${WIDTH_LARGE}x" \
                 -quality "60%" \
