@@ -16,7 +16,15 @@ images:
  - "/img/merz_bundestag_regenbogen.webp"
 ---
 
-![Ein Junger Friedrich Merz zusammen mit einer gehissten Regenbogen-Flagge über dem Reichstag](/img/merz_bundestag_regenbogen.webp)
+<figure role="group">
+    <img
+        alt="Ein Junger Friedrich Merz zusammen mit einer gehissten Regenbogen-Flagge über dem Reichstag"
+        srcset="/img/merz_bundestag_regenbogen_small.webp 480w,
+                /img/merz_bundestag_regenbogen_medium.webp 940w"
+        src="/img/merz_bundestag_regenbogen.webp"
+        />
+    <figcaption>Friedrich war auch mal jung</figcaption>
+</figure>
 
 Es ist kein Geheimnis, dass ich kein großer Freund von Friedrich Merz bin.
 Politisch überzeugt er mich nicht und die CDU / Union ist weit von meinen
