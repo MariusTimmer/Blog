@@ -1,20 +1,51 @@
-image: hugomods/hugo
+stages:
+  - build
+  - deploy
 
-before_script:
-  - apk add imagemagick libwebp libjpeg bash git
-  - git submodule update --init --remote --recursive themes/mainroad
-  - ./process_images.sh
-
-build:
+.build_site:
+  image: hugomods/hugo
+  before_script:
+    - apk add imagemagick libwebp libjpeg bash git
+    - git submodule update --init --remote --recursive themes/mainroad
+    - ./process_images.sh
   script:
-    - hugo --cleanDestinationDir --gc --ignoreCache --minify
+    - hugo --baseURL "${BASE_URL}" --cleanDestinationDir --gc --ignoreCache --minify
   artifacts:
     paths:
       - public/
+      - put.sh
 
 pages:
+  stage: build
+  extends: .build_site
+  variables:
+    BASE_URL: https://mtimm_01.zivgitlabpages.uni-muenster.de/blog/
+
+build_production:
+  stage: build
+  extends: .build_site
+  variables:
+    BASE_URL: https://mariustimmer.de/
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+deploy_production:
+  stage: deploy
+  image: debian:latest
+  needs: [ 'build_production' ]
+  variables:
+    GIT_STRATEGY: none
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   script:
-    - hugo --baseURL "https://mtimm_01.zivgitlabpages.uni-muenster.de/blog/" --cleanDestinationDir --gc --ignoreCache --minify
-  artifacts:
-    paths:
-      - public/
+    - which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )
+    - apt-get install rsync -y
+    - mkdir -p ~/.ssh
+    - eval $(ssh-agent -s)
+    - echo "mariustimmer.de ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJO6VP4XzNqs4gt827S3iXHAHVhYejCG9dwdp5mwy9/D" > ~/.ssh/known_hosts
+    - echo "${SSH_PRIVATE_KEY}" > ~/.ssh/blog.key && chmod 0600 ~/.ssh/blog.key
+    - echo -e "Host nytlora\n\tHostName mariustimmer.de\n\tUser timmer\n\tAddressFamily inet\n\tIdentityFile ~/.ssh/blog.key" > ~/.ssh/config
+    - /usr/bin/ssh nytlora /usr/bin/sudo /bin/chown -R timmer:timmer /var/www/blog/
+    - /usr/bin/rsync -r --delete --update ./public/ nytlora:/var/www/blog
+    - /usr/bin/ssh nytlora /usr/bin/sudo /bin/chown -R www-data:www-data /var/www/blog/
+    - rm ~/.ssh/blog.key
