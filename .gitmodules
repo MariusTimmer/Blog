@@ -1,4 +1,4 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
-    url = ../hugo-mainroad.git
+    url = ../Mainroad.git
     branch = feature_heading
