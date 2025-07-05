@@ -3,7 +3,7 @@ title: "Reddit und das Rate Limit für RSS-Feeds"
 description: "Das Ratelimit von Reddit für RSS-Anfragen muss kaputt sein"
 summary: "Schon mehrfach habe ich angedeutet, dass ich **RSS-Feeds liebe** und versuche, meinen Internet-Konsum mehr und mehr darauf umzustellen. Praktischerweise bietet Reddit zu jedem Account und jeder Community einen eigenen RSS-Feed. Ich kann also beidem folgen, ohne einen Reddit-Account zu haben. Allerdings scheint es **nicht in Ordnung** zu sein, wenn ich mein RSS-Feed **einmal pro Stunde** nach Neuigkeiten guckt."
 draft: false
-date: "2025-07-05T22:14:25+02:00"
+date: "2025-07-05T23:54:25+02:00"
 keywords:
  - "RSS-Feeds"
  - "Reddit"
