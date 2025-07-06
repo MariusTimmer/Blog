@@ -43,7 +43,7 @@ deploy_production:
     - mkdir -p ~/.ssh
     - eval $(ssh-agent -s)
     - echo "mariustimmer.de ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJO6VP4XzNqs4gt827S3iXHAHVhYejCG9dwdp5mwy9/D" > ~/.ssh/known_hosts
-    - echo "${SSH_PRIVATE_KEY}" > ~/.ssh/blog.key && chmod 0600 ~/.ssh/blog.key
+    - echo $SSH_PRIVATE_KEY > ~/.ssh/blog.key && chmod 0600 ~/.ssh/blog.key
     - echo -e "Host nytlora\n\tHostName mariustimmer.de\n\tUser timmer\n\tAddressFamily inet\n\tIdentityFile ~/.ssh/blog.key" > ~/.ssh/config
     - /usr/bin/ssh nytlora /usr/bin/sudo /bin/chown -R timmer:timmer /var/www/blog/
     - /usr/bin/rsync -r --delete --update ./public/ nytlora:/var/www/blog
