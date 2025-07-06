@@ -42,9 +42,9 @@ deploy_production:
     - apt-get install rsync -y
     - mkdir -p ~/.ssh
     - eval $(ssh-agent -s)
-    - echo "mariustimmer.de ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJO6VP4XzNqs4gt827S3iXHAHVhYejCG9dwdp5mwy9/D" > ~/.ssh/known_hosts
-    - echo $SSH_PRIVATE_KEY > ~/.ssh/blog && chmod 0600 ~/.ssh/blog
-    - echo $SSH_PUBLIC_KEY > ~/.ssh/blog.pub && chmod 0644 ~/.ssh/blog.pub
+    - echo -e "$KNOWN_HOSTS" > ~/.ssh/known_hosts && /bin/chmod 0644 ~/.ssh/known_hosts
+    - echo -e "$SSH_PRIVATE_KEY" > ~/.ssh/blog && /bin/chmod 0600 ~/.ssh/blog
+    - echo "$SSH_PUBLIC_KEY" > ~/.ssh/blog.pub && /bin/chmod 0644 ~/.ssh/blog.pub
     - echo -e "Host nytlora\n\tHostName nytlora.mariustimmer.de\n\tUser timmer\n\tAddressFamily inet\n\tIdentityFile ~/.ssh/blog" > ~/.ssh/config
     - cat ~/.ssh/known_hosts
     - cat ~/.ssh/blog
