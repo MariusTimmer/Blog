@@ -15,11 +15,12 @@ stages:
       - public/
       - put.sh
 
-pages:
-  stage: build
-  extends: .build_site
-  variables:
-    BASE_URL: https://mtimm_01.zivgitlabpages.uni-muenster.de/blog/
+# Disabled due to a too large file size to be hosted as pages
+#pages:
+#  stage: build
+#  extends: .build_site
+#  variables:
+#    BASE_URL: https://mtimm_01.zivgitlabpages.uni-muenster.de/blog/
 
 build_production:
   stage: build
