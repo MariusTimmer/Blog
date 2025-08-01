@@ -12,7 +12,7 @@ tags:
  - "Technik"
 ---
 
-Auch wenn ich diesen Blog schon seit Jahren betreibe und mit neuen Artikeln füttere, habe ich erst vor einigen Monaten, durch die Blog Wochen, den Blick über den Tellerrand gewagt. Erst dadurch habe ich mir im größeren Stil andere Blogs ernsthaft angesehen, deren Artikel gelesen und mich auch teilweise aktiv in Kontakt mit den Betreibern gesetzt. Das gab dem alten Hobby plötzlich eine ganz neue Dynamik, was mir echt gefällt.
+Auch wenn ich diesen Blog schon seit Jahren betreibe und mit neuen Artikeln füttere, habe ich erst vor einigen Monaten, durch die [Blog Wochen](/tags/blogwochen2025), den Blick über den Tellerrand gewagt. Erst dadurch habe ich mir im größeren Stil andere Blogs ernsthaft angesehen, deren Artikel gelesen und mich auch teilweise aktiv in Kontakt mit den Betreibern gesetzt. Das gab dem alten Hobby plötzlich eine ganz neue Dynamik, was mir echt gefällt.
 
 Als ich heute Abend gelesen habe, dass [Micha Roenbaum zu Hugo gewechselt](https://rosetree.de/blog/2025/welcome-hugo/) ist, fiel mir auf, dass dies nicht der erste Blog ist, von dem ich mitbekomme, dass er innerhalb des letzten Jahres zu [Hugo](https://gohugo.io/) gewechselt ist. Mir gefällt, dass es mit WordPress nicht einen Standard fürs Blogging gibt. Vielfalt ist eine gute Sache. Gerade die vielen Unterschiede und überhaupt nicht vereinheitlichten Blogs sind immer wieder ein Highlight für mich.
 
