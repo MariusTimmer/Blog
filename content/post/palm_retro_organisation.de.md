@@ -3,6 +3,7 @@ title: "Den Alltag mit einem Palm organisieren"
 description: "Zwei Jahrzehnte nach der PDA-Revolution fange ich endlich auch mit meinem ersten Palm an."
 summary: "Vermutlich wissen nur noch echte Technik-Veteranen, was ein Palm (_oder ganz allgemein ein PDA_) ist. Wirklich verwunderlich ist das nicht, wenn man bedenkt, dass diese Geräte ihren Peak vor zwanzig Jahren hatten und auch sofort wieder durch Smartphones abgelöst wurden. Nun habe ich selbst ein Palm und habe keine Angst, ihn auch zu nutzen."
 date: "2025-07-31T13:50:14+02:00"
+lastmod: "2025-08-01T15:00:00+02:00"
 draft: false
 keywords:
  - "Palm m515 PDA"
@@ -81,3 +82,6 @@ Entgegen aller Vernunft führe ich den Palm inzwischen täglich mit mir und sorg
 Das ist jetzt sehr subjektiv, aber irgendwie habe ich ein gestörtes Verhältnis zu meinem Handy: Das Klingeln beim Eintreffen von Nachrichten oder Benachrichtigungen geht mir immer mehr auf die Nerven. Der Palm ist anders: Wenn er ein Geräusch von sich gibt, ist dies immer Zeitgesteuert und ich weiß, es steht ein Termin an, oder irgendeine Deadline läuft gerade ab.
 
 Außerdem ist der Palm immer ein Gesprächsopener: Leute fangen an zu lachen, wenn sie dieses Stück veraltete zeitgeschichte sehen.
+
+## Nachtrag zur Akku-Laufzeit
+Gestern [erwähnte Robert einen Punkt zum Thema Akku-Laufzeit](https://microblog.at/@roblen/114948535863959809), an den ich noch nicht groß gedacht habe. Aber natürlich hat er recht: PDAs stammen aus einer Zeit, in denen es normal war, dass der Akku mehrere Tage gehalten hat, bis man wieder laden musste. Das hatte ich schon völlig verdrängt. Aber die Erinnerung an mein erstes Nokia-Handy, bei dem eine Ladung für die gesamte Woche reichte, kam direkt wieder hoch. Nach 72 Stunden kann ich sagen, dass der Akku-Stand immerhin schon nur noch bei 86% lag - schockierend!
