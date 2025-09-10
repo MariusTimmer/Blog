@@ -2,7 +2,7 @@
 title: "Arbeiten im ICE bei 250 km/h"
 description: "Durch eine Dienstreise nach München war ich einen Tag lang im Zug unterwegs und habe von dort gearbeitet"
 summary: "Mobiles Arbeiten im ICE bei 250 km/h ist eine sehr spannende Sache. Auch wenn das Internet gerne mal abbricht und das alles nichts mit ergonomischem Arbeiten zu tun hat, habe ich die Fahrt echt genossen. Der Ausblick aus dem Fenster war auch spannender wie das Nachmittagsprogramm im TV."
-date: "2025-09-10T19:30:00+02:00"
+date: "2025-09-10T19:10:00+02:00"
 draft: false
 keywords:
  - "Mobiles Arbeiten"
@@ -19,7 +19,9 @@ Mehrfach wurde mir auch klar, wie leise der ganze Zug eigentlich war. Vor allem 
 Ich habe auch einen starken Verdacht, dass die Züge gar nicht so leise, sondern nur sehr gut Schallisoliert sind, aber dennoch faszinierte mich das immer wieder.
 
 ## Mobiles Arbeiten
-Damit ich nicht einen ganzen Arbeitstag an Zeit verliere, ohne dafür bezahlt zu werden, setzte ich mich an den Rechner und beantwortete Mails, koordinierte einen kleinen Austausch zu OTRS und tat die Dinge, die ansonsten schnell mal unter den Tisch fallen. Durch eine Sitzplatz-Reservierung musste ich mir auch keine Sorgen machen, dass ich sechs Stunden im Gang stehen muss. Mein Platz war im Ruhe-Abteil - sehr angenehm. Die Hälfte der hier sitzenden Leute arbeitete ebenfalls am Laptop. Die anderen waren zumeist schlauer und hatten einen Platz an einem richtigen Tisch, wodurch sie nicht wie ich am runterklappbaren Brettchen arbeiten mussten. ~~Leider gab es an meinem Platz keine Steckdose, weswegen es (_gerade gegen Ende_) ein Spiel gegen die Zeit wurde. Bisher war ich immer davon ausgegangen, dass es massig Steckdosen geben würde - Das war wohl ein Trugschluss.~~ Und das war einfach Blind von mir. Denn beim Aussteigen bemerkte ich, dass es eine Steckdose unten zwischen den beiden Sitzen gab. Ich fühlte mich etwas dumm.
+Damit ich nicht einen ganzen Arbeitstag an Zeit verliere, ohne dafür bezahlt zu werden, setzte ich mich an den Rechner und beantwortete Mails, koordinierte einen kleinen Austausch zu OTRS und tat die Dinge, die ansonsten schnell mal unter den Tisch fallen. Durch eine Sitzplatz-Reservierung musste ich mir auch keine Sorgen machen, dass ich sechs Stunden im Gang stehen muss. Mein Platz war im Ruhe-Abteil - sehr angenehm. Die Hälfte der hier sitzenden Leute arbeitete ebenfalls am Laptop.
+
+Die anderen waren zumeist schlauer und hatten einen Platz an einem richtigen Tisch, wodurch sie nicht wie ich am runterklappbaren Brettchen arbeiten mussten. ~~Leider gab es an meinem Platz keine Steckdose, weswegen es (_gerade gegen Ende_) ein Spiel gegen die Zeit wurde. Bisher war ich immer davon ausgegangen, dass es massig Steckdosen geben würde - Das war wohl ein Trugschluss.~~ Und das war einfach Blind von mir. Denn beim Aussteigen bemerkte ich, dass es eine Steckdose unten zwischen den beiden Sitzen gab. Ich fühlte mich etwas dumm.
 
 ## Spannendes Gefühl
 Reisen ist immer aufregend. Mit der Bahn ist es (_wer hätte das gedacht_) nicht anders. Aber ich hatte echt Spaß bei der Arbeit. Nach jeder abgeschlossenen Aufgabe sah ich aus dem Fenster und seh eine neue Großstadt. Dabei kann ich direkt mal erwähnen, dass ich recht froh bin, **nicht bei Frankfurt Flughafen** ausgestiegen zu sein - schön ist das da nicht. Diese Vielfalt an immer wieder neuen Orten half auch ein wenig über den Fakt hinweg, dass ich nach vier Stunden leichte Rückenschmerzen bekam. Wer hätte nur gedacht, dass dies kein Ergonomisches Arbeiten ist.
