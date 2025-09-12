@@ -7,6 +7,8 @@ draft: false
 keywords:
  - "Mobiles Arbeiten"
  - "ICE"
+tags:
+ - "Reisen"
 ---
 
 [Gestern erzählte ich davon](/bahnpreise), dass ich diese Woche auf Dienstreise in Garching unterwegs bin. Und auch, wenn ich den Preis für die ICE-Fahrt noch immer frech finde, muss ich sagen, bin ich doh begeistert von der Fahrt ansich.

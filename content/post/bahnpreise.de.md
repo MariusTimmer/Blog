@@ -9,6 +9,8 @@ keywords:
  - "Dienstreise"
  - "Intercity Express"
  - "Ticket-Preise"
+tags:
+ - "Reisen"
 ---
 
 ## Es geht nach München
