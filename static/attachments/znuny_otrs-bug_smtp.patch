@@ -1,0 +1,639 @@
+diff --git a/CHANGES.md b/CHANGES.md
+index aa4bb6eb9d..7fe27d128d 100644
+--- a/CHANGES.md
++++ b/CHANGES.md
+@@ -1,3 +1,6 @@
++# 6.5.18 2025-09-24
++ - 2025-09-22 Fixed: Fix for installer email setting checks lead to issues with sending emails.
++
+ # 6.5.17 2025-09-17
+  - 2025-09-05 Fixed: Deleting a valid Webservice should not be possible.
+  - 2025-09-02 Fixed: Updated date picker highlight styles for better readability
+diff --git a/Kernel/Language/ar_SA.pm b/Kernel/Language/ar_SA.pm
+index b1787bc9de..fb9ca371c7 100644
+--- a/Kernel/Language/ar_SA.pm
++++ b/Kernel/Language/ar_SA.pm
+@@ -9640,6 +9640,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/bg.pm b/Kernel/Language/bg.pm
+index 4984d9c367..5e7f5bbcec 100644
+--- a/Kernel/Language/bg.pm
++++ b/Kernel/Language/bg.pm
+@@ -9638,6 +9638,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/ca.pm b/Kernel/Language/ca.pm
+index c5d9f5acae..a8fba74721 100644
+--- a/Kernel/Language/ca.pm
++++ b/Kernel/Language/ca.pm
+@@ -9638,6 +9638,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/cs.pm b/Kernel/Language/cs.pm
+index 29d1caf6bb..6615a6d5d9 100644
+--- a/Kernel/Language/cs.pm
++++ b/Kernel/Language/cs.pm
+@@ -9644,6 +9644,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/da.pm b/Kernel/Language/da.pm
+index ebe402c639..a60a55dd11 100644
+--- a/Kernel/Language/da.pm
++++ b/Kernel/Language/da.pm
+@@ -9640,6 +9640,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/de.pm b/Kernel/Language/de.pm
+index a015cc9b2e..5717a5b870 100644
+--- a/Kernel/Language/de.pm
++++ b/Kernel/Language/de.pm
+@@ -9647,6 +9647,7 @@ Ihr Helpdesk-Team
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/el.pm b/Kernel/Language/el.pm
+index f3cff2f067..e7180c79f5 100644
+--- a/Kernel/Language/el.pm
++++ b/Kernel/Language/el.pm
+@@ -9643,6 +9643,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/en_CA.pm b/Kernel/Language/en_CA.pm
+index 5669f00526..afbbf4151a 100644
+--- a/Kernel/Language/en_CA.pm
++++ b/Kernel/Language/en_CA.pm
+@@ -9643,6 +9643,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/en_GB.pm b/Kernel/Language/en_GB.pm
+index 97d7165b64..bdfeac5044 100644
+--- a/Kernel/Language/en_GB.pm
++++ b/Kernel/Language/en_GB.pm
+@@ -9651,6 +9651,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/es.pm b/Kernel/Language/es.pm
+index f052fc19e8..c9951aeb6c 100644
+--- a/Kernel/Language/es.pm
++++ b/Kernel/Language/es.pm
+@@ -9661,6 +9661,7 @@ Tu Equipo de Soporte
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/es_CO.pm b/Kernel/Language/es_CO.pm
+index b760259a2d..bb4491be3d 100644
+--- a/Kernel/Language/es_CO.pm
++++ b/Kernel/Language/es_CO.pm
+@@ -9638,6 +9638,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/es_MX.pm b/Kernel/Language/es_MX.pm
+index 3dc081f31c..d4103189fa 100644
+--- a/Kernel/Language/es_MX.pm
++++ b/Kernel/Language/es_MX.pm
+@@ -9648,6 +9648,7 @@ Tu Equipo de Soporte
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/et.pm b/Kernel/Language/et.pm
+index 960b395229..7e6b14d886 100644
+--- a/Kernel/Language/et.pm
++++ b/Kernel/Language/et.pm
+@@ -9637,6 +9637,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/fa.pm b/Kernel/Language/fa.pm
+index 64e0280486..92cf836bd6 100644
+--- a/Kernel/Language/fa.pm
++++ b/Kernel/Language/fa.pm
+@@ -9654,6 +9654,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/fi.pm b/Kernel/Language/fi.pm
+index 6817195d74..58fadc463c 100644
+--- a/Kernel/Language/fi.pm
++++ b/Kernel/Language/fi.pm
+@@ -9640,6 +9640,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/fr.pm b/Kernel/Language/fr.pm
+index 6ff3c7efb9..6e1b2bc196 100644
+--- a/Kernel/Language/fr.pm
++++ b/Kernel/Language/fr.pm
+@@ -9646,6 +9646,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/fr_CA.pm b/Kernel/Language/fr_CA.pm
+index fb008fbbfc..d9b64ee2d6 100644
+--- a/Kernel/Language/fr_CA.pm
++++ b/Kernel/Language/fr_CA.pm
+@@ -9645,6 +9645,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/gl.pm b/Kernel/Language/gl.pm
+index 8803679113..c957ca5bca 100644
+--- a/Kernel/Language/gl.pm
++++ b/Kernel/Language/gl.pm
+@@ -9637,6 +9637,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/he.pm b/Kernel/Language/he.pm
+index d6483865f9..b0066784e8 100644
+--- a/Kernel/Language/he.pm
++++ b/Kernel/Language/he.pm
+@@ -9643,6 +9643,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/hi.pm b/Kernel/Language/hi.pm
+index 945dbcd6c8..5235bc3736 100644
+--- a/Kernel/Language/hi.pm
++++ b/Kernel/Language/hi.pm
+@@ -9640,6 +9640,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/hr.pm b/Kernel/Language/hr.pm
+index e2c3294861..7f80c29f6c 100644
+--- a/Kernel/Language/hr.pm
++++ b/Kernel/Language/hr.pm
+@@ -9641,6 +9641,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/hu.pm b/Kernel/Language/hu.pm
+index 9521d2a5ee..df1610e1ad 100644
+--- a/Kernel/Language/hu.pm
++++ b/Kernel/Language/hu.pm
+@@ -9654,6 +9654,7 @@ Az Ön segélyszolgálat csapata
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/id.pm b/Kernel/Language/id.pm
+index 2ae9b96659..2971cdb5a1 100644
+--- a/Kernel/Language/id.pm
++++ b/Kernel/Language/id.pm
+@@ -9651,6 +9651,7 @@ Helpdesk Team Anda
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/it.pm b/Kernel/Language/it.pm
+index d8f739f129..d80874ffaa 100644
+--- a/Kernel/Language/it.pm
++++ b/Kernel/Language/it.pm
+@@ -9661,6 +9661,7 @@ Il tuo helpdesk.
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/ja.pm b/Kernel/Language/ja.pm
+index f2f5937b62..068dc0a75d 100644
+--- a/Kernel/Language/ja.pm
++++ b/Kernel/Language/ja.pm
+@@ -9663,6 +9663,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/ko.pm b/Kernel/Language/ko.pm
+index a8ff4e78bc..cc22a62a1b 100644
+--- a/Kernel/Language/ko.pm
++++ b/Kernel/Language/ko.pm
+@@ -9648,6 +9648,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/lt.pm b/Kernel/Language/lt.pm
+index 675e0e702f..9586b6dbae 100644
+--- a/Kernel/Language/lt.pm
++++ b/Kernel/Language/lt.pm
+@@ -9637,6 +9637,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/lv.pm b/Kernel/Language/lv.pm
+index 0bf01f95f4..9a3552687a 100644
+--- a/Kernel/Language/lv.pm
++++ b/Kernel/Language/lv.pm
+@@ -9637,6 +9637,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/mk.pm b/Kernel/Language/mk.pm
+index d7657d0498..0066d71657 100644
+--- a/Kernel/Language/mk.pm
++++ b/Kernel/Language/mk.pm
+@@ -9637,6 +9637,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/ms.pm b/Kernel/Language/ms.pm
+index 8ec8bc3466..374976c8b3 100644
+--- a/Kernel/Language/ms.pm
++++ b/Kernel/Language/ms.pm
+@@ -9650,6 +9650,7 @@ Kumpulan MejaBantuan Anda
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/nb_NO.pm b/Kernel/Language/nb_NO.pm
+index 1c4f1e5f9a..628da081f6 100644
+--- a/Kernel/Language/nb_NO.pm
++++ b/Kernel/Language/nb_NO.pm
+@@ -9646,6 +9646,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/nl.pm b/Kernel/Language/nl.pm
+index 7aad1c1f13..9e3e34791a 100644
+--- a/Kernel/Language/nl.pm
++++ b/Kernel/Language/nl.pm
+@@ -9654,6 +9654,7 @@ Het Helpdesk Team
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/pl.pm b/Kernel/Language/pl.pm
+index 455e18d9e9..ca66043fd9 100644
+--- a/Kernel/Language/pl.pm
++++ b/Kernel/Language/pl.pm
+@@ -9652,6 +9652,7 @@ Twój Zespół Helpdesk.
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/pt.pm b/Kernel/Language/pt.pm
+index 616560acb7..e917164f34 100644
+--- a/Kernel/Language/pt.pm
++++ b/Kernel/Language/pt.pm
+@@ -9652,6 +9652,7 @@ Devemos voltar a estar online dentro de momentos.',
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/pt_BR.pm b/Kernel/Language/pt_BR.pm
+index 8df3ad1664..9da84b4fe3 100644
+--- a/Kernel/Language/pt_BR.pm
++++ b/Kernel/Language/pt_BR.pm
+@@ -9653,6 +9653,7 @@ Obrigado pela ajuda!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/ro.pm b/Kernel/Language/ro.pm
+index b967790b75..f6803846bc 100644
+--- a/Kernel/Language/ro.pm
++++ b/Kernel/Language/ro.pm
+@@ -9637,6 +9637,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/ru.pm b/Kernel/Language/ru.pm
+index 82fede8202..6aaf063167 100644
+--- a/Kernel/Language/ru.pm
++++ b/Kernel/Language/ru.pm
+@@ -9660,6 +9660,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/sk_SK.pm b/Kernel/Language/sk_SK.pm
+index 6807187089..d6f875a039 100644
+--- a/Kernel/Language/sk_SK.pm
++++ b/Kernel/Language/sk_SK.pm
+@@ -9637,6 +9637,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/sl.pm b/Kernel/Language/sl.pm
+index 8a4a35d419..e28ec10aa2 100644
+--- a/Kernel/Language/sl.pm
++++ b/Kernel/Language/sl.pm
+@@ -9641,6 +9641,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/sr_Cyrl.pm b/Kernel/Language/sr_Cyrl.pm
+index bb84523059..dd3de8bd71 100644
+--- a/Kernel/Language/sr_Cyrl.pm
++++ b/Kernel/Language/sr_Cyrl.pm
+@@ -9648,6 +9648,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/sr_Latn.pm b/Kernel/Language/sr_Latn.pm
+index 703ca9d132..8596136844 100644
+--- a/Kernel/Language/sr_Latn.pm
++++ b/Kernel/Language/sr_Latn.pm
+@@ -9654,6 +9654,7 @@ Vaša tehnička podrška
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/sv.pm b/Kernel/Language/sv.pm
+index 2e72cc367f..754aadfbcd 100644
+--- a/Kernel/Language/sv.pm
++++ b/Kernel/Language/sv.pm
+@@ -9640,6 +9640,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/sw.pm b/Kernel/Language/sw.pm
+index 4d8383168f..b4bfb98359 100644
+--- a/Kernel/Language/sw.pm
++++ b/Kernel/Language/sw.pm
+@@ -9643,6 +9643,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/th_TH.pm b/Kernel/Language/th_TH.pm
+index 7e99bf5196..4313815439 100644
+--- a/Kernel/Language/th_TH.pm
++++ b/Kernel/Language/th_TH.pm
+@@ -9654,6 +9654,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/tr.pm b/Kernel/Language/tr.pm
+index 85b9a35e0f..a4d5c6da48 100644
+--- a/Kernel/Language/tr.pm
++++ b/Kernel/Language/tr.pm
+@@ -9637,6 +9637,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/uk.pm b/Kernel/Language/uk.pm
+index 8fc96dfd85..a28a42f636 100644
+--- a/Kernel/Language/uk.pm
++++ b/Kernel/Language/uk.pm
+@@ -9638,6 +9638,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/vi_VN.pm b/Kernel/Language/vi_VN.pm
+index e43f9353f8..949dfd78e3 100644
+--- a/Kernel/Language/vi_VN.pm
++++ b/Kernel/Language/vi_VN.pm
+@@ -9636,6 +9636,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/zh_CN.pm b/Kernel/Language/zh_CN.pm
+index e678acca1c..8601e9829d 100644
+--- a/Kernel/Language/zh_CN.pm
++++ b/Kernel/Language/zh_CN.pm
+@@ -9654,6 +9654,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/Language/zh_TW.pm b/Kernel/Language/zh_TW.pm
+index dbcd618a2a..186fa65c05 100644
+--- a/Kernel/Language/zh_TW.pm
++++ b/Kernel/Language/zh_TW.pm
+@@ -9642,6 +9642,7 @@ Thanks for your help!
+         'Status',
+         'Stream',
+         'Su',
++        'Successful',
+         'Sun',
+         'Sunday',
+         'Support Bundle',
+diff --git a/Kernel/System/Email/SMTP.pm b/Kernel/System/Email/SMTP.pm
+index 690b430d66..b39b91791a 100644
+--- a/Kernel/System/Email/SMTP.pm
++++ b/Kernel/System/Email/SMTP.pm
+@@ -61,8 +61,8 @@ sub Check {
+         return %LocalParam;
+     };
+ 
+-    my $ReturnSuccess = sub { return $Return->( @_, Successful => 1, ); };
+-    my $ReturnError   = sub { return $Return->( @_, Successful => 0, ); };
++    my $ReturnSuccess = sub { return $Return->( @_, Success => 1, Successful => 1, ); };
++    my $ReturnError   = sub { return $Return->( @_, Success => 0, Successful => 0, ); };
+ 
+     # get config object
+     my $ConfigObject = $Kernel::OM->Get('Kernel::Config');
+diff --git a/Kernel/System/Email/Sendmail.pm b/Kernel/System/Email/Sendmail.pm
+index e7c0ad8ced..f2bda2e10d 100644
+--- a/Kernel/System/Email/Sendmail.pm
++++ b/Kernel/System/Email/Sendmail.pm
+@@ -231,6 +231,7 @@ sub Check {
+     }
+ 
+     return (
++        Success    => 1,
+         Successful => 1,
+         Sendmail   => $Sendmail,
+     );
+diff --git a/var/httpd/htdocs/js/Core.Installer.js b/var/httpd/htdocs/js/Core.Installer.js
+index 809457bac0..2a158bb8f3 100644
+--- a/var/httpd/htdocs/js/Core.Installer.js
++++ b/var/httpd/htdocs/js/Core.Installer.js
+@@ -124,7 +124,7 @@ Core.Installer = (function (TargetNS) {
+     function CheckMailConfigCallback(json) {
+         if (parseInt(json.Successful, 10) === 1) {
+             Core.UI.Dialog.ShowAlert(
+-                Core.Language.Translate('An Error Occurred'),
++                Core.Language.Translate('Successful'),
+                 Core.Language.Translate('Mail check successful.')
+             );
+             $('fieldset.errormsg').hide();
